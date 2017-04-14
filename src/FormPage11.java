@@ -1,3 +1,5 @@
+
+
 import java.awt.BasicStroke;
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -24,7 +26,7 @@ import javax.swing.SwingConstants;
 import javax.swing.table.DefaultTableModel;
 import java.sql.Connection;
 
-public class FormPage {
+public class FormPage11 {
 
 	JPanel TablePanel;
 	JPanel ButtonsPanel;
@@ -40,7 +42,7 @@ public class FormPage {
 	DataFetch d;
 	DefaultTableModel resultTable;
 
-	public FormPage(int qNo, String queryString, Connection con) {
+	public FormPage11(int qNo, String queryString, Connection con) {
 		// System.out.println( "Hello");
 		FormPanel = new JPanel();
 		// resultTable = new DefaultTableModel();
@@ -67,28 +69,28 @@ public class FormPage {
 		ParamPanel.setLayout(new GridBagLayout());
 
 		final JTextField paramField1 = new JTextField();
-//		final JTextField paramField2 = new JTextField();
-//		final JTextField paramField3 = new JTextField();
-//		final JTextField paramField4 = new JTextField();
+		final JTextField paramField2 = new JTextField();
+		final JTextField paramField3 = new JTextField();
+		final JTextField paramField4 = new JTextField();
 
 		JLabel paramLabel1 = new JLabel("Field 1:", SwingConstants.LEFT);
-//		JLabel paramLabel2 = new JLabel("Field 2:", SwingConstants.LEFT);
-//		JLabel paramLabel3 = new JLabel("Field 3:", SwingConstants.LEFT);
-//		JLabel paramLabel4 = new JLabel("Field 4:", SwingConstants.LEFT);
+		JLabel paramLabel2 = new JLabel("Field 2:", SwingConstants.LEFT);
+		JLabel paramLabel3 = new JLabel("Field 3:", SwingConstants.LEFT);
+		JLabel paramLabel4 = new JLabel("Field 4:", SwingConstants.LEFT);
 
 		paramLabel1.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		paramLabel1.setForeground(Color.cyan);
-//		paramLabel2.setFont(new Font("Century Gothic", Font.PLAIN, 12));
-//		paramLabel2.setForeground(Color.cyan);
-//		paramLabel3.setFont(new Font("Century Gothic", Font.PLAIN, 12));
-//		paramLabel3.setForeground(Color.cyan);
-//		paramLabel4.setFont(new Font("Century Gothic", Font.PLAIN, 12));
-//		paramLabel4.setForeground(Color.cyan);
+		paramLabel2.setFont(new Font("Century Gothic", Font.PLAIN, 12));
+		paramLabel2.setForeground(Color.cyan);
+		paramLabel3.setFont(new Font("Century Gothic", Font.PLAIN, 12));
+		paramLabel3.setForeground(Color.cyan);
+		paramLabel4.setFont(new Font("Century Gothic", Font.PLAIN, 12));
+		paramLabel4.setForeground(Color.cyan);
 
 		paramLabel1.setPreferredSize(new Dimension(80, 20));
-//		paramLabel2.setPreferredSize(new Dimension(80, 20));
-//		paramLabel3.setPreferredSize(new Dimension(80, 20));
-//		paramLabel4.setPreferredSize(new Dimension(80, 20));
+		paramLabel2.setPreferredSize(new Dimension(80, 20));
+		paramLabel3.setPreferredSize(new Dimension(80, 20));
+		paramLabel4.setPreferredSize(new Dimension(80, 20));
 
 		GridBagConstraints gbc = new GridBagConstraints();
 		gbc.gridx = 0;
@@ -108,29 +110,29 @@ public class FormPage {
 
 		ParamPanel.add(paramField1, gbc);
 
-//		gbc.gridy++;
-//		gbc.insets = new Insets(10, 60, 10, 40);
-//		ParamPanel.add(paramLabel2, gbc);
-//
-//		gbc.gridy++;
-//		gbc.insets = new Insets(10, 60, 10, 40);
-//		ParamPanel.add(paramField2, gbc);
-//
-//		gbc.gridy++;
-//		gbc.insets = new Insets(10, 60, 10, 40);
-//		ParamPanel.add(paramLabel3, gbc);
-//
-//		gbc.gridy++;
-//		gbc.insets = new Insets(10, 60, 10, 40);
-//		ParamPanel.add(paramField3, gbc);
-//
-//		gbc.gridy++;
-//		gbc.insets = new Insets(10, 60, 10, 40);
-//		ParamPanel.add(paramLabel4, gbc);
-//
-//		gbc.gridy++;
-//		gbc.insets = new Insets(10, 60, 10, 40);
-//		ParamPanel.add(paramField4, gbc);
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramLabel2, gbc);
+
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramField2, gbc);
+
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramLabel3, gbc);
+
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramField3, gbc);
+
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramLabel4, gbc);
+
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramField4, gbc);
 
 		ParamPanel.setBorder(BorderFactory.createStrokeBorder(new BasicStroke(5.0f)));
 		ParamPanel.setBackground(Color.DARK_GRAY);

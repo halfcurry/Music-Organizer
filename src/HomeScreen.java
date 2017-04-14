@@ -5,6 +5,8 @@ import javax.swing.border.TitledBorder;
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 public class HomeScreen {
 
@@ -160,6 +162,90 @@ public class HomeScreen {
 		ParamPanel.setBorder(BorderFactory.createStrokeBorder(new BasicStroke(5.0f)));
 	}
 
+	void GetForm(int currentQueryNumber) {
+		// FormPage q = new FormPage(currentQueryNumber, currentQueryString,
+		// con);
+		// JFrame currentFrame = q.MakeForm();
+		// HomeFrame.dispose();
+		// currentFrame.setVisible(true);
+
+		if (currentQueryNumber == 1) {
+			FormPage1 q = new FormPage1(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+
+		} else if (currentQueryNumber == 2) {
+			FormPage2 q = new FormPage2(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 3) {
+			FormPage3 q = new FormPage3(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 4) {
+			FormPage4 q = new FormPage4(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 5) {
+			FormPage5 q = new FormPage5(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 6) {
+			FormPage6 q = new FormPage6(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 7) {
+			FormPage7 q = new FormPage7(currentQueryNumber, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 8) {
+			FormPage8 q = new FormPage8(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 9) {
+			FormPage9 q = new FormPage9(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		}
+
+		else if (currentQueryNumber == 10) {
+			FormPage10 q = new FormPage10(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 11) {
+			FormPage11 q = new FormPage11(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 12) {
+			FormPage12 q = new FormPage12(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 13) {
+			FormPage13 q = new FormPage13(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		} else if (currentQueryNumber == 14) {
+			FormPage14 q = new FormPage14(currentQueryNumber, currentQueryString, con);
+			JFrame currentFrame = q.MakeForm();
+			HomeFrame.dispose();
+			currentFrame.setVisible(true);
+		}
+
+	}
+
 	void MakeButtons() {
 
 		ButtonsPanel = new JPanel();
@@ -199,11 +285,11 @@ public class HomeScreen {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
-				FormPage q = new FormPage(currentQueryNumber, currentQueryString, con);
-				JFrame currentFrame = q.MakeForm();
-				HomeFrame.dispose();
-				currentFrame.setVisible(true);
-
+				if (currentQueryNumber == -1) {
+					System.out.println("enter query proper");
+				} else {
+					GetForm(currentQueryNumber);
+				}
 			}
 
 		});
@@ -247,13 +333,14 @@ public class HomeScreen {
 		QueryPanel = new JPanel();
 		QueryPanel.setLayout(new GridBagLayout());
 
-		JRadioButton query1 = new JRadioButton("1.Top n songs of a particular year.");
-		JRadioButton query2 = new JRadioButton("2.Top n songs of all time.");
-		JRadioButton query3 = new JRadioButton("3.Top n songs of a particular period of time.");
-		JRadioButton query4 = new JRadioButton("4.Top n songs in US/UK.");
+		JRadioButton query1 = new JRadioButton("1.Top n songs of all time.");
+		JRadioButton query2 = new JRadioButton("2.Top n songs of a particular period of time.");
+		JRadioButton query3 = new JRadioButton("3.Top n songs of a particular artist.");
+		JRadioButton query4 = new JRadioButton("4.Top n songs in US/Eur.");
 		JRadioButton query5 = new JRadioButton("5.Top n songs of a particular genre.");
-		JRadioButton query6 = new JRadioButton("6.Top n albums in US/UK.");
-		JRadioButton query7 = new JRadioButton("7.Top n albums of an artist.");
+		JRadioButton query6 = new JRadioButton("6.Websites to find a particular product and the Owner Artist is "
+				+ " from a particular town");
+		JRadioButton query7 = new JRadioButton("7.Songs of a particular genre with size less than x mb.");
 		JRadioButton query8 = new JRadioButton("8.Top n artists of a particular year worldwide. ");
 		JRadioButton query9 = new JRadioButton("9.Top n artists of a particular year in US/UK.");
 		JRadioButton query10 = new JRadioButton("10.Top n songs grouped by genre.");
@@ -375,8 +462,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query1.isSelected()) {
 					currentQueryNumber = 1;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=1;";
-
 				}
 			}
 
@@ -389,7 +474,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query2.isSelected()) {
 					currentQueryNumber = 2;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=2;";
 				}
 			}
 
@@ -402,7 +486,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query3.isSelected()) {
 					currentQueryNumber = 3;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=3;";
 				}
 			}
 
@@ -415,7 +498,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query4.isSelected()) {
 					currentQueryNumber = 4;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -428,7 +510,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query5.isSelected()) {
 					currentQueryNumber = 5;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -441,7 +522,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query6.isSelected()) {
 					currentQueryNumber = 6;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -454,7 +534,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query7.isSelected()) {
 					currentQueryNumber = 7;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 

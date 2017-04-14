@@ -12,7 +12,7 @@ public class Run {
 			e.printStackTrace();
 		}
 		try {
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/musicorganizer", "root", "gubi");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/musicorganizer", "root", "notroot");
 			System.out.println("Connection made!");
 			// got connection, now create a new HomeScreen Object
 			HomeScreen gui = new HomeScreen(con);

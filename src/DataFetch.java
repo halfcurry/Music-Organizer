@@ -15,20 +15,24 @@ public class DataFetch {
 
 			retrievedData = new ArrayList<ArrayList<String>>();
 			Statement stmt = con.createStatement();
+			System.out.println();
 			ResultSet rs = stmt.executeQuery(queryString);
 			ResultSetMetaData rsmd = rs.getMetaData();
+			int columnCount = rsmd.getColumnCount();
+			//System.out.println(columnCount);
 			while (rs.next()) {
-				retrievedRow.add(rs.getString(1));
-				retrievedRow.add(rs.getString(2));
-				retrievedRow.add(rs.getString(3));
+				for( int i = 1; i <= columnCount; i++ ){
+					//System.out.println(rs.getString(i));
+					retrievedRow.add(rs.getString(i));
+				}
+				
+//				retrievedRow.add(rs.getString(2));
+//				retrievedRow.add(rs.getString(3));
 
 				retrievedData.add(retrievedRow);
 				retrievedRow = new ArrayList<String>();
 
 			}
-			
-			int columnCount = rsmd.getColumnCount();
-			
 			for( int i = 1; i <= columnCount; i++ ){
 				columnNames.add(rsmd.getColumnName(i));
 			}
