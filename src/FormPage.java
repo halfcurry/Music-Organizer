@@ -158,7 +158,8 @@ public class FormPage {
 		TablePanel.setLayout(new BorderLayout());
 		String[][] dataMatrix = RetrieveData();
 
-		String[] columnNames = { "equipID", "name", "date", };
+		String[] columnNames = dataMatrix[dataMatrix.length-1];
+		dataMatrix[dataMatrix.length-1] = null;
 		resultTable = new DefaultTableModel(columnNames, 0);
 		resultTable.setRowCount(0);
 
