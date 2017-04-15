@@ -170,7 +170,7 @@ public class FormPage2 {
 	public String[][] RetrieveData( Integer startyear, Integer endyear, Integer n ) {
 		DataFetch d = new DataFetch();
 		System.out.println("Fetching data");
-		String s1="SELECT song.SongID,artist.ArtistName, song.SongName, year FROM performs join song ";
+		String s1="SELECT song.SongID,artist.ArtistName, song.SongName,song.SongScore, year FROM performs join song ";
 		String s2="join artist on performs.ArtistID = artist.ArtistID and performs.SongID = song.SongID ";
 		String s3="and year between " + startyear + " and " + endyear + " order by SongScore desc limit " + n + ";";
 		queryString = s1+s2+s3;

@@ -12,7 +12,7 @@ public class Run {
 			e.printStackTrace();
 		}
 		try {
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/musicorganizer", "root", "notroot");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/musicorganizer", "root", "gubi");
 			System.out.println("Connection made!");
 			
 			LoginPage Logger = new  LoginPage(con);

@@ -109,7 +109,7 @@ public class FormPage5 {
 		paramField2 = new JTextField();
 		
 		JLabel paramLabel1 = new JLabel("Enter n:", SwingConstants.LEFT);
-		JLabel paramLabel2 = new JLabel("Enter Artist name:", SwingConstants.LEFT);
+		JLabel paramLabel2 = new JLabel("Enter Genre:", SwingConstants.LEFT);
 
 		paramLabel1.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		paramLabel1.setForeground(Color.cyan);
@@ -161,20 +161,10 @@ public class FormPage5 {
 	public String[][] RetrieveData( Integer n, String name ) {
 		DataFetch d = new DataFetch();
 		System.out.println("Fetching data");
-		String s1 = "SELECT song.SongID ,song.SongName , artist.ArtistName FROM performs join song ";
-		String s2 = "join artist on performs.ArtistID = artist.ArtistID and ";
-		String s3 = "performs.SongID = song.SongID";
-		String s4 = " and artist.ArtistName = \"" + name + "\"";
-		String s5 = " order by SongScore desc limit " + n + ";";
-		queryString = s1 + s2 + s3 + s4 + s5;
-		System.out.println(queryString);
-		try {
-			PreparedStatement statement = con.prepareStatement(queryString);
-			statement.setString(1, "Cliff Richard");
-		} catch (SQLException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
+		queryString = "SELECT song.SongID, song.SongName,song.ArtistName, song.SongScore FROM BelongstoGenre join song \n" + 
+				"join Genre on BelongstoGenre.SongID = song.SongID and BelongstoGenre.GenreID = Genre.GenreID\n" + 
+				" and Genre.GenreName = \"" + name + "\"" + " order by SongScore desc\n" + 
+				"limit " + n +";";
 		System.out.println(queryString);
 		ArrayList<ArrayList<String>> dataArrayList = d.ReturnData(queryString, con);
 		String[][] dataMatrix = new String[dataArrayList.size()][];

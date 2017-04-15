@@ -160,7 +160,7 @@ public class FormPage3 {
 	public String[][] RetrieveData( Integer n, String name ) {
 		DataFetch d = new DataFetch();
 		System.out.println("Fetching data");
-		String s1 = "SELECT song.SongID ,song.SongName , artist.ArtistName FROM performs join song ";
+		String s1 = "SELECT song.SongID ,song.SongName,song.SongScore, song.Year FROM performs join song ";
 		String s2 = "join artist on performs.ArtistID = artist.ArtistID and ";
 		String s3 = "performs.SongID = song.SongID";
 		String s4 = " and artist.ArtistName = \"" + name + "\"";
@@ -169,7 +169,6 @@ public class FormPage3 {
 		System.out.println(queryString);
 		try {
 			PreparedStatement statement = con.prepareStatement(queryString);
-			statement.setString(1, "Cliff Richard");
 		} catch (SQLException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
