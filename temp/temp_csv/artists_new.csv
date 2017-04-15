@@ -1,0 +1,3998 @@
+ArtistID,ArtistName,ArtistScore,Gender,Hometown
+1,"The Beatles",1177.6808,M,Kentucky
+2,"Elvis Presley",963.0309,F,"North Dakota"
+3,"The Rolling Stones",771.6269,M,Vermont
+4,"Frank Sinatra",631.9340,F,Missouri
+5,Madonna,553.6865,F,Alabama
+6,"Bob Dylan",525.1258,M,Connecticut
+7,"Elton John",498.2116,F,Connecticut
+8,U2,458.9224,F,"West Virginia"
+9,"Michael Jackson",412.6561,F,Pennsylvania
+10,"Bruce Springsteen",402.3729,F,Michigan
+11,"Bing Crosby",372.4666,M,Kansas
+12,Prince,371.7958,F,"New York"
+13,"Rod Stewart",366.5635,M,Indiana
+14,"David Bowie",359.9615,M,Connecticut
+15,Queen,348.9453,F,Colorado
+16,"Pink Floyd",346.6878,F,Idaho
+17,"Bee Gees",342.1534,F,"South Dakota"
+18,"Cliff Richard",330.6023,M,Massachusetts
+19,"Led Zeppelin",312.8873,F,Louisiana
+20,Abba,312.2455,F,Idaho
+21,"Mariah Carey",294.3636,F,Wyoming
+22,"Barbra Streisand",292.1230,F,Indiana
+23,REM,288.1648,F,Massachusetts
+24,"Nat King Cole",286.1580,M,Texas
+25,"The Beach Boys",284.9657,M,Delaware
+26,"Bon Jovi",284.7563,F,Colorado
+27,"Celine Dion",273.3965,M,Alaska
+28,"Neil Young",260.8958,F,California
+29,"Duke Ellington",251.6767,F,Mississippi
+30,"Neil Diamond",248.7739,F,Mississippi
+31,"Whitney Houston",246.8533,M,Louisiana
+32,"Louis Armstrong",246.6314,F,"New York"
+33,Santana,246.6029,M,"West Virginia"
+34,"Glenn Miller",245.2954,F,Iowa
+35,"Paul Whiteman",244.5133,F,Alabama
+36,"Phil Collins",243.0723,M,Tennessee
+37,"Stevie Wonder",239.7986,F,Tennessee
+38,"Eric Clapton",233.9256,M,MaineMaryland
+39,"The Who",232.7266,F,Illinois
+40,"Miles Davis",232.7041,F,MaineMaryland
+41,Eminem,229.1095,M,Mississippi
+42,"Depeche Mode",225.8922,M,Iowa
+43,Metallica,225.4675,M,Texas
+44,AC/DC,224.4999,M,Wisconsin
+45,"Fleetwood Mac",220.8384,F,Wisconsin
+46,"Billy Joel",219.7201,M,Montana
+47,"John Lennon",219.5864,M,Minnesota
+48,"Simon & Garfunkel",219.3108,M,Mississippi
+49,Genesis,213.7097,M,Oklahoma
+50,"James Last",212.6319,M,Delaware
+51,"Deep Purple",206.6831,F,Wyoming
+52,"Ray Charles",206.6411,F,Missouri
+53,"Johnny Cash",205.8826,M,Utah
+54,"Jimi Hendrix",205.0368,F,Nevada
+55,"Perry Como",203.9174,M,Ohio
+56,"Paul McCartney",202.7666,M,Colorado
+57,Eagles,199.7948,F,Alaska
+58,"Dire Straits",195.5597,M,Minnesota
+59,"Iron Maiden",195.3743,M,Michigan
+60,Chicago,194.0859,F,Massachusetts
+61,"Britney Spears",190.1265,F,Pennsylvania
+62,Disney,187.1982,F,"West Virginia"
+63,"Red Hot Chili Peppers",185.2863,F,Georgia
+64,"Janet Jackson",183.3978,M,Connecticut
+65,"Bryan Adams",183.2859,M,Connecticut
+66,Aerosmith,179.9274,F,Kentucky
+67,Sting,176.0384,F,"Rhode Island"
+68,"Pearl Jam",175.5535,M,"West Virginia"
+69,"Johnny Mathis",175.4543,M,Kentucky
+70,"Creedence Clearwater Revival",171.3709,M,Mississippi
+71,Wings,169.0643,F,Indiana
+72,"Donna Summer",168.2273,M,Virginia
+73,"Jethro Tull",167.2436,M,Arkansas
+74,"Tom Jones",166.9219,F,Colorado
+75,"The Cure",166.7092,F,Minnesota
+76,Radiohead,166.4139,M,Nevada
+77,"Guns n' Roses",166.1323,F,Ohio
+78,"The Police",164.4754,M,MaineMaryland
+79,"Bob Marley",163.9773,M,Montana
+80,"Paul Simon",162.0678,M,"New Jersey"
+81,"George Michael",161.3413,M,"West Virginia"
+82,"Igor Stravinsky",160.6912,M,"South Dakota"
+83,"Van Morrison",160.5337,M,Montana
+84,"The Pet Shop Boys",160.4669,F,Arizona
+85,"The Doors",159.2914,F,Wisconsin
+86,"Diana Ross",158.9406,M,Idaho
+87,"Aretha Franklin",158.8861,F,Oklahoma
+88,"Guy Lombardo",158.2788,M,Hawaii
+89,"Status Quo",156.3556,M,Nebraska
+90,"Van Halen",155.1410,F,Missouri
+91,Oasis,154.7385,M,"South  Carolina"
+92,"Ella Fitzgerald",154.1476,M,Alabama
+93,"John Coltrane",154.0418,M,Nebraska
+94,"Robbie Williams",153.6221,F,"New Hampshire"
+95,"The Backstreet Boys",152.6288,M,"South Dakota"
+96,"The Kinks",151.8914,F,Hawaii
+97,"Roy Orbison",151.6492,M,Michigan
+98,Nirvana,151.2863,M,Idaho
+99,Coldplay,150.3180,F,Indiana
+100,"Andy Williams",147.7335,M,"New Jersey"
+101,"Elvis Costello",146.8660,F,Wisconsin
+102,"Electric Light Orchestra",146.6846,M,Hawaii
+103,"The Shadows",146.6571,M,Illinois
+104,"Cat Stevens",146.4618,M,Indiana
+105,"Green Day",146.3600,M,"South  Carolina"
+106,"Mike Oldfield",145.7121,M,Connecticut
+107,Kiss,145.3771,M,Hawaii
+108,"Herb Alpert",144.9233,M,Missouri
+109,"The Carpenters",143.6381,F,Alaska
+110,"Benny Goodman",142.1736,M,California
+111,"Joe Cocker",141.7779,M,Georgia
+112,"James Brown",139.6439,F,Mississippi
+113,"Simply Red",139.2416,M,"South Dakota"
+114,"The Moody Blues",138.9024,F,Utah
+115,"Jim Reeves",138.3833,M,Alaska
+116,"Tina Turner",137.1815,F,California
+117,"Lionel Richie",136.4042,F,Wisconsin
+118,"Boney M",135.9397,F,Idaho
+119,"The Eurythmics",135.2435,F,Missouri
+120,"Dean Martin",133.0963,F,"Rhode Island"
+121,"Alanis Morissette",132.5027,F,Wyoming
+122,"Duran Duran",132.3740,M,Oregon
+123,"Peter Gabriel",131.6502,F,"North Carolina"
+124,Supertramp,131.5983,M,Ohio
+125,"Al Jolson",131.2828,M,Colorado
+126,"Kylie Minogue",127.9161,M,"West Virginia"
+127,Yes,127.6814,M,Florida
+128,Roxette,127.5676,M,Wisconsin
+129,"The Temptations",125.3290,M,Hawaii
+130,"Black Sabbath",125.0222,M,Wisconsin
+131,"Def Leppard",124.5324,M,Illinois
+132,"Barry Manilow",123.9524,M,Pennsylvania
+133,"Tom Petty & The Heartbreakers",123.4367,M,Arkansas
+134,"Earth Wind & Fire",122.9566,M,Washington
+135,"Simple Minds",122.3973,M,"South  Carolina"
+136,INXS,121.3118,F,Georgia
+137,"George Harrison",120.4372,F,Louisiana
+138,Cher,119.9391,F,Washington
+139,Rush,119.8709,M,MaineMaryland
+140,"Julio Iglesias",118.3176,F,"New Jersey"
+141,"The Everly Brothers",117.3807,M,Utah
+142,"Glee Cast",117.3629,F,Florida
+143,"Garth Brooks",116.8338,F,Delaware
+144,"Johnny Hallyday",116.5644,F,Montana
+145,Meatloaf,116.1661,M,Washington
+146,Blondie,115.4035,M,Wyoming
+147,Pink,114.7870,M,Washington
+148,UB40,114.4782,M,Arizona
+149,Mina,113.0051,M,Nevada
+150,"Tony Bennett",112.9544,M,Vermont
+151,"Alice Cooper",112.8674,M,"New Jersey"
+152,"Judy Garland",112.6815,F,Massachusetts
+153,Beyonce,112.3019,M,Michigan
+154,"Tommy Dorsey",111.3879,M,Alabama
+155,"Linkin Park",111.3357,M,Kansas
+156,"Frank Zappa",111.0096,F,Virginia
+157,"Henry Mancini",110.6961,M,Hawaii
+158,"ZZ Top",110.6843,M,Louisiana
+159,"The Beastie Boys",110.4922,M,Massachusetts
+160,Enya,110.2983,M,Delaware
+161,"Kenny Rogers",110.2965,F,Tennessee
+162,"Lenny Kravitz",109.7438,M,"North Carolina"
+163,"Roxy Music",109.4964,M,Nevada
+164,"Billie Holiday",109.1735,F,Hawaii
+165,"Doris Day",109.1303,M,Arkansas
+166,"Marvin Gaye",109.1262,M,"New Mexico"
+167,"Andrea Bocelli",108.7909,F,Kansas
+168,"The Hollies",108.5420,M,Nebraska
+169,"R Kelly",108.3462,M,Nevada
+170,"The Monkees",108.1708,F,"New York"
+171,Sade,108.0840,M,Idaho
+172,"The Black Eyed Peas",107.3357,M,"New Jersey"
+173,"John Denver",106.8493,M,Delaware
+174,Usher,106.8231,M,"North Carolina"
+175,Foreigner,106.6681,M,"New Hampshire"
+176,"Ben Selvin",106.6627,M,"New York"
+177,"Talking Heads",106.0756,M,Kentucky
+178,"Harry Belafonte",105.2774,M,Mississippi
+179,"Jennifer Lopez",105.0512,M,Alaska
+180,Mantovani,104.4408,F,Wisconsin
+181,"Olivia Newton-John",103.0480,M,"New Mexico"
+182,"Chris Rea",103.0228,M,Colorado
+183,"Connie Francis",102.7183,M,"South  Carolina"
+184,"Frankie Laine",102.3607,M,Massachusetts
+185,"The Smashing Pumpkins",102.1814,M,Hawaii
+186,"The Kingston Trio",102.0110,M,Idaho
+187,"Fats Domino",101.8743,F,"North Dakota"
+188,"Kate Bush",101.7212,F,Vermont
+189,"Ray Conniff",101.5899,M,Oregon
+190,"Pat Boone",101.0934,F,"New Jersey"
+191,"Engelbert Humperdinck",100.8152,M,Vermont
+192,Rihanna,100.7075,F,Oklahoma
+193,"The Alan Parsons Project",100.5216,F,Georgia
+194,"John Cougar Mellencamp",99.9100,F,"New York"
+195,"Christina Aguilera",99.8710,F,Alaska
+196,"Otis Redding",99.7068,M,Mississippi
+197,"The Scorpions",99.3657,F,Massachusetts
+198,Jay-Z,99.3551,F,Wyoming
+199,"Thelonious Monk",99.3141,F,Florida
+200,Slade,99.2993,F,Wyoming
+201,"Avril Lavigne",99.0246,M,"New York"
+202,"Shirley Bassey",98.7959,F,MaineMaryland
+203,"Francisco Alves",98.7857,M,Colorado
+204,"Bob Seger & The Silver Bullet Band",98.6591,F,"Rhode Island"
+205,A-Ha,98.5561,M,Tennessee
+206,"The Smurfs",98.4734,M,Hawaii
+207,"Linda Ronstadt",97.9222,M,Delaware
+208,"Shania Twain",97.8089,M,Massachusetts
+209,"The Jackson 5",97.7548,F,Louisiana
+210,"Paul Anka",97.5096,M,Louisiana
+211,"The Smiths",96.8349,M,MaineMaryland
+212,"The Foo Fighters",96.8240,F,Wyoming
+213,"Buddy Holly",96.1546,M,"Rhode Island"
+214,"Billy Murray",95.8890,F,"North Dakota"
+215,"Michael Bolton",95.6974,M,Nebraska
+216,"Spice Girls",95.3648,F,"South  Carolina"
+217,"Charles Mingus",94.7533,F,Louisiana
+218,"Chris de Burgh",94.7309,F,Pennsylvania
+219,"Steely Dan",94.5599,F,Oklahoma
+220,"Chuck Berry",94.4699,M,Wisconsin
+221,"Eros Ramazzotti",94.4334,M,Utah
+222,Toto,94.3494,F,Alaska
+223,"Hank Williams",94.2380,M,Arkansas
+224,"Barry White",94.2011,M,"New Mexico"
+225,Bjork,93.9247,F,Nebraska
+226,"Alicia Keys",93.6003,M,Connecticut
+227,Heart,93.4978,M,Massachusetts
+228,"The Supremes",93.4745,F,Michigan
+229,"Hall & Oates",93.3516,M,Utah
+230,"Tracy Chapman",92.8820,F,Mississippi
+231,"Joni Mitchell",92.6959,M,Virginia
+232,Beck,92.2726,M,"North Carolina"
+233,"James Taylor",92.2263,F,Arizona
+234,"Mary J Blige",91.7532,F,Illinois
+235,"Petula Clark",91.6614,F,Nevada
+236,"Adriano Celentano",91.0828,M,Missouri
+237,Cream,90.9159,F,Massachusetts
+238,"Sheryl Crow",90.8163,F,"South  Carolina"
+239,"Tom Waits",89.8727,M,Connecticut
+240,"Dionne Warwick",89.8547,F,Georgia
+241,"The Clash",89.6867,M,Connecticut
+242,"Norah Jones",89.2380,M,Wisconsin
+243,"Roger Whittaker",88.8061,M,Virginia
+244,Shakira,88.6487,M,Iowa
+245,"Peter Maffay",88.1585,M,Arkansas
+246,BZ,87.8791,F,Virginia
+247,"Luther Vandross",87.8451,F,"New York"
+248,"New Order",87.7012,F,Pennsylvania
+249,"Joan Baez",87.3172,M,Texas
+250,"Ricky Martin",87.1416,M,Georgia
+251,"Destiny's Child",86.9479,F,"North Carolina"
+252,"George Strait",86.8838,F,Colorado
+253,"Tears For Fears",86.7135,M,Illinois
+254,"Kanye West",86.5826,M,Florida
+255,Nickelback,86.3955,F,Hawaii
+256,"Ozzy Osbourne",86.3640,M,Georgia
+257,Blur,86.2400,F,Vermont
+258,"Culture Club",85.7977,F,Delaware
+259,"Art Blakey",85.6848,M,Hawaii
+260,"The Byrds",85.6651,F,Massachusetts
+261,"Sammy Kaye",84.9902,F,Tennessee
+262,"Nick Cave & The Bad Seeds",84.1319,F,Minnesota
+263,"Gloria Estefan",83.9182,M,Ohio
+264,"Jimmy Dorsey",83.9159,M,Illinois
+265,"Mario Lanza",83.6989,F,Missouri
+266,"The Andrews Sisters",83.4296,F,Missouri
+267,OutKast,83.1662,M,Washington
+268,"George Benson",83.0472,F,Indiana
+269,"Take That",82.8726,F,Kentucky
+270,"Dave Matthews Band",82.8607,F,Missouri
+271,Journey,82.2395,F,Montana
+272,"Michael Buble",82.0552,M,Iowa
+273,"The Pretenders",81.9339,F,"New York"
+274,Offspring,81.6707,M,Minnesota
+275,"The Ink Spots",81.6457,M,Nebraska
+276,Westlife,81.1804,M,Illinois
+277,"Bill Haley & his Comets",81.1481,F,Utah
+278,"Boyz II Men",81.0891,M,Alabama
+279,Jamiroquai,80.5903,F,Missouri
+280,"Vaughn Monroe",80.2673,F,"North Dakota"
+281,"Harry James",80.2458,M,Ohio
+282,"The Four Seasons",80.1795,M,Iowa
+283,"The Cranberries",80.0965,M,Michigan
+284,"Bryan Ferry",80.0156,F,Delaware
+285,"Bessie Smith",79.3505,F,"New Jersey"
+286,Muse,79.2300,M,Utah
+287,"Dave Brubeck",78.8104,F,Montana
+288,Nelly,78.7640,F,Illinois
+289,"The Four Tops",78.7584,M,Alabama
+290,"Grateful Dead",78.2972,M,Nevada
+291,2Pac,78.2006,M,Tennessee
+292,"Lou Reed",78.1087,F,Arkansas
+293,"Peter Paul & Mary",77.9704,F,Minnesota
+294,"Snoop Dogg",77.6021,F,Texas
+295,"Tori Amos",77.4864,F,Alabama
+296,"Kim Wilde",77.3171,M,Wisconsin
+297,Smokie,77.1815,M,Pennsylvania
+298,Seal,77.0863,F,California
+299,"Jean-Michel Jarre",76.9495,F,Wisconsin
+300,"Steve Miller Band",76.8458,F,"South Dakota"
+301,Erasure,76.6760,F,Nevada
+302,"50 Cent",76.6598,M,Minnesota
+303,"Orlando Silva",76.5247,M,Colorado
+304,TLC,76.3631,F,Minnesota
+305,"Mitch Miller",76.2654,F,MaineMaryland
+306,"Fats Waller",75.8464,M,Oregon
+307,"Modern Talking",75.6225,F,Washington
+308,"The Commodores",75.5714,F,Nebraska
+309,"Ace of Base",75.5072,M,MaineMaryland
+310,"Charles Aznavour",74.9032,M,Nevada
+311,"No Doubt",74.7235,M,Massachusetts
+312,"Carole King",74.6249,F,Connecticut
+313,Korn,74.4405,M,Wisconsin
+314,"Michel Sardou",74.2731,F,Pennsylvania
+315,Morrissey,74.1414,F,Florida
+316,"T Rex",74.0854,F,Minnesota
+317,"Billy Idol",74.0123,M,Missouri
+318,Moby,73.7754,M,Tennessee
+319,"New Kids On The Block",73.7588,F,Ohio
+320,"The Corrs",73.4579,F,California
+321,"Count Basie",73.4079,F,Colorado
+322,"Leonard Cohen",73.3468,M,Connecticut
+323,"Kool & The Gang",73.3305,M,Wisconsin
+324,"Bonnie Tyler",73.2275,M,"North Carolina"
+325,"The Prodigy",73.1374,F,"North Carolina"
+326,"The Doobie Brothers",72.8780,F,Massachusetts
+327,"Jackson Browne",72.6390,F,Tennessee
+328,"Pat Benatar",72.5600,F,Delaware
+329,"Uriah Heep",72.2500,F,Wyoming
+330,"Sonny Rollins",71.9298,M,MaineMaryland
+331,"Steve Winwood",71.9175,F,Nebraska
+332,10CC,71.8954,F,"South Dakota"
+333,"Ricky Nelson",71.4906,F,"New Mexico"
+334,"Dusty Springfield",71.4818,F,"North Carolina"
+335,"Andrew Lloyd Webber",71.2112,M,Illinois
+336,"Henry Burr",71.0836,M,Hawaii
+337,"The Sweet",70.9146,F,Arizona
+338,"Judas Priest",70.7815,M,Georgia
+339,"Seiko Matsuda",70.6056,F,Minnesota
+340,"Tim McGraw",70.3384,M,Indiana
+341,"Ted Lewis & his Orchestra",70.1845,F,Indiana
+342,"John Williams",70.1080,F,Missouri
+343,Marillion,70.0434,F,Massachusetts
+344,"Isham Jones",69.8750,F,Missouri
+345,"LL Cool J",69.8147,M,Massachusetts
+346,"Richard Clayderman",69.8121,F,Utah
+347,Madness,69.8047,M,Kentucky
+348,"Dinah Shore",69.5004,F,Colorado
+349,"Alan Jackson",69.2094,F,Massachusetts
+350,"Taylor Swift",69.0242,M,Iowa
+351,"Nana Mouskouri",68.9457,M,Arizona
+352,"Dmitri Shostakovich",68.7967,F,Pennsylvania
+353,"Leo Sayer",68.7529,F,Illinois
+354,"The Isley Brothers",68.7004,F,Missouri
+355,"Demis Roussos",68.6967,F,"North Dakota"
+356,"Peggy Lee",68.6731,F,"South  Carolina"
+357,"Chubby Checker",68.6269,F,Alabama
+358,"Emerson Lake & Palmer",68.6250,M,Tennessee
+359,"Cyndi Lauper",68.6192,M,Arizona
+360,"Kelly Clarkson",68.5435,F,Arkansas
+361,"Justin Timberlake",68.4053,M,Colorado
+362,"Peerless Quartet",68.3801,M,Michigan
+363,"The Animals",68.2338,M,Washington
+364,"N Sync",68.1349,F,"North Dakota"
+365,"Jack Johnson",68.0893,M,"New Jersey"
+366,"The Cars",68.0170,M,"New Hampshire"
+367,"The Manic Street Preachers",67.9282,M,Oregon
+368,Donovan,67.8852,M,"Rhode Island"
+369,"Patti Page",67.8097,F,Alaska
+370,"Billy Vaughn",67.6764,F,Missouri
+371,Wham!,67.6388,M,Iowa
+372,"Sarah Vaughan",67.6363,F,Alaska
+373,"Nelly Furtado",67.5803,F,MaineMaryland
+374,"Marion Harris",67.5669,F,Wyoming
+375,"Huey Lewis & The News",67.4939,M,Wisconsin
+376,"Gary Moore",67.3102,F,Nevada
+377,Styx,67.2494,F,Florida
+378,"Orchestral Manoeuvres In The Dark",67.2288,F,Louisiana
+379,"The Human League",67.1666,M,Nebraska
+380,"Bette Midler",66.9541,F,Vermont
+381,"Sinead O'Connor",66.8945,F,Oklahoma
+382,"The Drifters",66.6088,M,Idaho
+383,"Herman's Hermits",66.5216,M,Connecticut
+384,"Sonic Youth",66.3733,M,Oklahoma
+385,"Sam Cooke",66.2143,F,"North Dakota"
+386,"Carly Simon",66.0889,F,Utah
+387,"Robert Palmer",66.0658,F,"South  Carolina"
+388,"The White Stripes",65.9971,F,Delaware
+389,Enigma,65.8872,F,"New York"
+390,"The Platters",65.5831,M,Wyoming
+391,Evanescence,65.5132,M,Florida
+392,"Dave Clark Five",65.4043,M,Alaska
+393,"Limp Bizkit",65.3780,F,"North Dakota"
+394,"Manfred Mann",65.3703,M,"North Dakota"
+395,"Herbert Gronemeyer",65.3420,M,Michigan
+396,"Kay Kyser",65.1876,M,"New York"
+397,"Toni Braxton",64.9911,F,Louisiana
+398,"Arthur Collins & Byron G Harlan",64.9133,M,Delaware
+399,"The Band",64.8181,F,Alabama
+400,"Paul Young",64.4249,F,"South Dakota"
+401,"Glen Campbell",64.3839,F,Mississippi
+402,Scooter,64.3833,M,Arkansas
+403,"The Stranglers",64.3524,F,Nebraska
+404,"Dr Hook",64.2501,M,Utah
+405,"Freddy Martin",64.1491,F,Oklahoma
+406,"Massive Attack",64.0345,F,Nebraska
+407,Rammstein,63.9950,M,California
+408,"The Chemical Brothers",63.9712,M,Connecticut
+409,"Dizzy Gillespie",63.9458,F,Pennsylvania
+410,NAS,63.6186,F,Ohio
+411,"Brenda Lee",63.4226,M,Alabama
+412,"Shakin' Stevens",63.3727,M,"New Mexico"
+413,"Thin Lizzy",63.1611,M,"New Mexico"
+414,"Kenny G",62.5341,M,Minnesota
+415,"Lawrence Welk",62.4871,F,Indiana
+416,"Al Green",62.4514,M,California
+417,Falco,62.2733,F,Alaska
+418,"Jefferson Starship",62.2110,F,Idaho
+419,"Lady GaGa",62.1840,F,Washington
+420,Megadeth,62.1384,M,Tennessee
+421,"Marilyn Manson",62.0936,F,Arkansas
+422,"PJ Harvey",62.0727,F,Oklahoma
+423,"Duane Eddy",61.9631,M,Pennsylvania
+424,"Nine Inch Nails",61.9460,F,Arizona
+425,Whitesnake,61.7792,M,Missouri
+426,"Jo Stafford",61.5652,M,Oklahoma
+427,Kraftwerk,61.5220,M,Nebraska
+428,"LeAnn Rimes",61.2273,F,Oklahoma
+429,"Various Artists",61.0750,F,Colorado
+430,"Enrique Iglesias",61.0744,M,Montana
+431,"Grand Funk Railroad",60.9445,F,Idaho
+432,"The Dixie Chicks",60.8322,M,Alabama
+433,"Die Toten Hosen",60.6410,M,"New Jersey"
+434,Vikingarna,60.5353,F,"New Hampshire"
+435,"Eddie Fisher",60.4088,M,Missouri
+436,"The Mamas & The Papas",60.3178,F,Minnesota
+437,"The Fall",60.2362,F,Oregon
+438,"BB King",60.0220,M,"West Virginia"
+439,"Annie Lennox",59.9868,M,Washington
+440,"Kenny Chesney",59.9478,M,MaineMaryland
+441,"The Searchers",59.8229,M,MaineMaryland
+442,"Akina Nakamori",59.8183,F,Tennessee
+443,"The Seekers",59.7417,M,"West Virginia"
+444,"The Jam",59.6695,F,Texas
+445,"Edith Piaf",59.6682,M,Louisiana
+446,"The Killers",59.6435,F,Oklahoma
+447,"James Blunt",59.4194,M,Nevada
+448,"Bobby Darin",59.3648,M,Wyoming
+449,"Neil Sedaka",59.0038,F,"South  Carolina"
+450,"Dinah Washington",58.8825,M,Arkansas
+451,"Lynyrd Skynyrd",58.7714,F,"West Virginia"
+452,"Crowded House",58.6833,F,Tennessee
+453,"Claude Francois",58.6104,F,Texas
+454,"Crosby Stills Nash & Young",58.4496,M,Indiana
+455,Placebo,58.4406,M,Indiana
+456,"Motley Crue",58.3799,F,Kentucky
+457,"Wet Wet Wet",58.3596,M,Arkansas
+458,"Louis Jordan",58.2716,F,Idaho
+459,"The Village People",58.2186,F,Tennessee
+460,Dierzte,58.0538,F,"Rhode Island"
+461,Vangelis,57.9607,M,Alaska
+462,Snap,57.9414,F,Michigan
+463,"Muddy Waters",57.7508,F,Wyoming
+464,Nazareth,57.6175,M,"North Carolina"
+465,"System of A Down",57.4921,M,"West Virginia"
+466,"Public Enemy",57.4584,F,Nevada
+467,"Lil' Wayne",57.3986,F,"South  Carolina"
+468,"John Lee Hooker",57.2379,F,Kansas
+469,"Jackie Gleason",57.1492,M,Oklahoma
+470,"Bonnie Raitt",56.8120,F,Idaho
+471,"Procol Harum",56.8013,F,Ohio
+472,Anastacia,56.4554,F,Nebraska
+473,"Counting Crows",56.4101,M,Vermont
+474,"Cab Calloway & his Cotton Club Orchestra",56.3754,M,"North Carolina"
+475,"Joe Jackson",56.3383,F,Wyoming
+476,"Chet Baker",56.1655,F,"New Mexico"
+477,"Blood Sweat & Tears",56.1625,F,Kansas
+478,"The Ramones",56.1605,F,"New Hampshire"
+479,Garbage,56.0339,F,Louisiana
+480,"Bad Company",55.9402,M,Alabama
+481,"Silvio Caldas",55.9315,F,Ohio
+482,"Rick Astley",55.8964,M,Iowa
+483,"Willie Nelson",55.8611,M,Idaho
+484,Shaggy,55.6760,M,Arizona
+485,"Kastelruther Spatzen",55.6476,M,Connecticut
+486,"The B52s",55.5619,M,Virginia
+487,"Bert Kaempfert & his Orchestra",55.5258,M,"South Dakota"
+488,"Level 42",55.4390,M,Montana
+489,"Toby Keith",55.3528,M,Virginia
+490,XTC,55.3452,F,"North Dakota"
+491,"Paul Weller",55.2898,M,"North Dakota"
+492,"Hot Chocolate",55.2879,M,Ohio
+493,"Gene Pitney",55.1373,M,Oregon
+494,"Maroon 5",55.0282,M,Iowa
+495,"Eddy Duchin",55.0200,M,Illinois
+496,"Sarah McLachlan",54.9658,F,Illinois
+497,"Jimmie Rodgers",54.8976,M,Pennsylvania
+498,"Ringo Starr",54.8938,M,Illinois
+499,"Siouxsie & The Banshees",54.8760,F,Minnesota
+500,"London Symphony Orchestra",54.8574,M,Connecticut
+501,"Sonny Boy Williamson",54.8287,M,Iowa
+502,"The Pixies",54.4922,F,Mississippi
+503,America,54.4915,F,Kansas
+504,"Bill Evans",54.1960,M,MaineMaryland
+505,"Richard Marx",54.1662,F,"Rhode Island"
+506,"Rudy Vallee & his Connecticut Yankees",54.1580,M,Massachusetts
+507,blink-182,54.1027,F,"New Hampshire"
+508,"Missy 'Misdemeanor' Elliott",54.0965,M,Idaho
+509,"Faith Hill",53.9405,F,Indiana
+510,Live,53.8211,F,Arkansas
+511,"Sly & The Family Stone",53.8122,M,Mississippi
+512,"Manfred Mann's Earth Band",53.7970,F,"Rhode Island"
+513,Boston,53.5161,F,"New York"
+514,"Little Richard",53.5014,F,Virginia
+515,"Paula Abdul",53.3918,M,California
+516,"The Ventures",53.3161,F,Virginia
+517,"Stevie Nicks",53.3039,M,Michigan
+518,"Gladys Knight & The Pips",53.2826,F,Virginia
+519,"Harry MacDonough",53.2257,F,Pennsylvania
+520,"Rage Against The Machine",53.1504,M,Alaska
+521,"Lightnin' Hopkins",53.0383,M,Alaska
+522,"Herbie Hancock",53.0147,M,"New Hampshire"
+523,Bap,52.9786,M,Florida
+524,"Rondo Veneziano",52.9465,F,Arizona
+525,"Gilbert O'Sullivan",52.8274,F,Indiana
+526,Dido,52.8075,F,Georgia
+527,Suede,52.7709,F,Louisiana
+528,"Will Smith",52.7245,M,"West Virginia"
+529,"Dolly Parton",52.6539,F,Mississippi
+530,"REO Speedwagon",52.6007,F,Alaska
+531,Tool,52.4364,M,Wisconsin
+532,"Leo Reisman",52.3238,F,Missouri
+533,"Cannonball Adderley",52.3054,F,Massachusetts
+534,"Belinda Carlisle",52.2619,F,Mississippi
+535,"The Bay City Rollers",52.2380,F,Wyoming
+536,"Billy Ocean",52.0987,F,Georgia
+537,"Jefferson Airplane",51.9552,M,Indiana
+538,"Mr Acker Bilk",51.8099,M,Missouri
+539,Motorhead,51.7723,F,Connecticut
+540,"Ruth Etting",51.7351,M,Utah
+541,"The Mills Brothers",51.7116,M,Iowa
+542,"Three Dog Night",51.5605,F,Minnesota
+543,"Savage Garden",51.4583,F,"New Hampshire"
+544,"Natalie Cole",51.3899,F,Minnesota
+545,"John McCormack",51.3561,M,Arizona
+546,"Midnight Oil",51.3481,M,Indiana
+547,"Gene Autry",51.2519,F,"North Dakota"
+548,"Artie Shaw",51.2350,M,Iowa
+549,"Prince's Orchestra",51.1271,M,Delaware
+550,"MC Hammer",51.1147,F,"South Dakota"
+551,"Mr Children",51.0138,M,Michigan
+552,Weezer,51.0091,F,Wyoming
+553,"Fiddlin' John Carson",51.0006,F,Alaska
+554,"King Crimson",50.6573,M,"Rhode Island"
+555,"Hamazaki Walking",50.6551,M,Oregon
+556,Boyzone,50.5058,M,"North Dakota"
+557,"The Righteous Brothers",50.4993,M,"South Dakota"
+558,"Udo Jurgens",50.4821,F,Nebraska
+559,"Il Divo",50.4709,F,Louisiana
+560,"Primal Scream",50.4423,M,"South  Carolina"
+561,"Kid Rock",50.3162,M,"New Mexico"
+562,"Janis Joplin",50.1319,F,"New York"
+563,"The Allman Brothers Band",49.9234,M,Florida
+564,"The Pointer Sisters",49.8639,M,Texas
+565,"Men At Work",49.7646,F,Alabama
+566,Texas,49.7443,F,Virginia
+567,"The Sugababes",49.7239,F,Florida
+568,Aaliyah,49.6314,F,Louisiana
+569,"Big Bill Broonzy",49.5815,F,Michigan
+570,"Black Crowes",49.5781,F,"New Mexico"
+571,Ultravox,49.4476,M,Hawaii
+572,"Spandau Ballet",49.4213,F,Indiana
+573,Gorillaz,49.3964,F,Alaska
+574,"The Stylistics",49.2877,F,"New York"
+575,"Percy Faith",49.2028,F,Ohio
+576,"Gene Austin",49.1923,M,Connecticut
+577,"Andre Rieu",49.1876,F,California
+578,"Katy Perry",49.1798,M,"New Hampshire"
+579,"Jimmy Smith",49.1715,M,"West Virginia"
+580,"Carmen Miranda",49.0041,F,Illinois
+581,"Lisa Stansfield",48.8800,M,Utah
+582,"Cypress Hill",48.7174,M,"West Virginia"
+583,"Four Aces",48.6641,M,"New Mexico"
+584,"Ulf Lundell",48.6164,M,Idaho
+585,Dalida,48.5433,M,Ohio
+586,"Echo & The Bunnymen",48.4540,F,Iowa
+587,"Kings of Leon",48.4146,M,Missouri
+588,"Olivier Messiaen",48.3832,M,Colorado
+589,"Georges Brassens",48.3405,M,Indiana
+590,"The Bangles",48.3265,M,MaineMaryland
+591,"Leona Lewis",48.1166,F,Arkansas
+592,Creed,48.1026,M,"South Dakota"
+593,Travis,48.0908,M,Illinois
+594,"Les Baxter & his Orchestra",47.9141,M,Michigan
+595,"Matchbox Twenty",47.6643,M,Wyoming
+596,Nena,47.6125,F,Oregon
+597,"Fred Astaire",47.6106,M,Alabama
+598,"Suzanne Vega",47.5637,M,Louisiana
+599,"Emmylou Harris",47.4239,F,Indiana
+600,"John Farnham",47.4156,M,Virginia
+601,"Carlos Galhardo",47.3531,F,MaineMaryland
+602,Chic,47.3155,F,Idaho
+603,"Faith No More",47.3098,F,Utah
+604,"Wolfgang Ambros",47.3030,M,Washington
+605,"Rascal Flatts",47.0648,F,Virginia
+606,Yello,47.0368,F,"New Mexico"
+607,Ludacris,46.9531,F,Wisconsin
+608,"Stan Kenton",46.8684,M,Missouri
+609,"Die Flippers",46.8557,F,Massachusetts
+610,"John Mayer",46.8001,M,Ohio
+611,"Barclay James Harvest",46.5796,F,Minnesota
+612,"Cheap Trick",46.5078,F,Arkansas
+613,"Josh Groban",46.3463,F,Utah
+614,"Arcade Fire",46.3266,F,"New Jersey"
+615,"Bobby Brown",46.2242,M,Vermont
+616,Akon,46.2215,M,Indiana
+617,"Quincy Jones",46.1863,M,Arizona
+618,"Robert Plant",46.1729,M,"New Mexico"
+619,"Roberta Flack",46.0391,M,Massachusetts
+620,"The Pussycat Dolls",45.7245,F,Washington
+621,"Lucio Battisti",45.6770,F,"North Dakota"
+622,"Nina Simone",45.6125,F,Oklahoma
+623,"The Osmonds",45.5714,F,"South  Carolina"
+624,"Patti Smith Group",45.5430,F,Iowa
+625,"The Pogues",45.5023,M,Idaho
+626,"Suzi Quatro",45.4855,M,Nebraska
+627,"Ten Years After",45.3749,M,Arizona
+628,"Amy Winehouse",45.3744,M,Alaska
+629,Hanson,45.3237,M,"West Virginia"
+630,"Jerry Lee Lewis",45.2493,M,Indiana
+631,"Gary Numan",45.1998,F,Louisiana
+632,Glay,45.0718,F,"Rhode Island"
+633,Pulp,45.0256,F,Michigan
+634,"Sean Paul",44.9722,M,Montana
+635,"David Essex",44.9559,M,Oklahoma
+636,"Grace Jones",44.9469,M,Louisiana
+637,"Bobby Vee",44.9255,M,Connecticut
+638,"Everything But The Girl",44.9023,M,Alaska
+639,"The Verve",44.8804,M,"North Carolina"
+640,"Lonnie Johnson",44.8730,F,Texas
+641,Wilco,44.6560,M,Indiana
+642,"J Geils Band",44.6472,F,"South  Carolina"
+643,"American Quartet",44.6256,M,Hawaii
+644,"Jose Feliciano",44.5694,F,Georgia
+645,Squeeze,44.4922,F,"South  Carolina"
+646,Europe,44.4697,F,Delaware
+647,Soundgarden,44.4625,M,Vermont
+648,"Frankie Goes To Hollywood",44.1628,M,"North Dakota"
+649,"Reba McEntire",44.1519,F,"New Mexico"
+650,"Sun Ra",44.1062,M,"New Mexico"
+651,"The Beautiful South",44.0668,F,Oklahoma
+652,"France Gall",44.0432,F,Louisiana
+653,"Julien Clerc",43.9374,M,Delaware
+654,"Brooks & Dunn",43.8374,F,"New Hampshire"
+655,"The Strokes",43.7458,F,Mississippi
+656,"Joe Dassin",43.7434,M,"New York"
+657,"The Fugees",43.7380,F,MaineMaryland
+658,"Ennio Morricone",43.7074,F,Georgia
+659,"Don Henley",43.7047,F,Arkansas
+660,"Harry Connick Jr",43.6565,F,Alaska
+661,"Golden Earring",43.5440,F,Illinois
+662,"Chris Brown",43.4923,M,Michigan
+663,"Randy Crawford",43.4627,M,Georgia
+664,Asia,43.4209,F,Idaho
+665,"Zucchero Fornaciari",43.3597,F,Wyoming
+666,"Bihse Onkelz",43.3306,F,"New Mexico"
+667,"Smokey Robinson",43.2725,F,Alaska
+668,"Terence Trent D'Arby",43.1528,M,Colorado
+669,"Mark Knopfler",43.1335,F,"New York"
+670,"Donny Osmond",42.9604,M,Texas
+671,"Fine Young Cannibals",42.8463,M,Connecticut
+672,"Melissa Etheridge",42.8393,M,Vermont
+673,"Ornette Coleman",42.7867,F,Vermont
+674,"Jelly Roll Morton",42.7332,F,Tennessee
+675,"Don McLean",42.6960,F,Colorado
+676,"Gwen Stefani",42.6223,F,Hawaii
+677,"Jesus & Mary Chain",42.5872,F,Mississippi
+678,"Ronan Keating",42.5754,M,"New Mexico"
+679,"Woody Herman",42.5657,F,Hawaii
+680,DMX,42.5571,F,Pennsylvania
+681,"Gianni Morandi",42.5279,F,Mississippi
+682,"Diana Ross & The Supremes",42.4940,F,Pennsylvania
+683,"Claudio Villa",42.4877,F,Illinois
+684,"Belle & Sebastian",42.4853,M,Wyoming
+685,"Christopher Cross",42.3101,M,Vermont
+686,"Luciano Pavarotti",42.2388,F,"North Carolina"
+687,"DJ BoBo",42.2006,F,"North Dakota"
+688,"Bachman-Turner Overdrive",42.1719,F,Nebraska
+689,T.I.,42.1404,F,Pennsylvania
+690,"Oscar Peterson",42.0223,F,Wyoming
+691,"Bobby Vinton",41.9991,M,Utah
+692,Bread,41.9883,F,Alabama
+693,"Vera Lynn",41.9384,M,Connecticut
+694,Ne-Yo,41.9120,F,Missouri
+695,Bananarama,41.8809,M,"New Jersey"
+696,"Ray Noble",41.7890,M,Indiana
+697,"Bob Newhart",41.7637,F,"West Virginia"
+698,"Chris Isaak",41.7197,M,Michigan
+699,"Clara Smith",41.6474,F,"North Carolina"
+700,"Tennessee Ernie Ford",41.6339,M,Oregon
+701,"Glen Gray",41.6245,M,Oregon
+702,"Flaming Lips",41.6009,F,"North Carolina"
+703,"Freddy Quinn",41.5973,M,Texas
+704,"Leonard Bernstein",41.5477,M,Louisiana
+705,"Chage & Aska",41.5314,F,Mississippi
+706,"Craig David",41.3082,F,Vermont
+707,"Guy Mitchell",41.2936,M,"New Mexico"
+708,"Talk Talk",41.0077,F,Utah
+709,"John Mayall",41.0024,M,Minnesota
+710,"Peter Alexander",40.9912,M,Delaware
+711,"Fred Waring & the Pennsylvanians",40.9773,F,Louisiana
+712,"Diana Krall",40.9448,M,Kentucky
+713,"Steve Earle",40.8960,F,Delaware
+714,"Randy Newman",40.8692,M,Virginia
+715,"Horace Silver",40.8680,F,"New Mexico"
+716,"Roger Williams",40.8586,F,Indiana
+717,"Sheena Easton",40.8278,F,Delaware
+718,"George Olsen",40.8184,M,Hawaii
+719,Jewel,40.7844,F,California
+720,Salt-N-Pepa,40.7685,F,Ohio
+721,"Jennifer Rush",40.6671,M,Minnesota
+722,"Ice Cube",40.6548,F,Hawaii
+723,"Franz Ferdinand",40.6511,F,Massachusetts
+724,"Lauryn Hill",40.6166,M,Colorado
+725,Sandra,40.5772,F,Nebraska
+726,"Johnnie Ray",40.4698,M,Alabama
+727,"Lionel Hampton",40.4432,M,Kentucky
+728,"Frank Ifield",40.4074,F,"South  Carolina"
+729,"Los Lobos",40.4002,F,Virginia
+730,"Original London Cast",40.1779,F,Wisconsin
+731,"Foster & Allen",40.0951,M,Georgia
+732,Aqua,40.0934,F,Montana
+733,"Peter Frampton",40.0901,F,"New York"
+734,Portishead,40.0785,M,Alabama
+735,"Ry Cooder",40.0731,M,Massachusetts
+736,"Arctic Monkeys",40.0402,M,Illinois
+737,Pooh,40.0081,F,Oklahoma
+738,Steppenwolf,40.0029,F,Minnesota
+739,"Three Doors Down",39.9100,F,Missouri
+740,"Laura Pausini",39.8826,M,Nebraska
+741,"Milli Vanilli",39.8460,F,Kansas
+742,"The O'Jays",39.8290,F,Tennessee
+743,"The Waterboys",39.8139,F,Delaware
+744,"Yumi Matsutoya",39.6994,F,Oklahoma
+745,"Queens of The Stone Age",39.6979,M,Idaho
+746,War,39.6972,M,Minnesota
+747,"Anita Baker",39.6897,M,"New Jersey"
+748,"Rosemary Clooney",39.6139,M,Florida
+749,"The Bachelors",39.5943,F,Hawaii
+750,Slayer,39.4544,M,Wyoming
+751,Keane,39.4316,M,Nebraska
+752,Leadbelly,39.3283,F,Nebraska
+753,"The Thompson Twins",39.1898,M,Montana
+754,"The Charlatans",39.1791,F,Massachusetts
+755,"Dick Haymes",39.1789,F,"South Dakota"
+756,"Nelson Goncalves",39.1026,F,Minnesota
+757,"Yusef Lateef",39.0725,F,Arkansas
+758,"Soul II Soul",39.0586,F,Illinois
+759,"Harry Nilsson",39.0061,M,Washington
+760,Poison,38.9882,F,"West Virginia"
+761,"East 17",38.9169,F,Hawaii
+762,Rainbow,38.9157,F,"New York"
+763,"Notorious BIG",38.8889,F,"North Dakota"
+764,"The Cult",38.8158,M,Nevada
+765,"Art Garfunkel",38.8005,F,Alabama
+766,Brandy,38.7743,F,Missouri
+767,"Vicente Celestino",38.7638,F,"Rhode Island"
+768,"Hootie & The Blowfish",38.7347,F,"Rhode Island"
+769,"John Fogerty",38.7133,M,Texas
+770,Adele,38.7088,F,"New Mexico"
+771,"Gerry Mulligan",38.6528,F,Iowa
+772,HiM,38.5559,F,Nevada
+773,"Mireille Mathieu",38.5474,M,"New Mexico"
+774,"Big Country",38.5097,F,Massachusetts
+775,"Russ Morgan",38.4874,F,Kentucky
+776,"The Stereophonics",38.4497,F,Louisiana
+777,"Lonnie Donegan",38.4242,M,Kansas
+778,Traffic,38.2336,F,"North Dakota"
+779,"Daft Punk",38.2282,M,Virginia
+780,"The Detroit Spinners",38.1967,M,Florida
+781,"En Vogue",38.1723,F,Wyoming
+782,"kd Lang",38.1587,M,Montana
+783,"George Gershwin",38.1500,M,Oregon
+784,"Tommy Dorsey & Frank Sinatra",38.0963,M,Florida
+785,"Fifth Dimension",38.0418,M,Minnesota
+786,"Lasse Stefanz",38.0381,F,Nebraska
+787,"Rick Springfield",38.0321,F,"North Dakota"
+788,"The Velvet Underground",37.9923,F,Montana
+789,Underworld,37.9609,M,"South Dakota"
+790,"Ornella Vanoni",37.9130,F,Florida
+791,"Keith Urban",37.9070,M,"South  Carolina"
+792,"KC & The Sunshine Band",37.8638,F,"South  Carolina"
+793,"Hansi Hinterseer",37.8535,M,"New Mexico"
+794,"The Sex Pistols",37.8018,F,Michigan
+795,"Anne Murray",37.6499,M,"New Mexico"
+796,"Vasco Rossi",37.6091,F,Colorado
+797,"2 Unlimited",37.5988,F,Washington
+798,"Jacques Brel",37.5686,F,Wisconsin
+799,"Boz Scaggs",37.5405,M,Connecticut
+800,"Alison Moyet",37.4944,F,"New Jersey"
+801,"Les Paul & Mary Ford",37.4762,M,California
+802,Pur,37.4573,M,"South Dakota"
+803,"Busta Rhymes",37.4483,M,Vermont
+804,"Al Martino",37.4289,F,Tennessee
+805,"Marius Muller Westernhagen",37.3959,M,Oklahoma
+806,ABC,37.3751,M,Texas
+807,"Tangerine Dream",37.3275,F,Texas
+808,"Gerry Rafferty",37.3082,M,"North Carolina"
+809,"Charlie Parker",37.2650,F,Missouri
+810,"Mike & The Mechanics",37.2482,M,Connecticut
+811,"Lovin' Spoonful",37.2284,M,"New York"
+812,"Snow Patrol",37.0261,F,Iowa
+813,"Cocteau Twins",37.0214,M,Louisiana
+814,Dion,36.9578,F,Wyoming
+815,"Johnny Rivers",36.9566,M,Massachusetts
+816,"Bo Diddley",36.9356,M,Colorado
+817,"Sammy Davis Jr",36.9169,F,Iowa
+818,"Russ Conway",36.9075,M,California
+819,"Run DMC",36.9007,M,Utah
+820,Faithless,36.7899,F,Pennsylvania
+821,"Ludwig van Beethoven",36.7858,M,Michigan
+822,"Reinhard Fendrich",36.7092,F,Louisiana
+823,"Jan Garber",36.6316,F,Florida
+824,"Al Jarreau",36.5687,M,Vermont
+825,"Style Council",36.5239,M,Ohio
+826,"Joan Jett & The Blackhearts",36.4990,M,MaineMaryland
+827,"Modern Jazz Quartet",36.4941,F,"New Hampshire"
+828,"Super Furry Animals",36.4597,M,Colorado
+829,"Iggy Pop",36.4294,M,Ohio
+830,"Wu-Tang Clan",36.3857,M,Louisiana
+831,"Teresa Brewer",36.3084,F,Hawaii
+832,"Stevie Ray Vaughan",36.2345,M,Massachusetts
+833,"Marianne Faithfull",36.2067,F,Oklahoma
+834,"Macy Gray",36.1971,M,California
+835,"Joy Division",36.1340,F,Missouri
+836,"Joan Armatrading",36.0121,M,Vermont
+837,"Mick Jagger",35.9755,F,Wisconsin
+838,"The Cardigans",35.9016,M,Kansas
+839,"Howard Jones",35.8914,M,Nebraska
+840,Slipknot,35.8325,M,Louisiana
+841,"Fabrizio De Andre",35.7993,M,Montana
+842,"Isaac Hayes",35.7389,M,Minnesota
+843,"Helen Reddy",35.7372,M,Tennessee
+844,"Ja Rule",35.6694,F,"North Carolina"
+845,"Die Fantastischen Vier",35.6376,F,"New Jersey"
+846,"Hal Kemp",35.6043,M,"Rhode Island"
+847,"Jose Carreras Placido Domingo & Luciano Pavarotti",35.5568,M,Indiana
+848,"Dr Dre",35.4703,M,Wisconsin
+849,"Gloria Gaynor",35.4661,F,Montana
+850,Kent,35.4362,M,Missouri
+851,"Barenaked Ladies",35.3397,M,Hawaii
+852,"Marty Robbins",35.3305,F,Hawaii
+853,"Joss Stone",35.2963,F,Pennsylvania
+854,"Kay Starr",35.2210,M,Delaware
+855,"Rory Gallagher",35.2132,F,Texas
+856,Hawkwind,35.1830,F,"South  Carolina"
+857,"Kinki Kids",35.1580,M,"New Jersey"
+858,"Prefab Sprout",35.1550,F,Pennsylvania
+859,"Air Supply",35.1183,M,Alabama
+860,"Alice In Chains",35.1075,M,California
+861,"Richard Rodgers",35.0989,F,Texas
+862,"George Mitchell Minstrels",34.9625,M,Arizona
+863,Kansas,34.9537,M,Oregon
+864,"The Ames Brothers",34.9394,M,Pennsylvania
+865,"Tony Martin",34.9229,F,Mississippi
+866,"Sonny & Cher",34.9030,F,Minnesota
+867,James,34.8594,F,"West Virginia"
+868,"Manhattan Transfer",34.8521,M,Delaware
+869,"Nora Bayes",34.8278,M,Arkansas
+870,Supergrass,34.7747,M,Wisconsin
+871,"The Stone Roses",34.7226,M,Illinois
+872,"Sisters of Mercy",34.6820,F,Wisconsin
+873,"Frank Crumit",34.6491,M,California
+874,"Amy Grant",34.6016,F,"Rhode Island"
+875,Misia,34.5723,F,Arkansas
+876,"Haydn Quartet",34.5468,F,California
+877,"Kenny Loggins",34.4784,F,Iowa
+878,Air,34.4432,M,Idaho
+879,"Francoise Hardy",34.4012,M,Wisconsin
+880,Melanie,34.3862,F,"New Jersey"
+881,"Jimmy Buffett",34.3791,F,Missouri
+882,Staind,34.3445,M,Pennsylvania
+883,"Carrie Underwood",34.3363,F,Illinois
+884,"Hilary Duff",34.1358,F,Pennsylvania
+885,"Wilson Phillips",34.1213,M,Connecticut
+886,"Daniel O'Donnell",34.0346,F,Texas
+887,Incubus,34.0102,F,Ohio
+888,Starsound,33.9997,M,Washington
+889,"Paul Revere & the Raiders",33.9951,M,Arizona
+890,"Debbie Gibson",33.9858,F,Louisiana
+891,"Gipsy Kings",33.9172,M,Indiana
+892,Sparks,33.9129,M,Iowa
+893,"Little Feat",33.8893,M,Minnesota
+894,"Mylene Farmer",33.8823,M,"New York"
+895,Ashanti,33.8321,M,California
+896,Phish,33.8208,M,Nebraska
+897,"Ben Bernie",33.8100,M,California
+898,"Dream Theater",33.7369,F,"North Dakota"
+899,"The Young Rascals",33.7097,M,Iowa
+900,"Bruce Hornsby & The Range",33.6920,M,Washington
+901,"Erykah Badu",33.6842,M,Colorado
+902,"De La Soul",33.6064,M,Kentucky
+903,"Wilson Pickett",33.5688,F,Tennessee
+904,"The Yardbirds",33.4394,M,"New Mexico"
+905,"A Tribe Called Quest",33.4355,M,Wisconsin
+906,"Maurice Jarre",33.4088,F,"South  Carolina"
+907,"Eric Dolphy",33.3658,F,"New York"
+908,"Arthur Collins",33.3606,M,Louisiana
+909,"Traveling Wilburys",33.3451,F,"New Mexico"
+910,"Gianna Nannini",33.3436,M,Oregon
+911,"Nancy Sinatra",33.2235,F,"Rhode Island"
+912,"Katie Melua",33.1912,F,Nevada
+913,"Al Stewart",33.1851,M,California
+914,"Fall Out Boy",33.1546,M,California
+915,"Killing Joke",33.1362,M,Arizona
+916,"Enrico Caruso",33.1041,F,"West Virginia"
+917,Exile,33.0935,M,Missouri
+918,"John Barry",33.0558,F,"West Virginia"
+919,"Jessica Simpson",33.0280,F,Washington
+920,Coolio,32.9932,F,"South  Carolina"
+921,Renaud,32.9770,M,Kansas
+922,"M People",32.9086,F,"North Carolina"
+923,"Patsy Cline",32.8541,M,Tennessee
+924,"Keith Sweat",32.8364,F,Montana
+925,"Mario Reis",32.7610,F,Kansas
+926,"Bumble Bee Slim",32.7279,M,Delaware
+927,"Kim Carnes",32.7085,M,Ohio
+928,"Ike & Tina Turner",32.6067,F,Vermont
+929,"Caterina Valente",32.5566,F,Alaska
+930,"Les Enfoires",32.5335,M,"New Mexico"
+931,"'Weird Al' Yankovic",32.5271,F,Oklahoma
+932,"Salvatore Adamo",32.5145,M,"New Mexico"
+933,"Natalie Imbruglia",32.5011,F,"New York"
+934,Carola,32.4785,M,Washington
+935,"Mamie Smith",32.4666,M,Minnesota
+936,"Henry Burr & Albert Campbell",32.3976,M,Texas
+937,"Rick Wakeman",32.3354,F,Hawaii
+938,"Sylvie Vartan",32.3273,M,Alabama
+939,Free,32.3074,M,Nevada
+940,"Fatboy Slim",32.3019,F,Oklahoma
+941,"All Saints",32.2659,F,Washington
+942,"Tampa Red",32.1774,F,Oregon
+943,Silverchair,32.1334,M,Nebraska
+944,Ash,32.0828,F,"New Hampshire"
+945,"Vernon Dalhart",32.0670,F,Idaho
+946,"Ada Jones & Billy Murray",32.0667,F,Oregon
+947,"Trini Lopez",31.9826,M,Alabama
+948,"Kelly Family",31.9807,F,Georgia
+949,Audioslave,31.9683,F,Idaho
+950,"Nockalm Quintett",31.9603,M,Arizona
+951,"Good Charlotte",31.9271,M,Ohio
+952,Disturbed,31.9212,F,Delaware
+953,"Eddy Howard",31.8505,M,Ohio
+954,"Bert Williams",31.8289,M,Oklahoma
+955,"Claudio Baglioni",31.8243,M,Virginia
+956,"Sarah Brightman",31.7533,F,Ohio
+957,"Nat Shilkret",31.7015,F,Utah
+958,"Max Bygraves",31.6178,F,Montana
+959,"George Baker Selection",31.5958,M,Oklahoma
+960,"Atomic Kitten",31.5767,M,Virginia
+961,"Fausto Papetti",31.5644,M,MaineMaryland
+962,"Eddie Cantor",31.5547,M,Missouri
+963,"Francis Cabrel",31.5477,M,Michigan
+964,Pantera,31.5137,M,Alabama
+965,"The The",31.5020,M,Colorado
+966,"Roberto Carlos",31.4968,M,Kentucky
+967,Sugarland,31.4265,F,Wisconsin
+968,"The Stray Cats",31.4231,F,Louisiana
+969,"Domenico Modugno",31.4133,M,Kansas
+970,"David Lee Roth",31.4093,M,Iowa
+971,"Veronique Sanson",31.4033,M,Idaho
+972,"Helmut Lotti",31.3814,F,"South  Carolina"
+973,"Karlheinz Stockhausen",31.2783,F,Vermont
+974,"Howard Carpendale",31.2574,F,Texas
+975,"Tanita Tikaram",31.2449,M,Oregon
+976,"Cilla Black",31.2375,F,"New Mexico"
+977,"Washboard Sam",31.1922,M,Mississippi
+978,"Horace Heidt",31.0757,M,Michigan
+979,"John Hiatt",31.0547,M,Michigan
+980,Queensryche,31.0263,M,MaineMaryland
+981,"Val Doonican",30.9681,M,Kentucky
+982,"Justin Bieber",30.9382,F,Georgia
+983,Blue,30.9282,M,Idaho
+984,Zard,30.8782,M,Arizona
+985,"Gustav Mahler",30.8526,F,Hawaii
+986,"The Small Faces",30.8394,M,Wisconsin
+987,"Bing Crosby & The Andrews Sisters",30.8161,F,Georgia
+988,"Matt Bianco",30.7939,M,"Rhode Island"
+989,"Long Fuchi Hardness",30.7374,M,Missouri
+990,"Saint Etienne",30.6211,F,Tennessee
+991,"Billy Fury",30.5837,M,Texas
+992,"Ben Folds Five",30.4426,M,"New Jersey"
+993,"Umberto Tozzi",30.4380,M,"Rhode Island"
+994,"Byron G Harlan",30.4315,M,Arizona
+995,"Eddy Grant",30.4204,F,Tennessee
+996,"Dexys Midnight Runners",30.4200,M,Virginia
+997,"Mel Torme",30.4012,F,"South Dakota"
+998,"DJ Jazzy Jeff & The Fresh Prince",30.3657,F,Michigan
+999,"The Goo Goo Dolls",30.3650,F,Illinois
+1000,Mika,30.3473,F,Minnesota
+1001,"Gerry & the Pacemakers",30.3150,F,Georgia
+1002,"Los Temerarios",30.2740,F,Wisconsin
+1003,"Erroll Garner",30.2636,M,Massachusetts
+1004,"Serge Gainsbourg",30.2505,F,Missouri
+1005,"10000 Maniacs",30.2455,F,Nebraska
+1006,"Del Shannon",30.2340,M,Washington
+1007,"Elliott Smith",30.2220,F,Tennessee
+1008,"Jackie McLean",30.2125,F,Alaska
+1009,"Curtis Mayfield",30.1954,F,Kentucky
+1010,Camel,30.1512,M,Idaho
+1011,Showaddywaddy,30.1255,F,Illinois
+1012,D12,30.1065,M,"North Carolina"
+1013,"Eddie Cochran",30.0753,M,Wisconsin
+1014,"Taylor Dayne",30.0279,M,Florida
+1015,"Bone Thugs-n-Harmony",29.9213,F,"South  Carolina"
+1016,"Ocean Colour Scene",29.9094,F,Iowa
+1017,"Dan Fogelberg",29.8794,M,Missouri
+1018,"Don Williams",29.8647,M,"New Hampshire"
+1019,Dio,29.8563,M,Louisiana
+1020,Survivor,29.8347,M,Louisiana
+1021,Rosenstolz,29.8277,F,Oregon
+1022,"Vic Damone",29.7922,F,"North Carolina"
+1023,"Otto Waalkes",29.7505,M,Arkansas
+1024,Chemistry,29.7503,F,"South  Carolina"
+1025,"Ada Jones",29.7315,F,Arkansas
+1026,"Louis Prima",29.6876,F,Arkansas
+1027,"The Royal Philharmonic Orchestra",29.6852,F,Oregon
+1028,"Ben Harper",29.6814,M,Montana
+1029,"Billy Bragg",29.6703,F,Minnesota
+1030,"The Eels",29.6664,M,Massachusetts
+1031,"Little River Band",29.6482,F,Massachusetts
+1032,"New Edition",29.6391,M,Washington
+1033,"Gordon Lightfoot",29.6387,M,Connecticut
+1034,"Public Image Ltd",29.6207,F,Missouri
+1035,"Papa Charlie Jackson",29.5676,M,"Rhode Island"
+1036,"Stephen Stills",29.4662,M,Mississippi
+1037,Extreme,29.2599,M,Kentucky
+1038,"Renato Zero",29.2413,F,"New Mexico"
+1039,"My Chemical Romance",29.2395,M,Arkansas
+1040,"Stone Temple Pilots",29.2331,F,Illinois
+1041,"The Specials",29.2289,M,Louisiana
+1042,"Walter Davis",29.1901,F,Minnesota
+1043,"Michel Polnareff",29.1264,F,Montana
+1044,"Jeff Beck",29.0369,M,Kansas
+1045,"Joseph Smith & his Orchestra",29.0157,M,Nebraska
+1046,"Shep Fields & his Rippling Rhythm Orchestra",28.9857,M,Iowa
+1047,Imagination,28.9843,F,Vermont
+1048,"Freddie Mercury",28.9692,F,Indiana
+1049,"J J Cale",28.9398,F,"New Hampshire"
+1050,"Bill Cosby",28.9280,M,Delaware
+1051,"Tokio Hotel",28.9185,F,Arizona
+1052,"Crosby Stills & Nash",28.8873,M,Wyoming
+1053,Impressions,28.8819,M,Indiana
+1054,"Bloc Party",28.8794,F,Virginia
+1055,"Andrea Berg",28.8774,F,"New Hampshire"
+1056,"Erste Allgemeine Verunsicherung",28.8769,F,Alaska
+1057,Devo,28.8669,M,Tennessee
+1058,"Ryan Adams",28.8304,F,California
+1059,"Adam Faith",28.8303,F,"New Hampshire"
+1060,"Jonas Brothers",28.7789,M,Arizona
+1061,"Nakajima You See & Keep",28.7701,F,"New Jersey"
+1062,"Jan & Dean",28.7536,F,Virginia
+1063,"The Carter Family",28.7445,M,Oregon
+1064,"Matsuyama Chiharu",28.7363,M,Louisiana
+1065,"Magnus Uggla",28.7313,F,Wisconsin
+1066,"Jimmy Barnes",28.7197,F,"South Dakota"
+1067,"Dave Edmunds",28.7057,M,Nebraska
+1068,Monica,28.6771,M,Wyoming
+1069,"Brad Paisley",28.6727,M,Michigan
+1070,"The Scissor Sisters",28.6451,F,Minnesota
+1071,"Georgie Fame",28.5986,M,Oregon
+1072,"Jim Croce",28.5824,M,Iowa
+1073,"Captain Beefheart",28.5810,M,Idaho
+1074,"Alexander O'Neal",28.5070,M,Massachusetts
+1075,"Billy Ray Cyrus",28.4773,M,"New York"
+1076,"Ted Nugent",28.4773,F,Oregon
+1077,"Mario Pinheiro",28.3766,F,Louisiana
+1078,"The Streets",28.3659,M,Kentucky
+1079,"Jason Donovan",28.3204,F,"New Hampshire"
+1080,"The Divine Comedy",28.2706,F,Arizona
+1081,"Francesco De Gregori",28.2695,M,Montana
+1082,"The Boomtown Rats",28.2503,F,Connecticut
+1083,"S Club 7",28.2164,M,Ohio
+1084,Helloween,28.2054,F,"South Dakota"
+1085,"Jeff Buckley",28.1872,M,Hawaii
+1086,"The Troggs",28.1590,M,"New Mexico"
+1087,"Helen Shapiro",28.1566,M,Georgia
+1088,"Miley Cyrus",28.1092,M,Alabama
+1089,"Chaka Khan",28.0873,F,"South Dakota"
+1090,"Soft Cell",28.0731,F,Massachusetts
+1091,"Bellamy Brothers",27.9947,M,Pennsylvania
+1092,Anthrax,27.9518,F,Hawaii
+1093,"The Partridge Family",27.7981,M,Florida
+1094,"Antonello Venditti",27.7695,F,Utah
+1095,"Jackie Wilson",27.7660,M,Kentucky
+1096,"Burt Bacharach",27.7509,F,Pennsylvania
+1097,Steps,27.7405,M,Oklahoma
+1098,"David Gray",27.7348,F,Minnesota
+1099,"Sarah Connor",27.6446,M,Nebraska
+1100,"Mr Big",27.6415,M,"Rhode Island"
+1101,Saga,27.6309,F,Tennessee
+1102,"Skid Row",27.6080,M,Washington
+1103,Stereolab,27.5522,F,Indiana
+1104,"Howlin' Wolf",27.5492,F,Alaska
+1105,Nightwish,27.4648,M,Nevada
+1106,"Reinhard Mey",27.4445,F,Georgia
+1107,"Patricia Kaas",27.4212,M,Colorado
+1108,"Wynonie Harris",27.4056,M,Kansas
+1109,"Tomas Ledin",27.3982,M,Tennessee
+1110,"David Cassidy",27.3478,M,Kentucky
+1111,"Icebox Capital Mediating/helping",27.3350,F,Minnesota
+1112,t.A.T.u.,27.3139,F,Pennsylvania
+1113,"Heaven 17",27.2263,M,Idaho
+1114,"Bud Powell",27.1874,M,"West Virginia"
+1115,MIA,27.1793,F,Florida
+1116,Loverboy,27.1324,F,"New Mexico"
+1117,"Clifford Brown & Max Roach",27.1227,F,"New Hampshire"
+1118,"Alannah Myles",27.1200,F,Minnesota
+1119,"Rose Royce",27.0899,F,"West Virginia"
+1120,"Gilberto Alves",27.0507,M,"South Dakota"
+1121,Cameo,26.9979,M,Montana
+1122,"Gastao Formenti",26.9966,F,Washington
+1123,"The Go Gos",26.9785,M,Ohio
+1124,"Slim Whitman",26.9423,F,Montana
+1125,Alabama,26.8638,F,"New Jersey"
+1126,"Maxime Le Forestier",26.8485,F,Minnesota
+1127,"Etta James",26.8242,M,Wisconsin
+1128,"Basement Jaxx",26.8236,M,"West Virginia"
+1129,"Frederic Francois",26.8168,M,Nebraska
+1130,"Wayne King",26.7816,M,Connecticut
+1131,"Rahsaan Roland Kirk",26.7417,M,Pennsylvania
+1132,"Andy Gibb",26.7369,M,"West Virginia"
+1133,"Cliff Edwards (Ukelele Ike)",26.7274,F,"South Dakota"
+1134,"Sigur Ros",26.6950,M,"New Mexico"
+1135,Tiffany,26.6755,M,Arizona
+1136,Babyface,26.6704,F,Colorado
+1137,"Ingmar Nordstroms",26.6450,M,MaineMaryland
+1138,"Girls Aloud",26.6312,M,Virginia
+1139,"Larry Clinton",26.5578,F,Texas
+1140,Gabrielle,26.5176,F,Tennessee
+1141,"Peetie Wheatstraw",26.4772,F,Nebraska
+1142,"The Spin Doctors",26.4688,M,Illinois
+1143,"Xavier Naidoo",26.4603,F,Minnesota
+1144,"Death Cab for Cutie",26.4538,M,Wisconsin
+1145,Japan,26.4258,M,Arkansas
+1146,"Lucinda Williams",26.3563,F,Hawaii
+1147,"Michael Ball",26.3501,F,Alaska
+1148,"John Legend",26.3251,M,Alaska
+1149,"Patti LaBelle",26.2228,M,Alaska
+1150,Bushido,26.1999,F,Vermont
+1151,"Teenage Fanclub",26.1971,M,Louisiana
+1152,"Ethel Waters",26.1970,F,Washington
+1153,"Psychedelic Furs",26.1807,M,Massachusetts
+1154,"The Fray",26.1674,F,Mississippi
+1155,"Gigi D'Agostino",26.1557,M,Virginia
+1156,V6,26.1482,M,"North Carolina"
+1157,"Alberta Hunter",26.1164,F,"North Carolina"
+1158,"Elaine Paige",26.0761,M,Minnesota
+1159,"Gnarls Barkley",26.0449,M,"New Jersey"
+1160,"Bill Withers",26.0302,F,Oklahoma
+1161,"Tommy James & the Shondells",25.9941,M,Texas
+1162,"Enoch Light & his Orchestra",25.9837,M,California
+1163,"Rickie Lee Jones",25.9793,M,Ohio
+1164,"Buck Owens",25.9772,F,Arkansas
+1165,Saxon,25.9574,F,California
+1166,"Warren Zevon",25.9571,M,Texas
+1167,"Cecil Taylor",25.9493,F,Massachusetts
+1168,"Aracy de Almeida",25.9165,F,Minnesota
+1169,"Blue Oyster Cult",25.9159,F,"North Carolina"
+1170,"C&C Music Factory",25.8965,F,Wisconsin
+1171,UFO,25.8947,M,Kansas
+1172,"Lou Rawls",25.8709,F,Indiana
+1173,"Pat Metheny Group",25.8301,M,Louisiana
+1174,"The Three Suns",25.8113,F,Kansas
+1175,"Marc Almond",25.8006,M,Minnesota
+1176,"Augusto Calheiros",25.7935,M,Delaware
+1177,Interpol,25.7788,F,Kansas
+1178,"The Crickets",25.7607,F,Arkansas
+1179,"Pino Daniele",25.6407,M,"South Dakota"
+1180,"Judy Collins",25.6305,M,Minnesota
+1181,"The Replacements",25.6218,M,Iowa
+1182,"Martin Denny",25.6199,M,Oregon
+1183,"Jimmy Cliff",25.5992,M,Kentucky
+1184,"Sister Sledge",25.5760,M,Florida
+1185,Bahiano,25.5418,F,Michigan
+1186,Common,25.5371,M,Washington
+1187,"Brian Eno",25.5142,M,Massachusetts
+1188,"Nilla Pizzi",25.4976,M,Washington
+1189,Daughtry,25.4837,F,Montana
+1190,Deftones,25.4554,M,Georgia
+1191,"Porcupine Tree",25.4429,F,Colorado
+1192,"Right Said Fred",25.4357,F,"North Carolina"
+1193,Jovanotti,25.4237,F,Kentucky
+1194,"Miklos Rozsa",25.4001,M,"South Dakota"
+1195,Five,25.3982,M,Tennessee
+1196,"Franco Battiato",25.3694,M,Illinois
+1197,Duffy,25.3649,M,Indiana
+1198,"Watanabe Biri",25.3643,F,"South  Carolina"
+1199,"Anita O'Day",25.3540,F,"New Mexico"
+1200,"Modest Mouse",25.3509,F,Iowa
+1201,"The Wedding Present",25.3484,M,Vermont
+1202,"The Blues Brothers",25.3033,M,"North Dakota"
+1203,"The Mothers of Invention",25.2910,M,Wyoming
+1204,"Dr Alban",25.2827,F,Georgia
+1205,"No Angels",25.2638,M,"New York"
+1206,"Wes Montgomery",25.2507,M,Oregon
+1207,"Billy Eckstine",25.2350,F,Virginia
+1208,Focus,25.2093,M,Texas
+1209,"Black Box",25.1596,M,Hawaii
+1210,KLF,25.1488,F,Idaho
+1211,"Gilbert Becaud",25.0878,F,Ohio
+1212,"Barbecue Bob",25.0375,M,"New Hampshire"
+1213,"Elkie Brooks",25.0245,M,Michigan
+1214,"Fairport Convention",25.0092,M,Oklahoma
+1215,"The Tragically Hip",24.9994,M,Vermont
+1216,"Woody Guthrie",24.9848,F,Idaho
+1217,LOVE,24.9466,M,Georgia
+1218,WASP,24.9128,M,Alaska
+1219,Train,24.8170,M,Ohio
+1220,"Linda Batista",24.7990,F,MaineMaryland
+1221,"Neneh Cherry",24.7971,M,Connecticut
+1222,Accept,24.7952,F,Virginia
+1223,"Rick James",24.7546,M,Oklahoma
+1224,"P J Proby",24.7545,M,Oregon
+1225,"Eddy Mitchell",24.7408,F,Michigan
+1226,"Manu Chao",24.7168,M,Connecticut
+1227,"Wiener Philharmoniker",24.7145,F,Oregon
+1228,"The Mission",24.7127,M,Hawaii
+1229,"Spencer Davis Group",24.6885,F,Missouri
+1230,"Will Tura",24.6376,F,Wyoming
+1231,Goldfrapp,24.6225,M,Montana
+1232,"The New Seekers",24.5795,M,Mississippi
+1233,"Booker T & the MGs",24.5639,F,Arkansas
+1234,"The Faces",24.5572,F,"North Carolina"
+1235,"Adam Ant",24.5374,F,Montana
+1236,"Deacon Blue",24.5180,M,"North Dakota"
+1237,"Bjorn Afzelius",24.5065,F,Kentucky
+1238,"Pete Seeger",24.5030,M,Georgia
+1239,"Richard Thompson",24.5009,F,Virginia
+1240,"Aled Jones",24.4946,M,Mississippi
+1241,"Rita Pavone",24.4540,M,Texas
+1242,Pavement,24.4308,F,Hawaii
+1243,"Age Aleksandersen",24.3912,F,Alabama
+1244,"Celine Dion & James Horner",24.3664,F,Kentucky
+1245,"The Damned",24.3283,M,Tennessee
+1246,"Jane's Addiction",24.3187,F,Utah
+1247,"Scritti Politti",24.2832,M,"Rhode Island"
+1248,"Lee Morgan",24.2570,M,Connecticut
+1249,Feeder,24.2527,F,Ohio
+1250,"Vanilla Ice",24.2331,F,"North Carolina"
+1251,"The Proclaimers",24.1929,F,"South  Carolina"
+1252,"Laura Branigan",24.1679,F,Florida
+1253,"Freddie Hubbard",24.1100,M,Arkansas
+1254,Thorleifs,24.0778,F,"South  Carolina"
+1255,"Johnny Mercer",24.0556,M,Georgia
+1256,"Scott Walker",24.0283,F,Vermont
+1257,Aswad,24.0283,F,"South Dakota"
+1258,"Dircinha Batista",24.0278,F,Utah
+1259,"Graham Parker",24.0188,M,Arkansas
+1260,McFly,24.0168,F,Pennsylvania
+1261,"Samantha Fox",24.0159,F,"New York"
+1262,"Edoardo Bennato",24.0109,M,Indiana
+1263,Sky,24.0000,F,"North Dakota"
+1264,"Arrested Development",23.9564,M,Georgia
+1265,"Colbie Caillat",23.8946,M,Colorado
+1266,"Split Enz",23.8500,M,Georgia
+1267,"Ted Weems",23.8132,F,Georgia
+1268,"Serge Lama",23.8130,M,Alabama
+1269,Yazoo,23.8109,F,Utah
+1270,"Al Hirt",23.7947,F,"North Dakota"
+1271,Eternal,23.7857,M,Pennsylvania
+1272,"Melanie C",23.7721,M,Alabama
+1273,"Wolfgang Amadeus Mozart",23.7228,F,Nebraska
+1274,"George Carlin",23.7184,F,Florida
+1275,"Ashlee Simpson",23.7067,M,Virginia
+1276,"Susan Boyle",23.6939,M,Massachusetts
+1277,"Jive Bunny & The Mastermixers",23.6206,F,Iowa
+1278,"Lily Allen",23.6206,F,Vermont
+1279,"Renato Carosone",23.6047,M,"North Dakota"
+1280,"Tommy Steele",23.5894,M,Montana
+1281,"Bob Crosby & his Orchestra",23.5566,F,"New Mexico"
+1282,"Cal Stewart",23.5550,F,"West Virginia"
+1283,Sepultura,23.5071,F,Mississippi
+1284,"Frederick Loewe",23.4981,M,Delaware
+1285,"Every Little Thing",23.4497,F,Georgia
+1286,"The Lighthouse Family",23.4319,F,"South  Carolina"
+1287,"Merle Haggard",23.3829,F,Wyoming
+1288,"Lloyd Cole & The Commotions",23.3757,M,Washington
+1289,"Wishbone Ash",23.3133,M,Oregon
+1290,"Coleman Hawkins",23.2759,F,Connecticut
+1291,"Adam & The Ants",23.2323,F,Massachusetts
+1292,"Stan Getz & Joao Gilberto",23.2075,F,Michigan
+1293,"Udo Lindenberg",23.1849,M,Arkansas
+1294,Magnum,23.0964,F,Texas
+1295,"Michael Crawford",23.0853,M,Mississippi
+1296,"Lady Antebellum",23.0822,F,"New Hampshire"
+1297,"Jean-Jacques Goldman",23.0705,M,Indiana
+1298,Motorpsycho,23.0542,F,Texas
+1299,"Leroy Carr",23.0486,F,"New Mexico"
+1300,"Jean Ferrat",23.0449,F,Tennessee
+1301,"Soul Asylum",23.0396,M,Connecticut
+1302,"Florent Pagny",23.0358,F,"New Mexico"
+1303,Bauhaus,22.9783,F,Utah
+1304,"Banda da Casa Edison",22.9744,M,"West Virginia"
+1305,"Joe Satriani",22.9577,M,Delaware
+1306,"Harry Secombe",22.8895,M,"New Jersey"
+1307,Parliament,22.8843,M,"New York"
+1308,Association,22.8398,F,Oregon
+1309,"Wyclef Jean",22.7836,M,"New York"
+1310,Doves,22.7321,M,Connecticut
+1311,"Will Young",22.7179,F,Montana
+1312,"LCD Soundsystem",22.6961,F,"New York"
+1313,"Tachiro Yamashita",22.6891,M,"New Mexico"
+1314,"The Knack",22.6626,F,Arizona
+1315,"Hamada Ministry Our",22.6595,F,Kansas
+1316,"Kris Kross",22.6532,F,Montana
+1317,"Toshihiko Tahara",22.6518,F,Nebraska
+1318,"Brothers Johnson",22.6452,M,Arkansas
+1319,"Lucio Dalla",22.6217,M,Vermont
+1320,"Kate Smith",22.5803,F,Florida
+1321,"KT Tunstall",22.5633,M,Utah
+1322,"Lee Konitz",22.5012,M,"New Hampshire"
+1323,"Bernard Lavilliers",22.4991,F,Georgia
+1324,"David Gilmour",22.4734,M,Georgia
+1325,"Ella Fitzgerald & Louis Armstrong",22.4654,M,"North Carolina"
+1326,"Mike Brant",22.4616,F,Florida
+1327,Clannad,22.4587,M,Georgia
+1328,Sasha,22.4536,M,"Rhode Island"
+1329,"The Kaiser Chiefs",22.4092,M,Wyoming
+1330,GLOBE,22.4084,F,Georgia
+1331,Catatonia,22.4052,F,Alaska
+1332,"Yngwie J Malmsteen",22.3500,M,"South Dakota"
+1333,"Lester Young",22.3114,M,Oregon
+1334,T'Pau,22.3111,M,Nebraska
+1335,"The Three Degrees",22.2907,M,"Rhode Island"
+1336,Alice,22.2830,M,Wyoming
+1337,Amigos,22.2825,F,Pennsylvania
+1338,"Kishor Kumar",22.2714,F,Alaska
+1339,"Lill Lindfors",22.2633,M,Colorado
+1340,"Blind Lemon Jefferson",22.2371,M,"North Dakota"
+1341,"The Roots",22.2298,F,Arkansas
+1342,"Light Genji",22.2214,F,Georgia
+1343,"JW Myers",22.2151,M,Colorado
+1344,"Crash Test Dummies",22.2072,F,Tennessee
+1345,"Jimmy Giuffre",22.1959,F,California
+1346,"Peppino di Capri",22.1763,F,Kansas
+1347,"Wolfgang Petry",22.1485,M,Ohio
+1348,"Georgia Gibbs",22.1365,M,Oklahoma
+1349,"USA For Africa",22.1183,M,Oregon
+1350,Michelle,22.1168,M,"New Hampshire"
+1351,Man'o'war,22.0902,F,Montana
+1352,"Rocco Granata",22.0852,F,Colorado
+1353,"Bela Bartok",22.0796,M,Alabama
+1354,"Dinosaur Jr",22.0683,F,"North Dakota"
+1355,Funkadelic,22.0602,F,Connecticut
+1356,"Barbara Dickson",22.0559,M,Idaho
+1357,"Chet Atkins",21.9643,M,"New York"
+1358,"Martina McBride",21.9433,F,"North Dakota"
+1359,"Robert Cray Band",21.9032,M,"South  Carolina"
+1360,"Roberto Vecchioni",21.8899,M,Texas
+1361,"Joe Loss Orchestra",21.8778,F,Iowa
+1362,"Yma Sumac",21.8736,M,Massachusetts
+1363,Shalamar,21.8490,M,Idaho
+1364,Indochine,21.8388,M,Kansas
+1365,Ginuwine,21.7971,F,"New Jersey"
+1366,"Richard Anthony",21.7962,M,Alabama
+1367,"Nancy Wilson",21.7935,M,Nebraska
+1368,"Wayne Shorter",21.7763,M,Massachusetts
+1369,"Dalva de Oliveira",21.7704,M,Ohio
+1370,"Eva Cassidy",21.7691,F,Wyoming
+1371,"Iron Butterfly",21.7168,M,Minnesota
+1372,Lonestar,21.6759,M,Tennessee
+1373,"Indigo Girls",21.6747,M,"South Dakota"
+1374,"Eddy Arnold",21.6612,F,Virginia
+1375,"Rufus & Chaka Khan",21.6602,F,Virginia
+1376,"Four Non Blondes",21.6174,M,Georgia
+1377,"Bloodhound Gang",21.6057,M,Tennessee
+1378,"Ma Rainey",21.5606,M,Nebraska
+1379,"Donald Fagen",21.5442,M,Idaho
+1380,"The Tornados",21.5387,F,Connecticut
+1381,"Original Soundtrack",21.5376,M,Minnesota
+1382,"Brian McKnight",21.5059,F,Colorado
+1383,"Oystein Sunde",21.5057,F,Utah
+1384,Hole,21.5036,M,Massachusetts
+1385,"Nik Kershaw",21.4673,M,Virginia
+1386,"Andy Kirk",21.4652,F,Michigan
+1387,Sheila,21.4428,M,Indiana
+1388,"The Tremeloes",21.4049,M,Michigan
+1389,"Riccardo Cocciante",21.3954,M,Hawaii
+1390,"Comedian Harmonists",21.3742,F,"South Dakota"
+1391,"The Orioles",21.3684,M,Vermont
+1392,"Hannah Montana & Miley Cyrus",21.3384,F,"New Mexico"
+1393,"Todd Rundgren",21.3116,M,Florida
+1394,"Art Tatum",21.2170,F,Vermont
+1395,"Steve Harley & Cockney Rebel",21.2026,M,Georgia
+1396,Alphaville,21.1784,M,Georgia
+1397,"Joni James",21.1334,M,"South  Carolina"
+1398,Rebecca,21.0845,M,Iowa
+1399,"Charlie Rich",21.0539,F,Texas
+1400,"Del Amitri",21.0172,F,"New Jersey"
+1401,"Ian Dury & The Blockheads",21.0019,M,"New Jersey"
+1402,"Victoria Spivey",20.9941,F,"North Dakota"
+1403,Marlene,20.9177,F,Oregon
+1404,"Victor Young",20.9050,F,Arizona
+1405,"Simple Plan",20.8872,M,Montana
+1406,"Loreena McKennitt",20.8778,F,"West Virginia"
+1407,"Off Course",20.8398,M,Oklahoma
+1408,"Bucks Fizz",20.8229,M,Montana
+1409,"The Whispers",20.8076,M,Alabama
+1410,"Average White Band",20.7909,F,Virginia
+1411,"China Crisis",20.7887,M,"New Jersey"
+1412,Fergie,20.6945,F,Kansas
+1413,"Robert Johnson",20.6916,M,Georgia
+1414,"Tina Charles",20.6906,M,California
+1415,"Eric B & Rakim",20.6899,M,Nevada
+1416,"The Game",20.6667,F,Texas
+1417,"Charles Harrison",20.6612,M,Hawaii
+1418,Flamingokvintetten,20.6502,F,California
+1419,Drake,20.6481,F,"New Jersey"
+1420,"Papa Roach",20.6207,F,Wyoming
+1421,"Ugly Kid Joe",20.6132,M,Georgia
+1422,"Mr Mister",20.6111,F,"New Hampshire"
+1423,"Inoue Positive Water",20.6052,F,Utah
+1424,"Dexter Gordon",20.5906,M,Washington
+1425,"Eartha Kitt",20.5902,M,"South  Carolina"
+1426,Opeth,20.5878,M,Kentucky
+1427,"Delta Goodrem",20.5713,M,Florida
+1428,"Patty Pravo",20.5365,F,"New York"
+1429,"Lyle Lovett",20.5062,M,Delaware
+1430,"Roger Miller",20.5054,M,California
+1431,ELdkvarn,20.4886,F,Virginia
+1432,"George Jones",20.4875,F,Hawaii
+1433,Embrace,20.4636,M,"West Virginia"
+1434,Morcheeba,20.4267,M,"New Jersey"
+1435,Bush,20.3934,F,Idaho
+1436,"Lou Bega",20.3635,M,Pennsylvania
+1437,"Hanne Boel",20.3584,M,Indiana
+1438,"Yasumuro Nami Megumi",20.3503,M,"South Dakota"
+1439,"Vince Guaraldi Trio",20.2817,F,Illinois
+1440,"The Walker Brothers",20.2664,M,Georgia
+1441,"Bjorn Skifs",20.2567,F,"North Dakota"
+1442,"Michael McDonald",20.2204,F,Mississippi
+1443,Maxwell,20.2180,M,Alaska
+1444,Thunder,20.2162,M,Idaho
+1445,"Lloyd Price",20.2119,M,Vermont
+1446,"Bobby Rydell",20.1941,F,Georgia
+1447,"Gene Vincent",20.0974,M,Connecticut
+1448,"Amanda Lear",20.0835,M,Minnesota
+1449,"Five Star",20.0720,F,Texas
+1450,Ekseption,20.0283,M,Vermont
+1451,"Gene Krupa",20.0247,F,Georgia
+1452,Boa,20.0246,F,Nebraska
+1453,"Vanessa Williams",20.0111,F,Delaware
+1454,"Bad Religion",19.9617,F,Indiana
+1455,Boowy,19.9569,M,Illinois
+1456,"Donald Byrd",19.9500,M,Nevada
+1457,"The Lightning Seeds",19.9448,M,Massachusetts
+1458,"Sippie Wallace",19.9428,F,"Rhode Island"
+1459,"Ole Ivars",19.9163,M,Hawaii
+1460,"Guess Who",19.8955,F,Washington
+1461,"Yeah Yeah Yeahs",19.8799,M,Arizona
+1462,"Dizzee Rascal",19.8612,F,Connecticut
+1463,"Brook Benton",19.8115,F,"New Mexico"
+1464,"Ozzie Nelson & his Orchestra",19.8106,F,Oregon
+1465,"Geoff Love",19.8035,F,Georgia
+1466,Godsmack,19.8035,M,Illinois
+1467,"Mott The Hoople",19.7916,F,Utah
+1468,Lettermen,19.7703,M,"North Carolina"
+1469,"Jahn Teigen",19.7693,M,Kansas
+1470,"Margaret Whiting",19.7692,M,"South Dakota"
+1471,"Teddy Pendergrass",19.7640,F,Wisconsin
+1472,"Eva Dahlgren",19.7325,M,Texas
+1473,"Nils Lofgren",19.7190,M,"New Hampshire"
+1474,"P Diddy & The Bad Boy Family",19.7137,F,Oregon
+1475,"Mars Volta",19.7117,F,Ohio
+1476,"Julie London",19.7017,M,Massachusetts
+1477,"Frankie Avalon",19.6978,F,Illinois
+1478,"Isaura Garcia",19.6919,F,Montana
+1479,"Yazawa Eikichi",19.6614,F,Mississippi
+1480,"Vincent Lopez",19.6140,M,Missouri
+1481,"Art Mooney",19.6054,F,Arizona
+1482,Paramore,19.5988,M,"South Dakota"
+1483,"Roger Waters",19.5859,M,Michigan
+1484,"Paradise Lost",19.5829,F,"New York"
+1485,"The Crew-Cuts",19.5703,M,Alaska
+1486,"Sergio Mendes & Brasil '66",19.5670,M,Minnesota
+1487,"The Shirelles",19.5392,M,Colorado
+1488,Sven-Ingvars,19.5254,F,Alabama
+1489,"Brunner & Brunner",19.5114,F,Ohio
+1490,"Sizuka Kudou",19.4941,M,Mississippi
+1491,"Spike Jones",19.4591,M,Iowa
+1492,BLACKstreet,19.4341,M,Florida
+1493,"Tommy Roe",19.4119,M,Mississippi
+1494,"Dwight Yoakam",19.4106,F,"South  Carolina"
+1495,Royksopp,19.4064,M,Arizona
+1496,"Takeuchi Ball And",19.3884,M,"South Dakota"
+1497,"Nick Lowe",19.3698,F,"South  Carolina"
+1498,"James Horner",19.3623,M,Utah
+1499,"Finn Kalvik",19.3495,M,Colorado
+1500,"Gyllene Tider",19.3465,M,Nevada
+1501,Kasabian,19.3259,M,Arizona
+1502,Ice-T,19.2936,F,Nevada
+1503,"Albert Ayler",19.2840,M,Hawaii
+1504,"Irene Cara",19.2668,F,"North Dakota"
+1505,"Jamie Cullum",19.2402,M,Minnesota
+1506,"Sousa's Band",19.1839,F,Arizona
+1507,NWA,19.1731,M,Arkansas
+1508,Gotthard,19.1579,F,"South Dakota"
+1509,"John Martyn",19.1427,F,Arizona
+1510,"Throwing Muses",19.1408,F,Illinois
+1511,"The Zombies",19.1066,F,Kentucky
+1512,"Blue System",19.1050,F,California
+1513,"Sissel Kyrkjebo",19.1014,F,Idaho
+1514,"Trio de Ouro",19.0964,M,Arizona
+1515,Mogwai,19.0626,M,California
+1516,E-Type,19.0437,M,Wyoming
+1517,"Terje Tysland",19.0134,M,"South Dakota"
+1518,"Gino Vannelli",18.9963,F,Minnesota
+1519,"Zeze Di Camargo & Luciano",18.9721,M,Illinois
+1520,Gomez,18.9607,F,Colorado
+1521,"Jimmie Davis",18.9457,M,Indiana
+1522,"Santo & Johnny",18.9140,M,Wisconsin
+1523,"Allan Sherman",18.8997,M,Utah
+1524,"Jimmie Lunceford",18.8933,M,"New Mexico"
+1525,"Rob Thomas",18.8868,F,Nevada
+1526,"Peter Lemarc",18.8800,F,Ohio
+1527,"Grant Green",18.8746,M,Virginia
+1528,"The Darkness",18.8404,M,Vermont
+1529,"Angela Maria",18.8333,M,"New Hampshire"
+1530,"Vince Gill",18.8200,M,"New Hampshire"
+1531,"Vonda Shepard",18.7983,F,Virginia
+1532,"Alain Souchon",18.7769,F,Wyoming
+1533,"Marc Anthony",18.7618,M,Ohio
+1534,"Sam & Dave",18.7480,M,"Rhode Island"
+1535,"David Hasselhoff",18.7251,F,Georgia
+1536,Idlewild,18.7199,F,"New Mexico"
+1537,DeLillos,18.7003,F,"West Virginia"
+1538,"Too Short",18.6665,F,Tennessee
+1539,"Gap Band",18.6298,F,Nevada
+1540,"Bjorn Eidsvog",18.6295,F,Arkansas
+1541,"Irving Kaufman",18.6172,M,Alabama
+1542,"Nick Lucas",18.5480,M,"New Mexico"
+1543,"Olivia Newton-John & Electric Light Orchestra",18.5388,F,Colorado
+1544,"Sum 41",18.5282,F,Nevada
+1545,"June Christy",18.5173,M,Louisiana
+1546,"Les Brown",18.5166,F,Idaho
+1547,"Paul Mauriat & his Orchestra",18.5025,M,Vermont
+1548,"Sergio Bruni",18.4755,F,California
+1549,Scarface,18.4558,M,Colorado
+1550,Spiritualized,18.4550,F,Oklahoma
+1551,"Patrick Bruel",18.4416,M,Minnesota
+1552,"The Happy Mondays",18.3959,M,"New York"
+1553,"The Coasters",18.3951,M,Kentucky
+1554,"The Incredible String Band",18.3689,F,Michigan
+1555,Era,18.3637,F,Indiana
+1556,Tindersticks,18.3624,M,Hawaii
+1557,"Joe Dolan",18.3432,M,"New Hampshire"
+1558,Swans,18.3087,F,Michigan
+1559,"Nanci Griffith",18.3046,F,Ohio
+1560,Sisqo,18.2943,M,Michigan
+1561,"Rita Coolidge",18.2713,F,Alaska
+1562,"Alma Cogan",18.2561,F,Arizona
+1563,Wire,18.2521,M,Tennessee
+1564,"Husker Du",18.2348,F,Wyoming
+1565,"Bronski Beat",18.2303,F,Wisconsin
+1566,"The Levellers",18.2209,F,Wyoming
+1567,"Teddy Reno",18.2117,M,"New York"
+1568,"Amos Milburn",18.2105,F,Oregon
+1569,"Sandie Shaw",18.2077,M,Idaho
+1570,"In Flames",18.1999,M,Kansas
+1571,"Jagged Edge",18.1976,M,Iowa
+1572,"Red Garland",18.1912,M,Minnesota
+1573,"Shocking Blue",18.1563,M,"South  Carolina"
+1574,"Agnetha Faltskog",18.1439,F,Kentucky
+1575,"Aimee Mann",18.1184,F,"West Virginia"
+1576,"Perez Prado",18.1162,F,Louisiana
+1577,"Emilinha Borba",18.0991,M,"North Dakota"
+1578,"Stephan Eicher",18.0913,M,Oklahoma
+1579,"Wilmer X",18.0890,F,"New Mexico"
+1580,"Cornelis Vreeswijk",18.0669,F,Wisconsin
+1581,"Elegance Osamu Fukuyama",18.0474,F,Kentucky
+1582,"Charlotte Church",18.0435,F,Wyoming
+1583,"Luis Miguel",18.0392,M,Kentucky
+1584,Runrig,17.9762,M,"West Virginia"
+1585,"Steve Hackett",17.9719,M,"New Hampshire"
+1586,"Eddie Calvert",17.9322,M,Massachusetts
+1587,"Four Lads",17.9057,F,"New Hampshire"
+1588,"Art Pepper",17.8874,F,Vermont
+1589,"Charlie Barnet",17.8837,M,Alabama
+1590,"Bright Eyes",17.8584,M,"New Jersey"
+1591,"Machine Head",17.8253,F,Oregon
+1592,"The Fixx",17.8218,M,Ohio
+1593,"John Travolta & Olivia Newton-John",17.8132,F,"North Carolina"
+1594,"Semino Rossi",17.8092,F,Washington
+1595,"Philip Glass",17.7904,M,"New Hampshire"
+1596,"Carmen Cavallaro",17.7409,M,Virginia
+1597,"Howard Shore",17.7400,M,"New Hampshire"
+1598,"The Diamonds",17.7369,F,Mississippi
+1599,"Luis Mariano",17.7142,M,Louisiana
+1600,"Nina Hagen",17.6916,F,Wyoming
+1601,"McGuire Sisters",17.6698,F,Colorado
+1602,"Gerard Lenorman",17.6660,M,Nebraska
+1603,"Vazelina Bilopphoggers",17.6555,M,Hawaii
+1604,"Hank Mobley",17.6121,M,Utah
+1605,Space,17.5966,M,MaineMaryland
+1606,"Andy Borg",17.5555,F,Vermont
+1607,"The Chordettes",17.5214,M,Connecticut
+1608,"Claudia Jung",17.4958,F,Vermont
+1609,"Jill Scott",17.4899,M,Michigan
+1610,"Kim Larsen",17.4796,F,Hawaii
+1611,Elbow,17.4598,F,Massachusetts
+1612,"Current 93",17.4341,M,"Rhode Island"
+1613,"Stan Getz & Charlie Byrd",17.4207,F,"Rhode Island"
+1614,"Conway Twitty",17.3975,M,Michigan
+1615,Ratt,17.3554,F,Wisconsin
+1616,"David Sylvian",17.3471,F,Texas
+1617,"John Miles",17.3297,M,Wyoming
+1618,"B J Thomas",17.3157,F,Florida
+1619,"Angelo Branduardi",17.3083,F,Oregon
+1620,"Floyd Dixon",17.2856,M,"New Jersey"
+1621,"Glenn Gould",17.2651,F,"Rhode Island"
+1622,"Kenny Dorham",17.2644,F,Utah
+1623,"Cyro Monteiro",17.2613,M,"North Carolina"
+1624,"Georges Moustaki",17.2539,F,Alaska
+1625,"Francesco Guccini",17.2419,F,Oklahoma
+1626,"Francis Poulenc",17.2273,F,Florida
+1627,"The Hilltoppers",17.2265,M,Mississippi
+1628,"Ernest Hare",17.2188,M,Arizona
+1629,Gregorian,17.2171,M,Alaska
+1630,"Van & Schenck",17.2096,M,"Rhode Island"
+1631,"Matt Monro",17.2039,F,Tennessee
+1632,"Gary Glitter",17.1846,F,Louisiana
+1633,"4 Ases & Um Coringa",17.1718,F,"New Jersey"
+1634,"Pascal Obispo",17.1673,F,Arizona
+1635,"Xavier Cugat",17.1607,F,Mississippi
+1636,"Middle of The Road",17.1560,F,Florida
+1637,Testament,17.1494,M,"West Virginia"
+1638,"Cold Chisel",17.1284,F,Georgia
+1639,"Ben E King",17.1121,F,Georgia
+1640,"Big Joe Turner",17.1049,M,Alaska
+1641,Aventura,17.0894,F,Iowa
+1642,"Keith Jarrett",17.0890,M,Wisconsin
+1643,"Mikael Wiehe",17.0649,F,Massachusetts
+1644,"Don Cornell",17.0648,M,Hawaii
+1645,"Tony Orlando & Dawn",17.0634,F,Oklahoma
+1646,"Ahmad Jamal",17.0569,M,"New York"
+1647,"Robin Trower",17.0465,F,Wyoming
+1648,"Vaya Con Dios",17.0323,F,Texas
+1649,M-flo,17.0297,M,Delaware
+1650,"Michel Legrand",17.0123,F,Nevada
+1651,"Pierre Perret",17.0084,M,Florida
+1652,"Ray Anthony",17.0048,F,Nevada
+1653,"Odete Amaral",16.9820,M,Vermont
+1654,"Bonnie 'Prince' Billy",16.9804,F,Arizona
+1655,"Ursprung Buam",16.9319,F,Texas
+1656,D.D.E.,16.9143,M,Nevada
+1657,STS,16.8729,F,Hawaii
+1658,"Lynda Lemay",16.8715,F,Pennsylvania
+1659,"Ludwig Hirsch",16.8643,F,Washington
+1660,"Jools Holland",16.8570,M,Colorado
+1661,Ministry,16.8478,F,"North Carolina"
+1662,"Okamura Filial Piety Child",16.8400,M,California
+1663,"Martha Tilton",16.8296,F,Pennsylvania
+1664,"Julian Cope",16.8198,M,Illinois
+1665,"Weather Report",16.8015,F,Wisconsin
+1666,"John Cage",16.8003,F,Minnesota
+1667,"Stan Getz",16.7953,M,California
+1668,"Master P",16.7942,F,Nebraska
+1669,"The Go-Betweens",16.7610,F,Oklahoma
+1670,"Billy Talent",16.7110,F,Louisiana
+1671,"Hank Marvin",16.6903,M,Montana
+1672,"Polo Hofer & die Schmetterband",16.6899,F,Virginia
+1673,"Christer Sjogren",16.6887,F,Delaware
+1674,"The American United States Club",16.6197,F,Montana
+1675,"Brian Wilson",16.6183,M,"Rhode Island"
+1676,"Jack Smith",16.6124,M,Alabama
+1677,"Dick Farney",16.6025,F,Wisconsin
+1678,"Russell Watson",16.6017,F,Oregon
+1679,"DumDum Boys",16.5968,M,Michigan
+1680,"Des Lindberg",16.5886,F,Washington
+1681,"Chas & Dave",16.5850,F,Minnesota
+1682,"The Clovers",16.5816,M,Minnesota
+1683,"Brian Hyland",16.5751,M,"North Dakota"
+1684,Almirante,16.5640,M,MaineMaryland
+1685,Mud,16.5384,F,Louisiana
+1686,"Ole Paus",16.5192,F,Connecticut
+1687,"Billy Connolly",16.5163,F,Tennessee
+1688,Lindisfarne,16.5145,F,Hawaii
+1689,"Max Roach",16.5126,F,"North Dakota"
+1690,"Andrew Hill",16.5080,F,Minnesota
+1691,"Canned Heat",16.4947,M,Pennsylvania
+1692,"Kazumasa Oda",16.4915,F,"West Virginia"
+1693,"Leon Russell",16.4704,F,Wyoming
+1694,"Sean Kingston",16.4594,F,"North Dakota"
+1695,Krokus,16.4319,F,Texas
+1696,India.Arie,16.4110,F,Nebraska
+1697,"James Galway",16.4040,M,Texas
+1698,"Tom Lehrer",16.4027,F,"South Dakota"
+1699,"Eduardo das Neves",16.3830,F,"New Mexico"
+1700,"Ernest Hare & Billy Jones",16.3830,F,Ohio
+1701,Esquivel,16.3577,M,Michigan
+1702,"Pete Townshend",16.3378,M,Washington
+1703,"Etienne Daho",16.3331,F,Texas
+1704,"Frankie Vaughan",16.3181,F,Louisiana
+1705,"Hans Zimmer",16.3130,M,"North Carolina"
+1706,"Mannheim Steamroller",16.3067,F,"New York"
+1707,"George Russell",16.3018,F,Kentucky
+1708,Lulu,16.3017,F,Kansas
+1709,"Living Colour",16.3002,M,Hawaii
+1710,"Apricot Village",16.2917,M,Oregon
+1711,Smap,16.2863,F,Illinois
+1712,"The Shins",16.2705,F,Pennsylvania
+1713,Tube,16.2662,M,Oklahoma
+1714,"The Jayhawks",16.2503,F,Pennsylvania
+1715,"Ken Dodd",16.2269,M,Illinois
+1716,"Kenny Burrell",16.2254,F,Michigan
+1717,"Luciano Pavarotti & Friends",16.2043,F,Tennessee
+1718,Fugazi,16.1977,M,"New Hampshire"
+1719,"Color Me Badd",16.1433,M,Illinois
+1720,"Helene Fischer",16.1254,F,California
+1721,Television,16.1062,F,Michigan
+1722,Family,16.0947,F,Massachusetts
+1723,"Esther & Abi Ofarim",16.0563,F,Texas
+1724,"Bo Kaspers Orkester",16.0428,M,Arkansas
+1725,"Mercury Rev",16.0193,M,Pennsylvania
+1726,"101 Strings",15.9862,F,Alabama
+1727,"Lara Fabian",15.9353,F,Vermont
+1728,"David Guetta",15.9315,M,Kentucky
+1729,HammerFall,15.9256,M,Massachusetts
+1730,"Blind Faith",15.9036,F,Oklahoma
+1731,"Erik Satie",15.8693,M,Montana
+1732,"Arthur Pryor's Band",15.8640,F,Oregon
+1733,"Georg Danzer",15.8276,M,Wyoming
+1734,"PFM (Premiata Forneria Marconi)",15.8227,F,Oregon
+1735,"Carl Fenton",15.8225,F,Vermont
+1736,"Anjos do Inferno",15.8199,M,Delaware
+1737,Tricky,15.8190,M,Michigan
+1738,"Trixie Smith",15.7918,M,"West Virginia"
+1739,"Urbie Green",15.7872,F,Colorado
+1740,"Alfred Newman",15.7764,M,Iowa
+1741,"Yellow Magic Orchestra",15.7660,F,Louisiana
+1742,"Walter Van Brunt",15.7480,M,Wisconsin
+1743,"Joe Walsh",15.7387,M,"North Dakota"
+1744,"Billy Ward & The Dominoes",15.6946,F,"West Virginia"
+1745,"Abe Lyman & his California Orchestra",15.6815,M,Oklahoma
+1746,"Culture Beat",15.6807,F,Kentucky
+1747,"Charley Pride",15.6708,M,Louisiana
+1748,"Jack Jones",15.6692,F,Tennessee
+1749,"Rise Against",15.6626,F,"North Dakota"
+1750,TRF,15.6625,M,Colorado
+1751,"Steeleye Span",15.6522,F,Louisiana
+1752,"Yo La Tengo",15.6435,F,"Rhode Island"
+1753,"Nora Ney",15.6218,M,"South Dakota"
+1754,Starmania,15.6099,F,Alaska
+1755,"Ian Hunter",15.5829,M,Utah
+1756,"Van der Graaf Generator",15.5749,F,Ohio
+1757,"Kiddy Contest Kids",15.5696,F,Alaska
+1758,Orb,15.5336,M,"New Mexico"
+1759,"Blind Guardian",15.5290,F,Arkansas
+1760,"Rita Engebretsen & Helge Borglund",15.5271,F,"West Virginia"
+1761,"Ani DiFranco",15.5266,F,Kentucky
+1762,"Die Lollipops",15.5207,M,"West Virginia"
+1763,Tesla,15.5137,M,Oklahoma
+1764,"Skunk Anansie",15.4957,M,Alaska
+1765,"Alison Krauss",15.4954,M,Massachusetts
+1766,Deo,15.4734,F,Nevada
+1767,"Bob Wills & his Texas Playboys",15.4696,M,Alabama
+1768,"Sufjan Stevens",15.4661,F,Delaware
+1769,"Andreas Vollenweider",15.4589,M,Wyoming
+1770,"Captain & Tennille",15.4188,F,Vermont
+1771,"The Dorsey Brothers",15.4006,M,Tennessee
+1772,Orbital,15.3838,M,"South Dakota"
+1773,"Laura Nyro",15.3717,F,Iowa
+1774,"Paolo Conte",15.3615,F,Illinois
+1775,"Texas Alexander",15.3564,F,Minnesota
+1776,Fabolous,15.3555,F,Pennsylvania
+1777,"Martha & The Vandellas",15.3521,M,Nebraska
+1778,"John Fahey",15.3442,F,Illinois
+1779,"Nick Drake",15.3327,M,Illinois
+1780,"George Harrison & Various Artists",15.2679,F,Iowa
+1781,"George Shearing",15.2521,F,Iowa
+1782,"Jon Anderson",15.2398,M,Tennessee
+1783,"Lucille Hegamin",15.2322,M,Tennessee
+1784,"Vanilla Fudge",15.2299,F,"New Mexico"
+1785,"Max Boyce",15.1963,M,"South  Carolina"
+1786,"Bob Roberts",15.1852,M,Washington
+1787,"Vicky Leandros",15.1778,F,"New York"
+1788,"Peter Hofmann",15.1617,F,Delaware
+1789,"Rick Ross",15.1495,F,Colorado
+1790,Double,15.1474,F,"Rhode Island"
+1791,Cats,15.1471,M,"South Dakota"
+1792,Garou,15.1469,M,Nevada
+1793,"Sten & Stanley",15.1260,M,Utah
+1794,"Twisted Sister",15.1186,F,Connecticut
+1795,"Ghostface Killah",15.1076,M,Arkansas
+1796,"Paul Potts",15.0991,F,Minnesota
+1797,"Placido Domingo",15.0980,M,Wisconsin
+1798,"Badly Drawn Boy",15.0821,F,Pennsylvania
+1799,"The Beat",15.0770,M,"North Dakota"
+1800,"T-Bone Walker Quintet",15.0761,F,Virginia
+1801,"Kids From Fame",15.0649,F,Oregon
+1802,"Bull Moose Jackson",15.0545,M,Florida
+1803,311,15.0266,M,Mississippi
+1804,"Gino Latilla",15.0217,F,Arizona
+1805,Visage,15.0183,M,Idaho
+1806,"Patricio Teixeira",15.0098,F,"New Mexico"
+1807,"Jasper Carrott",15.0037,F,Oklahoma
+1808,Maanam,15.0012,M,Wyoming
+1809,"Kid Creole & the Coconuts",14.9622,M,Louisiana
+1810,"Roch Voisine",14.9547,F,"New Mexico"
+1811,"Michael W Smith",14.9522,M,MaineMaryland
+1812,"Dr Feelgood",14.9445,M,Delaware
+1813,"The Housemartins",14.9432,F,Washington
+1814,"The Dead Kennedys",14.9414,F,"New Mexico"
+1815,"Van Cliburn",14.9291,F,"New Mexico"
+1816,Nomadi,14.9242,F,Massachusetts
+1817,Lorie,14.9022,M,"North Dakota"
+1818,"Vaughan Meader",14.8950,F,Mississippi
+1819,"The Nolans",14.8795,F,Alabama
+1820,"Luciano Tajoli",14.8618,M,Illinois
+1821,Ciara,14.8549,M,Colorado
+1822,"Rufus Wainwright",14.8482,F,Texas
+1823,"Liza Minnelli",14.8380,M,Wyoming
+1824,"The Church",14.8045,F,Massachusetts
+1825,"Katherine Jenkins",14.7772,M,Tennessee
+1826,"Barbra Streisand & Kris Kristofferson",14.7722,F,Missouri
+1827,"Johnny Tillotson",14.7672,F,Vermont
+1828,"Joao Gilberto",14.7406,F,Alaska
+1829,"Robert Wyatt",14.7338,F,Missouri
+1830,"Bobbejaan Schoepen",14.7073,M,Pennsylvania
+1831,"Bruno Mars",14.7065,F,Nevada
+1832,"David Rose",14.6909,F,Wyoming
+1833,"Charlie Parker & Dizzy Gillespie",14.6795,M,"Rhode Island"
+1834,"They Might Be Giants",14.6707,F,"New York"
+1835,TNT,14.6437,M,Delaware
+1836,Klostertaler,14.6203,M,Pennsylvania
+1837,"Joe Henderson",14.6134,F,Iowa
+1838,"Brand New Heavies",14.6111,F,Arizona
+1839,Timbaland,14.6081,M,Delaware
+1840,Ke$ha,14.5847,M,Oregon
+1841,"David Whitfield",14.5751,F,Ohio
+1842,"The Rubettes",14.5637,M,Virginia
+1843,Schurzenjager,14.5612,M,Idaho
+1844,"Flo Sandon's",14.5585,F,Georgia
+1845,"Monica Zetterlund",14.5477,F,Oregon
+1846,"Frankie Carle",14.5431,F,Florida
+1847,Minutemen,14.5375,M,Mississippi
+1848,Cinderella,14.5304,M,Oregon
+1849,"Avenged Sevenfold",14.5259,F,MaineMaryland
+1850,Selena,14.5193,F,Wisconsin
+1851,"Barney Kessel",14.5107,M,Massachusetts
+1852,Coluche,14.5030,M,Oregon
+1853,"Die Paldauer",14.5004,F,Georgia
+1854,"Big Brother & the Holding Company",14.4841,F,Alaska
+1855,"Orchester Anthony Ventura",14.4704,F,Hawaii
+1856,"The Sensational Alex Harvey Band",14.4594,F,Arizona
+1857,Feist,14.4587,M,Delaware
+1858,POD,14.4540,M,"New Mexico"
+1859,Rednex,14.4469,M,Idaho
+1860,"Serge Reggiani",14.4358,F,Kentucky
+1861,"Tim Buckley",14.4300,F,Idaho
+1862,"Arnold Schoenberg",14.4250,M,"New Mexico"
+1863,"Fiona Apple",14.3947,M,Alabama
+1864,"Victor Light Opera Co",14.3804,M,Georgia
+1865,"The Lemonheads",14.3746,M,Utah
+1866,"Johnny Moore",14.3522,M,"New Mexico"
+1867,Low,14.3501,F,Minnesota
+1868,"Maggie Jones",14.3428,M,Connecticut
+1869,"Cesaria Evora",14.3387,F,Tennessee
+1870,"Ronnie Hilton",14.3265,F,Hawaii
+1871,"Sven-Bertil Taube",14.3211,F,California
+1872,"Francis Lai",14.3029,F,"New Mexico"
+1873,"The Decemberists",14.2730,F,Alaska
+1874,"Hoagy Carmichael",14.2471,M,"South  Carolina"
+1875,"Claude Nougaro",14.2355,M,Idaho
+1876,"Lewis James",14.2317,M,Alaska
+1877,"Swing Out Sister",14.2119,M,California
+1878,"Dave Dee Dozy Beaky Mick & Tich",14.2108,F,Virginia
+1879,"Monty Python",14.2089,F,"West Virginia"
+1880,"Dead Can Dance",14.1927,M,Vermont
+1881,Joe,14.1915,M,Tennessee
+1882,AFI,14.1835,M,Indiana
+1883,"Tammy Wynette",14.1763,F,Washington
+1884,"Natasha Bedingfield",14.1738,M,Hawaii
+1885,"Tex Ritter",14.1431,F,Iowa
+1886,"The National",14.1419,F,"New York"
+1887,Gasolin,14.1343,M,Wyoming
+1888,Therapy?,14.1317,F,Iowa
+1889,"Lisa Ekdahl",14.1277,M,Georgia
+1890,"Bill Conti",14.1248,F,"North Carolina"
+1891,"John Zorn",14.1214,M,Idaho
+1892,Technotronic,14.1161,M,Oklahoma
+1893,"Sonny Clark",14.1105,M,"Rhode Island"
+1894,"Red Nichols",14.1007,F,"West Virginia"
+1895,Gluntan,14.0838,F,Indiana
+1896,"Natalie Merchant",14.0812,F,Illinois
+1897,"The Cats",14.0803,F,Utah
+1898,"Shelley Berman",14.0733,F,Alaska
+1899,"Jorge Goulart",14.0707,M,Texas
+1900,"Tina Arena",14.0463,F,"New Mexico"
+1901,"Natalino Otto",14.0340,M,"West Virginia"
+1902,"Evelyn Knight",14.0333,F,"New Jersey"
+1903,"The Turtles",14.0327,F,Montana
+1904,"Johnny Nash",14.0318,F,Oregon
+1905,"Randy Travis",14.0174,F,Oregon
+1906,"The Undertones",14.0117,F,"South Dakota"
+1907,"Skinny Puppy",13.9760,M,Missouri
+1908,"Johnny Otis",13.9629,F,Louisiana
+1909,"Mildred Bailey",13.9486,M,Illinois
+1910,X,13.9430,F,Oklahoma
+1911,"A Perfect Circle",13.9380,F,Alaska
+1912,"Robyn Hitchcock",13.9230,M,"New York"
+1913,Jaheim,13.9230,F,Kentucky
+1914,"Princess Princess",13.9037,F,Hawaii
+1915,Lambchop,13.8871,M,Louisiana
+1916,"Our Lady Peace",13.8858,M,Montana
+1917,"Zuri West",13.8845,M,Louisiana
+1918,"Mary Hopkin",13.8792,M,"South Dakota"
+1919,"Original Dixieland Jazz Band",13.8733,M,California
+1920,"Mungo Jerry",13.8704,F,Pennsylvania
+1921,"The Hellacopters",13.8397,M,Idaho
+1922,"Laurent Voulzy",13.8376,F,Louisiana
+1923,"Clay Aiken",13.8372,M,Connecticut
+1924,"Teddy Wilson (and his Orchestra)",13.8341,M,Idaho
+1925,"John Cale",13.8314,F,Kentucky
+1926,"Gordon Jenkins",13.8208,M,Arkansas
+1927,"Phil Spector",13.8180,M,Alabama
+1928,"Lars Winnerback",13.8178,F,"New Mexico"
+1929,"Lesley Garrett",13.8139,M,Wyoming
+1930,"Luciano Ligabue",13.8050,F,Oklahoma
+1931,"Interest Noboru Kubota",13.7980,M,Indiana
+1932,Shakatak,13.7924,F,Ohio
+1933,Sublime,13.7856,F,Georgia
+1934,"Cabaret Voltaire",13.7794,M,Vermont
+1935,"The Miracles",13.7780,M,"South Dakota"
+1936,"Nino Rota",13.7710,M,Ohio
+1937,Hitomi,13.7696,M,Illinois
+1938,"L'arc en ciel",13.7696,F,Alabama
+1939,"Le Orme",13.7675,M,Nebraska
+1940,"Nina & Frederik",13.7668,M,Wyoming
+1941,"Masashi Who Is",13.7351,M,Louisiana
+1942,"Michael Mittermeier",13.7198,M,Nebraska
+1943,Ween,13.7022,M,Minnesota
+1944,"12th Man",13.6867,M,"New York"
+1945,"Giorgio Moroder",13.6833,F,Oregon
+1946,"Richard Wagner",13.6809,F,Connecticut
+1947,NERD,13.6662,F,Ohio
+1948,"Steve Hillage",13.6600,F,"New Hampshire"
+1949,Spitz,13.6499,M,"West Virginia"
+1950,"Type O Negative",13.6459,M,"South Dakota"
+1951,Pussycat,13.6325,F,California
+1952,"Deutschland sucht den Superstar",13.6117,M,Ohio
+1953,"Nigel Kennedy",13.5946,M,Idaho
+1954,"The Commitments",13.5908,F,"New Mexico"
+1955,"Peter Green",13.5904,M,Vermont
+1956,"The Fontane Sisters",13.5864,F,"Rhode Island"
+1957,"Mando Diao",13.5824,F,Massachusetts
+1958,"Biagio Antonacci",13.5784,M,"South  Carolina"
+1959,"Roland Kaiser",13.5762,M,Arizona
+1960,"Ray Stevens",13.5752,F,Arizona
+1961,"MC Sar & The Real McCoy",13.5725,F,Tennessee
+1962,"Tito Puente",13.5666,F,"North Dakota"
+1963,"Dickie Valentine",13.5603,M,Ohio
+1964,"Christina Sturmer",13.5582,F,Oregon
+1965,Telephone,13.5559,F,"Rhode Island"
+1966,"Lucille Bogan",13.5504,M,"New York"
+1967,"Fun Lovin' Criminals",13.5401,F,Arkansas
+1968,Lobo,13.5353,M,"West Virginia"
+1969,"Mobb Deep",13.5244,M,Ohio
+1970,All-4-One,13.5158,M,Indiana
+1971,"Warehouse Wooden Mai",13.4999,F,"New Jersey"
+1972,"J J Johnson",13.4940,F,Washington
+1973,"Jeff Wayne",13.4847,F,"West Virginia"
+1974,"Jody Watley",13.4739,F,Missouri
+1975,"Nakajima Beauty",13.4598,F,Ohio
+1976,"Peter Tosh",13.4562,M,Montana
+1977,"The Vengaboys",13.4440,F,"South  Carolina"
+1978,"Roy Harper",13.4374,M,Kentucky
+1979,Vamp,13.4108,M,Missouri
+1980,"Blind Blake",13.3993,F,"West Virginia"
+1981,"Robbie Robertson",13.3987,M,Colorado
+1982,Rancid,13.3971,M,Alabama
+1983,Redman,13.3852,F,Louisiana
+1984,Londonbeat,13.3809,F,Indiana
+1985,Litfiba,13.3692,F,Arizona
+1986,"Peter Joback",13.3546,M,Alaska
+1987,"Inner Circle",13.3508,M,Oklahoma
+1988,BZN,13.3362,M,Kansas
+1989,"Joao Petra de Barros",13.3262,F,Florida
+1990,Haddaway,13.3222,F,Delaware
+1991,"Guano Apes",13.3117,M,Alabama
+1992,"Conny Froeboss",13.3100,M,Connecticut
+1993,"Jose Carreras",13.3039,M,Nevada
+1994,"Hugo Winterhalter",13.2993,F,Louisiana
+1995,"Dragon Ash",13.2978,F,Arkansas
+1996,"Animal Collective",13.2958,M,Mississippi
+1997,Enslaved,13.2508,M,Montana
+1998,"In Extremo",13.2422,F,Tennessee
+1999,"Riley Puckett",13.2383,M,Mississippi
+2000,Reamonn,13.2365,M,Ohio
+2001,"Kidz Bop Kids",13.2289,M,Florida
+2002,Cerrone,13.2257,F,Iowa
+2003,"Frankie Valli",13.2125,F,Michigan
+2004,"Cock Robin",13.2047,F,Massachusetts
+2005,"Iced Earth",13.2042,M,"New Jersey"
+2006,"Red Foley",13.1861,M,Arkansas
+2007,"Tommy Edwards",13.1727,M,Louisiana
+2008,"Buddy Clark",13.1678,F,California
+2009,"Dick Jurgens & his Orchestra",13.1603,F,Illinois
+2010,"Velvet Revolver",13.1552,F,Washington
+2011,"Four Jets",13.1530,M,Arizona
+2012,"Daikoku ? Season",13.1523,F,Delaware
+2013,Powderfinger,13.1391,M,"New Hampshire"
+2014,"World Party",13.1184,F,Pennsylvania
+2015,"PM Dawn",13.1176,M,Kansas
+2016,"Grass Roots",13.1172,F,Minnesota
+2017,"Smash Mouth",13.1057,F,Pennsylvania
+2018,"Diana Ross & The Supremes & The Temptations",13.1050,F,Iowa
+2019,Kreator,13.1042,F,"South  Carolina"
+2020,"Earl Burtnett & his Los Angeles Biltmore Hotel Orchestra",13.0942,F,Utah
+2021,"Lesley Gore",13.0906,F,Missouri
+2022,"DJ Shadow",13.0731,M,"North Dakota"
+2023,Death,13.0581,M,"New Jersey"
+2024,"Kris Kristofferson",13.0579,M,Virginia
+2025,"Mauro Scocco",13.0562,M,Vermont
+2026,"Peter Kraus",13.0429,M,Minnesota
+2027,"The Crystals",13.0419,M,Colorado
+2028,"Leo Ferre",13.0157,F,"New Jersey"
+2029,"Johnny Winter",13.0115,F,Texas
+2030,"Peters & Lee",13.0087,F,Hawaii
+2031,"The Refreshments",13.0035,F,Utah
+2032,"Sophie Tucker",12.9941,M,Oklahoma
+2033,"Mia Martini",12.9676,F,Kansas
+2034,"Black Uhuru",12.9602,F,Arizona
+2035,"Georghe Zamfir",12.9538,F,Wyoming
+2036,"Michael Schenker Group",12.9519,F,Tennessee
+2037,"Popol Vuh",12.9345,M,Ohio
+2038,"Napalm Death",12.9333,M,Kentucky
+2039,"Jacques Higelin",12.9308,M,Minnesota
+2040,Toyah,12.9293,F,Mississippi
+2041,"Lillebjorn Nilsen",12.9174,M,Nevada
+2042,"Marvin Hamlisch",12.9140,M,Wyoming
+2043,"Gretchen Wilson",12.8920,M,Hawaii
+2044,"The Residents",12.8820,F,Iowa
+2045,"Milt Jackson",12.8554,M,Idaho
+2046,"Savoy Brown",12.8532,F,Texas
+2047,"Millie Jackson",12.8529,M,Pennsylvania
+2048,"Grupo Chiquinha Gonzaga",12.8502,F,Pennsylvania
+2049,"Hannah Montana",12.8365,M,Oregon
+2050,"Paul Butterfield Blues Band",12.8359,F,"North Dakota"
+2051,"Buena Vista Social Club",12.8309,M,Mississippi
+2052,Mase,12.8242,M,Virginia
+2053,"Marie Fredriksson",12.8196,M,"New Mexico"
+2054,Thastrom,12.8093,M,Virginia
+2055,"Richard Strauss",12.7597,M,Kansas
+2056,"Smiley Lewis",12.7527,F,Oregon
+2057,SWV,12.7492,F,Delaware
+2058,"Grover Washington Jr",12.7450,F,Michigan
+2059,D'Angelo,12.7397,M,Michigan
+2060,"Wir sind Helden",12.7261,M,Montana
+2061,"Stan Freberg",12.7232,F,Montana
+2062,Colosseum,12.7213,F,MaineMaryland
+2063,"Boogie Down Productions",12.7153,M,California
+2064,"Janis Ian",12.7052,F,Montana
+2065,"Frank Duval",12.6891,M,Kentucky
+2066,"King Diamond",12.6855,M,Hawaii
+2067,Frida,12.6834,F,Kansas
+2068,Cascada,12.6828,M,Nebraska
+2069,"Aztec Camera",12.6704,F,Pennsylvania
+2070,"Franck Pourcel",12.6685,M,Vermont
+2071,"Joe Liggins",12.6650,F,"New Jersey"
+2072,"Rihanna & Jay-Z",12.6511,M,Arkansas
+2073,"Noir Desir",12.6400,M,"North Carolina"
+2074,"Jimmy Nail",12.6351,F,Oklahoma
+2075,"Bobby Goldsboro",12.6327,F,Tennessee
+2076,Renaissance,12.6281,F,Kansas
+2077,"My Morning Jacket",12.6260,F,"South Dakota"
+2078,Nicole,12.6191,M,Missouri
+2079,"Jon Secada",12.6127,F,Minnesota
+2080,"Seals & Crofts",12.6126,F,"Rhode Island"
+2081,"Phil Harris",12.6089,F,Kentucky
+2082,"Einsturzende Neubauten",12.5987,F,Texas
+2083,"Neville Brothers",12.5966,M,Arizona
+2084,"The Black Keys",12.5879,F,"New Mexico"
+2085,EPMD,12.5843,F,Tennessee
+2086,"Shelly Manne",12.5781,F,"North Dakota"
+2087,"London Cast",12.5761,M,Pennsylvania
+2088,"Paul Biese Trio",12.5599,M,Wyoming
+2089,"Monika Martin",12.5546,M,Missouri
+2090,"Jay & the Americans",12.5496,M,Connecticut
+2091,"Jan Eggum",12.5480,M,Wyoming
+2092,Archies,12.5456,M,Wyoming
+2093,"Bobby Solo",12.5315,F,Arizona
+2094,"Vess Ossman",12.5257,M,Oklahoma
+2095,"MC Solaar",12.5026,M,Arkansas
+2096,"Marino Marini & his Quartet",12.4989,F,Nebraska
+2097,Des'ree,12.4948,M,Texas
+2098,"Peter & Gordon",12.4943,F,Mississippi
+2099,"Charles Brown",12.4868,M,Ohio
+2100,"John Prine",12.4860,F,Texas
+2101,"Fat Boys",12.4762,M,Louisiana
+2102,Orup,12.4709,M,"New Mexico"
+2103,"Beth Orton",12.4699,M,Kansas
+2104,"Marco Antonio Solis",12.4542,F,Kentucky
+2105,"Rob Zombie",12.4364,M,Minnesota
+2106,"Dimmu Borgir",12.4358,M,Hawaii
+2107,"Oslo Gospel Choir",12.4277,M,Wisconsin
+2108,"Jonas Fjeld",12.4108,F,Montana
+2109,"Heaven & Earth Truth",12.4084,M,MaineMaryland
+2110,"Michel Jonasz",12.4073,M,"New Mexico"
+2111,"The Dubliners",12.4044,M,Oklahoma
+2112,Republica,12.3976,M,Arizona
+2113,"Johnny Horton",12.3916,M,Pennsylvania
+2114,"Winifred Atwell",12.3839,M,Wyoming
+2115,"Billy Thorpe & The Aztecs",12.3666,F,Idaho
+2116,"Clifford Brown",12.3608,M,"South Dakota"
+2117,"New Model Army",12.3537,F,Nebraska
+2118,"The Stiff Little Fingers",12.3530,F,"North Carolina"
+2119,"The Boppers",12.3528,M,Oklahoma
+2120,Alarm,12.3499,M,Minnesota
+2121,"The Marvelettes",12.3453,F,"New York"
+2122,Nek,12.3340,F,Pennsylvania
+2123,"Robert Plant & Alison Krauss",12.3294,F,"West Virginia"
+2124,"Fettes Brot",12.3235,M,Nebraska
+2125,Moondog,12.3180,F,Arizona
+2126,"Hubert von Goisern",12.3171,F,Nevada
+2127,beFour,12.3059,M,Nevada
+2128,"Aurora Miranda",12.2967,M,Tennessee
+2129,"Social Distortion",12.2948,M,Pennsylvania
+2130,Skank,12.2920,F,Nebraska
+2131,"Alain Bashung",12.2908,F,Oklahoma
+2132,"Loggins & Messina",12.2903,M,Massachusetts
+2133,"John Steel",12.2883,M,Nebraska
+2134,"George McCrae",12.2741,F,Utah
+2135,"Spider Murphy Gang",12.2701,F,"Rhode Island"
+2136,"The Tubes",12.2650,F,"South Dakota"
+2137,Nofx,12.2625,F,Wisconsin
+2138,"Daniel Balavoine",12.2606,F,MaineMaryland
+2139,"Dan Quinn",12.2570,M,Ohio
+2140,"Jimmy Eat World",12.2532,M,Mississippi
+2141,"Michel Berger",12.2518,M,Washington
+2142,Laxmikant-Pyarelal,12.2478,M,Delaware
+2143,"Boo Radleys",12.2445,F,Virginia
+2144,"Gang Starr",12.2425,M,Alaska
+2145,"Elmer Bernstein",12.2307,M,Utah
+2146,Spoon,12.2288,F,Ohio
+2147,"The Box Tops",12.2168,F,California
+2148,"Isabelle Boulay",12.2144,F,Ohio
+2149,"Mary Chapin Carpenter",12.2136,M,Wisconsin
+2150,"Maxi Priest",12.2135,M,Montana
+2151,"Carl Perkins",12.2132,M,Ohio
+2152,"The Triffids",12.1972,M,California
+2153,"Don Bestor & his Orchestra",12.1955,F,"New Jersey"
+2154,"Bix Beiderbecke",12.1852,F,Oklahoma
+2155,"Jerry Butler",12.1846,M,Arizona
+2156,"The Wonder Stuff",12.1669,M,Indiana
+2157,"Kitty Kallen",12.1667,F,Arizona
+2158,"Sammy Hagar",12.1625,M,MaineMaryland
+2159,"Luca Carboni",12.1571,M,"South Dakota"
+2160,"Carmen Costa",12.1403,M,"New York"
+2161,Sido,12.1361,M,Kentucky
+2162,"Len Spencer & Ada Jones",12.1336,M,Kentucky
+2163,"Jack Scott",12.1321,M,Virginia
+2164,"Derek & The Dominos",12.1091,F,Nevada
+2165,"Bonnie Pink",12.1010,M,Indiana
+2166,"Pere Ubu",12.0995,F,Wyoming
+2167,"Dorival Caymmi",12.0989,M,"South Dakota"
+2168,"Jason Mraz",12.0970,M,Hawaii
+2169,"Young Jeezy",12.0968,M,Massachusetts
+2170,"Stefanie Werger",12.0910,M,Hawaii
+2171,"McCoy Tyner",12.0837,M,Texas
+2172,Primus,12.0802,F,Wisconsin
+2173,"Gang of Four",12.0715,F,Florida
+2174,Sleater-Kinney,12.0652,F,Vermont
+2175,"Paul Weston",12.0627,F,Washington
+2176,(unknown),12.0572,F,Mississippi
+2177,Eve,12.0542,F,Arkansas
+2178,"Ted Fio Rito",12.0397,M,"Rhode Island"
+2179,Juvenile,12.0116,M,"North Carolina"
+2180,"Patapio Silva",12.0081,M,Oklahoma
+2181,"The Boswell Sisters",12.0062,F,Georgia
+2182,"Freddy Cannon",12.0000,F,Kentucky
+2183,"Sportfreunde Stiller",11.9941,M,Idaho
+2184,"Mikael Rickfors",11.9918,M,Colorado
+2185,Therion,11.9758,M,Vermont
+2186,"Jan Johansson",11.9670,F,Nevada
+2187,"Groove Armada",11.9620,M,Ohio
+2188,"Antonio Carlos Jobim",11.9563,F,Oklahoma
+2189,"The Breeders",11.9502,F,Pennsylvania
+2190,Tocotronic,11.9440,F,Delaware
+2191,"Sohne Mannheims",11.9412,M,Florida
+2192,"Jon & Vangelis",11.9401,M,Kentucky
+2193,"Tony Dallara",11.9348,M,Alaska
+2194,"Monster Magnet",11.9209,M,"North Dakota"
+2195,"Billy Squier",11.9204,F,California
+2196,"Vampire Weekend",11.9160,F,Vermont
+2197,"Gal Costa",11.9156,F,Connecticut
+2198,"The Hooters",11.9105,F,Arizona
+2199,88.3,11.9100,F,Mississippi
+2200,"Foxy Brown",11.8962,F,"West Virginia"
+2201,"Vico Torriani",11.8837,F,Indiana
+2202,"All Star Trio",11.8826,M,Delaware
+2203,LaFee,11.8784,F,Minnesota
+2204,"Dead Or Alive",11.8777,M,Utah
+2205,"Cradle of Filth",11.8758,M,Arkansas
+2206,"Lennie Tristano",11.8719,M,"New Hampshire"
+2207,"Iron & Wine",11.8692,F,Colorado
+2208,"Butthole Surfers",11.8689,F,Idaho
+2209,"Eiffel 65",11.8676,F,"South  Carolina"
+2210,"Albert Hammond",11.8660,F,Nevada
+2211,"Baha Men",11.8620,M,"South  Carolina"
+2212,"The Hothouse Flowers",11.8587,F,"North Dakota"
+2213,"Freddie Jackson",11.8585,M,"New Hampshire"
+2214,"Stereo MCs",11.8546,M,Delaware
+2215,"Steve Lawrence",11.8513,M,Wyoming
+2216,"P Diddy",11.8320,M,Louisiana
+2217,"Carter the Unstoppable Sex Machine",11.8286,F,"Rhode Island"
+2218,"Brotherhood of Man",11.8244,M,Idaho
+2219,"Lena Philipsson",11.8190,M,Michigan
+2220,Coil,11.8140,M,Pennsylvania
+2221,"Richard Pryor",11.7991,F,Kansas
+2222,Leftfield,11.7885,F,Utah
+2223,"Gentle Giant",11.7812,M,Kentucky
+2224,Kelis,11.7803,F,Florida
+2225,"The Mekons",11.7753,F,Massachusetts
+2226,Cake,11.7612,M,Ohio
+2227,"Children of Bodom",11.7550,M,Iowa
+2228,"Amy Macdonald",11.7494,F,"South Dakota"
+2229,"Billy Jones",11.7333,M,Ohio
+2230,"Herbie Nichols",11.7316,M,Tennessee
+2231,"Chris Montez",11.7242,F,Delaware
+2232,"Yannick Noah",11.7241,M,Nevada
+2233,"The Christians",11.7129,F,Mississippi
+2234,Neurosis,11.7038,F,Pennsylvania
+2235,"Maria Callas",11.6939,F,Florida
+2236,"Wendy Carlos",11.6872,M,Idaho
+2237,"Eric Gadd",11.6854,M,Wisconsin
+2238,"Jimmy Young",11.6801,M,Oklahoma
+2239,"Front 242",11.6796,M,"North Dakota"
+2240,"Peter Hammill",11.6723,F,Kentucky
+2241,"Robert Goulet",11.6685,F,Washington
+2242,"Ruth Brown",11.6590,F,Illinois
+2243,Nikki,11.6556,M,"New Hampshire"
+2244,Ulver,11.6488,F,Nevada
+2245,"Perry Como & The Fontane Sisters",11.6487,F,MaineMaryland
+2246,"Ricky King",11.6435,F,"Rhode Island"
+2247,Basia,11.6431,M,Washington
+2248,"Die Prinzen",11.6426,M,Idaho
+2249,"Corinne Bailey Rae",11.6388,M,"South  Carolina"
+2250,"My Bloody Valentine",11.6380,M,Mississippi
+2251,Gentleman,11.6369,F,"New Hampshire"
+2252,"Burl Ives",11.6331,M,"Rhode Island"
+2253,"The Legendary Pink Dots",11.6311,F,Nevada
+2254,"Ce Ce Peniston",11.6304,F,Washington
+2255,"Johnny Desmond",11.6245,M,MaineMaryland
+2256,"Bruce Dickinson",11.6236,F,"New Jersey"
+2257,"Munchener Freiheit",11.6236,F,"South Dakota"
+2258,"Original Cast Recording",11.6229,F,Mississippi
+2259,"Johannes Brahms",11.6221,F,Wisconsin
+2260,"The Mavericks",11.6200,M,Washington
+2261,"Achille Togliani",11.6181,M,Arkansas
+2262,"Stevie Wonder & Dionne Warwick",11.6171,M,Ohio
+2263,"Roy Brown",11.5951,M,Wisconsin
+2264,Opus,11.5867,F,Nevada
+2265,"Waldo De Los Rios",11.5813,M,Idaho
+2266,"Fleet Foxes",11.5774,M,Wisconsin
+2267,"Al Dexter & his Troopers",11.5717,M,Arkansas
+2268,"Method Man",11.5676,F,Connecticut
+2269,"Vanessa Paradis",11.5648,F,"New Jersey"
+2270,"David Garrett",11.5631,M,Wyoming
+2271,"Aphex Twin",11.5620,F,Idaho
+2272,"Thelonious Monk & John Coltrane",11.5563,M,Alabama
+2273,"Wynonna Judd",11.5550,F,"New Hampshire"
+2274,Melvins,11.5466,F,Michigan
+2275,"Casting Crowns",11.5410,M,Minnesota
+2276,"Connee Boswell",11.5374,M,Nevada
+2277,"The Pretty Things",11.5367,M,"New Mexico"
+2278,"Ted Gardestad",11.5358,F,"South  Carolina"
+2279,"Afghan Whigs",11.5286,M,"New York"
+2280,"Peter Reber",11.5237,M,Oklahoma
+2281,"Crosby & Nash",11.5221,M,"New Mexico"
+2282,"Gigliola Cinquetti",11.5159,M,Arkansas
+2283,"Junichi Inagaki",11.5149,F,Arizona
+2284,"Judie Tzuke",11.5140,F,Illinois
+2285,"Yutaka Ozaki",11.5070,M,Iowa
+2286,Xzibit,11.5052,M,Washington
+2287,"Frank Stanley",11.5006,F,Colorado
+2288,"New Christy Minstrels",11.4968,F,Utah
+2289,"Richard & Linda Thompson",11.4948,M,Arkansas
+2290,"The Jon Spencer Blues Explosion",11.4926,M,Texas
+2291,"Miho Nakayama",11.4902,F,Louisiana
+2292,Bros,11.4897,M,Tennessee
+2293,Mystikal,11.4874,F,Arizona
+2294,"Arthur Fields",11.4838,F,Georgia
+2295,"Mormon Tabernacle Choir",11.4836,M,Hawaii
+2296,"Chico Hamilton",11.4787,M,Mississippi
+2297,"Panic! At the Disco",11.4761,F,Nebraska
+2298,"Kenny Ball & his Jazzmen",11.4734,F,Louisiana
+2299,Calexico,11.4694,M,Delaware
+2300,Hellbillies,11.4602,F,Hawaii
+2301,"TV on the Radio",11.4601,M,"New Jersey"
+2302,"Darius Milhaud",11.4600,M,Georgia
+2303,"Dorothy Shay",11.4600,F,"North Dakota"
+2304,"Di Leva",11.4574,F,Idaho
+2305,"Violent Femmes",11.4560,F,Iowa
+2306,Snow,11.4532,F,Oregon
+2307,Barbara,11.4529,M,Missouri
+2308,"Quiet Riot",11.4416,F,Louisiana
+2309,"Lena Martell",11.4412,F,Texas
+2310,"Paul Lingle",11.4233,M,Arkansas
+2311,"Dr John",11.4188,M,Oklahoma
+2312,"Arthur Lyman",11.4147,F,"New York"
+2313,"Humble Pie",11.4105,M,Wisconsin
+2314,"Guided by Voices",11.3963,M,"New Jersey"
+2315,"Osny Silva",11.3941,M,"New Jersey"
+2316,"Kari Bremnes",11.3887,M,Colorado
+2317,"Mahavishnu Orchestra",11.3828,F,Nebraska
+2318,"Cat Power",11.3760,F,Alabama
+2319,"Ella Fitzgerald & The Ink Spots",11.3728,M,Arkansas
+2320,"Kikki Danielsson",11.3717,F,Massachusetts
+2321,Robyn,11.3585,M,Michigan
+2322,"The Cramps",11.3567,F,Arkansas
+2323,"Ian Brown",11.3566,M,"North Dakota"
+2324,"Giorgio Consolini",11.3553,F,Florida
+2325,"Sam The Sham & The Pharaohs",11.3528,F,Montana
+2326,"Johann Sebastian Bach",11.3502,F,Oklahoma
+2327,"Roy Black",11.3476,F,Arkansas
+2328,"Amon Amarth",11.3452,F,Nevada
+2329,"Cheech & Chong",11.3428,M,Wisconsin
+2330,"Ladysmith Black Mambazo",11.3372,M,Connecticut
+2331,"Charlie Daniels Band",11.3306,F,Ohio
+2332,"The Real Group",11.3293,M,Nevada
+2333,"Erskine Hawkins",11.3106,F,Oklahoma
+2334,"Clint Black",11.3065,F,"New Mexico"
+2335,Fler,11.3018,F,Oregon
+2336,"Damien Rice",11.3010,F,Utah
+2337,"David Byrne",11.3003,F,Michigan
+2338,Ron,11.2868,M,Wyoming
+2339,"Prima Vera",11.2850,M,Massachusetts
+2340,"Lata Mangeshkar",11.2813,M,MaineMaryland
+2341,Mastodon,11.2646,M,Vermont
+2342,Coral,11.2636,M,Indiana
+2343,"Blue Diamonds",11.2621,F,Kentucky
+2344,"Angelo Badalamenti",11.2601,M,California
+2345,"Alex North",11.2598,F,"West Virginia"
+2346,"Built to Spill",11.2595,M,Idaho
+2347,"Al Di Meola",11.2542,M,"South Dakota"
+2348,Vanessa-Mae,11.2470,F,"New Mexico"
+2349,Silbermond,11.2407,F,Colorado
+2350,"Dreams Come True",11.2380,M,"North Dakota"
+2351,"Beverley Knight",11.2351,F,Nebraska
+2352,Boris,11.2313,M,"South Dakota"
+2353,"Art Hickman",11.2302,M,Michigan
+2354,"Dany Brillant",11.2296,M,MaineMaryland
+2355,"White Zombie",11.2228,F,California
+2356,"Francisco Carlos",11.2194,M,Mississippi
+2357,"Frank Sinatra & Count Basie",11.2123,M,Wyoming
+2358,"Atlantic Starr",11.2090,M,Montana
+2359,"Yvonne Catterfeld",11.2079,M,Florida
+2360,"Esbjorn Svensson Trio",11.2049,M,Wisconsin
+2361,Tmn,11.2016,F,Ohio
+2362,"American Music Club",11.1974,M,"North Carolina"
+2363,"Miki Imai",11.1893,M,Florida
+2364,"Lady Pank",11.1836,M,Oklahoma
+2365,"Mary Wells",11.1758,F,"South Dakota"
+2366,"Original Fidelen Molltaler",11.1751,F,Connecticut
+2367,"Osamu Akira Yoshikawa",11.1705,F,"South  Carolina"
+2368,"The Strawbs",11.1668,F,Louisiana
+2369,"Herbert Von Karajan",11.1651,F,"West Virginia"
+2370,"Womack & Womack",11.1627,F,Michigan
+2371,"Kokomo Arnold",11.1400,M,MaineMaryland
+2372,Everclear,11.1400,M,Colorado
+2373,"Gil Scott-Heron",11.1378,M,Utah
+2374,"Oliver Nelson",11.1329,M,Louisiana
+2375,"Jerry Williams",11.1311,F,Mississippi
+2376,"Lisa Loeb & Nine Stories",11.1067,M,Utah
+2377,"Annett Louisan",11.1065,F,Oklahoma
+2378,"Pain of Salvation",11.0966,F,"New Jersey"
+2379,"Clyde McPhatter",11.0861,M,Arkansas
+2380,"Jeff Healey Band",11.0840,F,MaineMaryland
+2381,"The Hives",11.0815,M,Connecticut
+2382,"Percy Sledge",11.0793,F,Kansas
+2383,Mario,11.0711,M,Iowa
+2384,Wizex,11.0696,M,Washington
+2385,"3 Busserulls",11.0611,M,"West Virginia"
+2386,"Crystal Kay",11.0570,F,Idaho
+2387,"Drive-By Truckers",11.0564,F,Delaware
+2388,"Jason Derulo",11.0556,M,Vermont
+2389,Fish,11.0451,M,MaineMaryland
+2390,Savatage,11.0444,F,Wyoming
+2391,"Arja Saijonmaa",11.0273,M,Alaska
+2392,"Hotei ? Yasushi",11.0258,F,Ohio
+2393,"Ashford & Simpson",11.0088,F,Massachusetts
+2394,"Aikawa Seven Shoal",11.0080,F,Mississippi
+2395,"Liane Foly",11.0045,F,Kansas
+2396,Incognito,10.9965,M,Kentucky
+2397,Schiller,10.9866,M,Indiana
+2398,"The Gathering",10.9819,F,Wyoming
+2399,Soulfly,10.9673,F,Tennessee
+2400,"Fear Factory",10.9669,M,Alabama
+2401,Bathory,10.9654,M,"North Dakota"
+2402,"Hirai It Is Hard",10.9615,M,Delaware
+2403,BUCK-TICK,10.9574,M,Montana
+2404,"Ruth Wallis",10.9488,F,Michigan
+2405,"Joey Dee & The Starliters",10.9482,F,"West Virginia"
+2406,"DJ Otzi",10.9437,M,Oregon
+2407,"Linton Kwesi Johnson",10.9294,F,Washington
+2408,Speed,10.9216,M,Vermont
+2409,"Eric Clapton & BB King",10.9124,M,Massachusetts
+2410,"Antony & The Johnsons",10.9096,F,Virginia
+2411,"The Libertines",10.9055,F,Wisconsin
+2412,"Black Flag",10.9033,F,Oregon
+2413,"Roger Wolfe Kahn & his Orchestra",10.8970,M,"North Carolina"
+2414,"Ben Webster",10.8965,M,"South  Carolina"
+2415,"Mahalia Jackson",10.8949,M,Illinois
+2416,Morphine,10.8908,M,Wyoming
+2417,"Terry Jacks",10.8851,M,Washington
+2418,"Pierre Bachelet",10.8839,F,Missouri
+2419,"George Wallington",10.8804,M,Oregon
+2420,Wands,10.8760,M,Nebraska
+2421,"Lambert Hendricks & Ross",10.8703,F,"New York"
+2422,"Gary Puckett & The Union Gap",10.8678,F,"New Hampshire"
+2423,"Julia Lee",10.8617,F,Alabama
+2424,"CC Cowboys",10.8608,M,Florida
+2425,"Bertha 'Chippie' Hill",10.8467,F,Vermont
+2426,"Coheed & Cambria",10.8383,M,Nevada
+2427,"Anne Shelton",10.8379,M,Vermont
+2428,Aiko,10.8354,F,"New Hampshire"
+2429,"Paul Hardcastle",10.8341,F,"West Virginia"
+2430,"Big Audio Dynamite",10.8314,F,MaineMaryland
+2431,"Rip Slyme",10.8265,M,Virginia
+2432,"Rosanne Cash",10.8090,M,"New York"
+2433,"Enric Madriguera & his Orchestra",10.8063,M,Oregon
+2434,"Trans-Siberian Orchestra",10.7913,F,"New Hampshire"
+2435,Seer,10.7890,M,California
+2436,Dokken,10.7858,M,Kansas
+2437,"Johnny & The Hurricanes",10.7829,F,California
+2438,"Richard Ashcroft",10.7827,M,Georgia
+2439,"Harry Lauder",10.7796,F,Kansas
+2440,"Edwin Starr",10.7728,M,Alaska
+2441,"Carl Douglas",10.7699,M,"Rhode Island"
+2442,"Charlie Spivak",10.7676,M,MaineMaryland
+2443,"King Oliver's Jazz Band",10.7662,M,Wyoming
+2444,"Nico Fidenco",10.7644,M,Oklahoma
+2445,"The Revelers",10.7541,M,Illinois
+2446,"Les Paul",10.7474,M,Hawaii
+2447,Martika,10.7408,F,Hawaii
+2448,Expose,10.7376,F,Iowa
+2449,"The Gaylords",10.7291,M,"New Hampshire"
+2450,"Crystal Waters",10.7269,M,Arizona
+2451,"Gus Backus",10.7194,M,California
+2452,"Maurice Chevalier",10.6976,M,"New Hampshire"
+2453,"Ralph Flanagan",10.6861,M,Kansas
+2454,"Victor Military Band",10.6649,F,"Rhode Island"
+2455,"Arthur 'Big Boy' Crudup",10.6478,F,"South  Carolina"
+2456,"Gloria Estefan & Miami Sound Machine",10.6287,M,Nebraska
+2457,Baccara,10.6244,M,Vermont
+2458,"Barry Ryan",10.6100,F,"New Mexico"
+2459,"Frankie Lymon & The Teenagers",10.5810,F,Pennsylvania
+2460,"Jimmy Witherspoon",10.5802,M,Indiana
+2461,Pitbull,10.5190,F,Pennsylvania
+2462,"Johnny Jordaan",10.5185,M,Indiana
+2463,"Gary US Bonds",10.4918,M,"North Dakota"
+2464,"Yves Montand",10.4773,F,Vermont
+2465,"T Love",10.4644,M,Mississippi
+2466,"The Chi-Lites",10.4606,F,"New Jersey"
+2467,"Bruno & Marrone",10.4536,M,"New York"
+2468,"Tony Pastor & his Orchestra",10.4479,F,"South  Carolina"
+2469,"Buddy Johnson",10.4201,F,Kentucky
+2470,"Lata Mangeshkar & Kishor Kumar",10.4198,F,Louisiana
+2471,"Hank Ballard & The Midnighters",10.4138,F,"South  Carolina"
+2472,Berlin,10.3949,M,Arkansas
+2473,"Eddie Money",10.3388,F,Delaware
+2474,"Johnny Dorelli",10.3367,M,Illinois
+2475,"Aileen Stanley",10.3365,M,Arizona
+2476,"Os Oito Batutas",10.3051,M,Connecticut
+2477,"Mary Johnson",10.3041,F,"New Jersey"
+2478,Heintje,10.2922,F,Vermont
+2479,"Ipana Troubadors",10.2789,M,Nebraska
+2480,"Roy Milton",10.2745,F,Oregon
+2481,Christophe,10.2650,F,Illinois
+2482,"Charles Trenet",10.2449,M,Arkansas
+2483,"Gordon MacRae",10.2197,M,"North Dakota"
+2484,"Frank Chacksfield",10.2143,F,Missouri
+2485,"Benson Orchestra of Chicago",10.1855,F,Michigan
+2486,"Peaches & Herb",10.1771,F,Oregon
+2487,"Harry Richman",10.1618,F,Idaho
+2488,"Eric Carmen",10.1611,F,Ohio
+2489,"Scatman John",10.1610,M,Wisconsin
+2490,"Elis Regina",10.1283,M,Tennessee
+2491,"Big Mountain",10.1035,M,MaineMaryland
+2492,"Gary Lewis & The Playboys",10.0911,F,Massachusetts
+2493,"Montell Jordan",10.0756,M,Texas
+2494,"The Manhattans",10.0615,F,"New York"
+2495,"Lucky Millinder",10.0541,M,Vermont
+2496,"The Shangri-Las",10.0483,M,Virginia
+2497,"Ray Parker Jr",10.0231,M,Arkansas
+2498,"Adelaide Chiozzo",10.0095,M,Vermont
+2499,Ronny,10.0066,F,"Rhode Island"
+2500,"LaVern Baker",9.9749,F,Kentucky
+2501,"Len Spencer",9.9674,M,Oklahoma
+2502,Hey,9.9605,F,"New Hampshire"
+2503,"Art Lund",9.9569,M,Florida
+2504,"Little Peggy March",9.9539,F,Florida
+2505,"La Bouche",9.9516,M,Oregon
+2506,"Alma Gluck",9.9489,M,Oregon
+2507,"The Ravens",9.9354,M,"New Mexico"
+2508,"K-Ci & JoJo",9.9218,M,MaineMaryland
+2509,"All-American Rejects",9.9188,F,Arizona
+2510,Lifehouse,9.9134,F,Colorado
+2511,Chumbawamba,9.9042,M,Montana
+2512,"Bobby Bland",9.8976,F,Tennessee
+2513,"Jorge Veiga",9.8593,F,Connecticut
+2514,"Rex Gildo",9.8517,M,Colorado
+2515,"Crazy Frog",9.8252,F,Indiana
+2516,"Siw Malmqvist",9.8168,M,Wisconsin
+2517,"Anton Karas",9.8165,M,Georgia
+2518,"Five Keys",9.7847,F,Kansas
+2519,"Nini Rosso",9.7603,F,Iowa
+2520,"Jo Stafford & Gordon MacRae",9.7042,F,Arizona
+2521,"Tex Beneke",9.6943,M,Arizona
+2522,"Geri Halliwell",9.6801,F,Michigan
+2523,"Carla Boni",9.6722,M,Wyoming
+2524,"Lisa Lisa & Cult Jam",9.6254,F,Georgia
+2525,"P Diddy & Faith Evans",9.6211,M,Oregon
+2526,"Sugar Ray",9.6169,M,"New Hampshire"
+2527,"Al Hibbler",9.6101,M,Arkansas
+2528,"Daniel Powter",9.5992,M,Massachusetts
+2529,"Alveno Rey",9.5869,M,Delaware
+2530,Champs,9.5861,M,Iowa
+2531,"Will Oakland",9.5801,F,Washington
+2532,"Fountains of Wayne",9.5562,M,Idaho
+2533,"Mouth & MacNeal",9.5476,F,Tennessee
+2534,"Glenn Frey",9.5324,F,Tennessee
+2535,"Billy Murray & Haydn Quartet",9.5156,M,"New Jersey"
+2536,"Fletcher Henderson & his Orchestra",9.4990,M,Washington
+2537,"Andre Van Duin",9.4884,M,"South  Carolina"
+2538,Clouseau,9.4766,F,Illinois
+2539,"Gus Arnheim & his Orchestra",9.4653,F,Minnesota
+2540,"Third Eye Blind",9.4566,M,Hawaii
+2541,"The Fleetwoods",9.4503,F,Alabama
+2542,"Aurelio Fierro",9.4352,F,Minnesota
+2543,Tavares,9.4342,M,Idaho
+2544,Storm,9.4007,F,Idaho
+2545,"Dion & The Belmonts",9.3914,F,"New Hampshire"
+2546,"Ataulfo Alves",9.3805,F,Alabama
+2547,Sash!,9.3725,F,Nebraska
+2548,"Alvin Stardust",9.3527,M,Nevada
+2549,"Julius Larosa",9.2903,F,Connecticut
+2550,"Robert Miles",9.2745,M,Missouri
+2551,"Mr President",9.2596,M,Hawaii
+2552,"The Imperials",9.2479,M,"New Hampshire"
+2553,"Tony! Toni! Tone!",9.2446,F,"North Dakota"
+2554,Fabian,9.2320,M,Arkansas
+2555,"The Weavers",9.2264,F,Alaska
+2556,"Banda do Corpo de Bombeiros",9.2257,M,Ohio
+2557,"Vader Abraham",9.2089,M,Idaho
+2558,"Shakira & Wyclef Jean",9.1931,M,Hawaii
+2559,Jodeci,9.1845,M,"North Carolina"
+2560,"Silver Convention",9.1778,F,Mississippi
+2561,"Aracy Cortes",9.1735,M,"New Jersey"
+2562,"Wencke Myhre",9.1646,F,Connecticut
+2563,Shanice,9.1550,M,"New Mexico"
+2564,"Gene Chandler",9.1086,F,Pennsylvania
+2565,"Johnnie Taylor",9.1055,M,"New York"
+2566,"Pee Wee Hunt",9.1039,F,Pennsylvania
+2567,"Drafi Deutscher",9.0928,F,Kansas
+2568,"Marco Borsato",9.0843,F,Indiana
+2569,"Johnny Ace",9.0503,M,Minnesota
+2570,"Blind Boy Fuller",9.0284,M,Minnesota
+2571,"Pino Donaggio",9.0158,M,"West Virginia"
+2572,"Arden-Ohman Orchestra",9.0128,F,Kansas
+2573,"Diana King",9.0042,M,"Rhode Island"
+2574,"Smokey Robinson & The Miracles",8.9990,F,Washington
+2575,"Doris Monteiro",8.9906,F,Michigan
+2576,"Quartetto Cetra",8.9895,F,"New Hampshire"
+2577,"Anthony Newley",8.9792,F,Michigan
+2578,"Luiz Gonzaga",8.9625,M,Ohio
+2579,Manuela,8.9497,M,Arkansas
+2580,"Tevin Campbell",8.9477,F,Wyoming
+2581,"David Seville & The Chipmunks",8.9424,M,Idaho
+2582,"Jermaine Jackson",8.9244,F,Florida
+2583,"The Staple Singers",8.9235,F,Pennsylvania
+2584,"Junior Walker & The All-Stars",8.9111,M,Alaska
+2585,"Sophie Ellis-Bextor",8.8933,M,Illinois
+2586,"Billy Cotton & his Band",8.8866,M,Pennsylvania
+2587,"Peter Andre",8.8799,F,"New Hampshire"
+2588,"Aphrodite's Child",8.8694,M,Oklahoma
+2589,"Roberto Murolo",8.8683,M,Texas
+2590,"Danny & The Juniors",8.8653,M,"West Virginia"
+2591,"Love Psychedelico",8.8649,F,Massachusetts
+2592,"Tee Set",8.8548,M,"West Virginia"
+2593,"Faith Evans",8.8466,F,Colorado
+2594,"The Jets",8.8440,F,Utah
+2595,T-Pain,8.8293,M,"New Mexico"
+2596,"Ivory Joe Hunter",8.8268,F,Arizona
+2597,Cappella,8.8249,M,Alaska
+2598,"Joe Tex",8.8167,M,Montana
+2599,"Ray Miller & his Orchestra",8.8113,F,Texas
+2600,"Harold Melvin & The Bluenotes",8.7802,F,Ohio
+2601,"Elsie Baker",8.7678,M,"West Virginia"
+2602,"Boy George",8.7621,M,Alabama
+2603,"The Ronettes",8.7565,F,"New Hampshire"
+2604,"Johnny Marvin",8.7466,M,Louisiana
+2605,Normaal,8.7463,F,Georgia
+2606,"Flo-Rida & T-Pain",8.7334,M,Louisiana
+2607,"Joel & Gaucho",8.7308,M,"New Hampshire"
+2608,Marmalade,8.7166,F,"South  Carolina"
+2609,"Michelle Branch",8.7106,M,Alaska
+2610,"Ritchie Valens",8.6896,F,Ohio
+2611,"Robin Gibb",8.6819,M,Pennsylvania
+2612,"Cathy Dennis",8.6688,M,Mississippi
+2613,"Los Del Rio",8.6558,M,Arizona
+2614,Jeanette,8.6536,F,"Rhode Island"
+2615,"Rusty Draper",8.6476,M,California
+2616,"Chris Andrews",8.6445,F,Nevada
+2617,"Red Norvo & his Orchestra",8.6408,F,Louisiana
+2618,"Merry Macs",8.6249,F,Montana
+2619,D:Ream,8.5712,M,Arkansas
+2620,Flo-Rida,8.5704,F,"South Dakota"
+2621,"Billy Swan",8.5617,F,Illinois
+2622,"Nuno Roland",8.5501,F,Missouri
+2623,"Helen Kane",8.5470,F,"West Virginia"
+2624,"Ray Franky",8.5466,F,Oklahoma
+2625,Badfinger,8.5452,F,Delaware
+2626,"Elmore James",8.5447,M,Georgia
+2627,"Billy Preston",8.5373,M,Michigan
+2628,"Bill Ramsey",8.5334,M,Connecticut
+2629,"Karyn White",8.5329,M,Alaska
+2630,"Harry Tally",8.5130,F,Illinois
+2631,"Yazz & The Plastic Population",8.5074,M,"New Jersey"
+2632,Jamelia,8.5042,M,Iowa
+2633,"1910 Fruitgum Co",8.4957,M,Colorado
+2634,Icehouse,8.4929,F,Montana
+2635,"Jerry Murad's Harmonicats",8.4856,M,"New Jersey"
+2636,"Tony Christie",8.4818,M,Iowa
+2637,"Betty Hutton",8.4790,F,Connecticut
+2638,JoJo,8.4750,M,Iowa
+2639,"Helen Forrest & Dick Haymes",8.4743,F,Utah
+2640,"R D Burman",8.4585,F,Delaware
+2641,"Naughty By Nature",8.4519,M,"New Hampshire"
+2642,"Johnny Preston",8.4448,M,Idaho
+2643,U96,8.4401,M,Hawaii
+2644,Kult,8.4350,F,Idaho
+2645,"Andy Kim",8.4305,F,Idaho
+2646,"All About Eve",8.4193,M,Colorado
+2647,"Sara Martin",8.3966,F,Alabama
+2648,"Van Wood",8.3722,F,Washington
+2649,"Little Jack Little",8.3672,M,Tennessee
+2650,"No Mercy",8.3630,F,"New Hampshire"
+2651,Workshy,8.3617,M,Wyoming
+2652,"The Easybeats",8.3586,M,"South  Carolina"
+2653,Xscape,8.3542,M,Missouri
+2654,"Vanessa Carlton",8.3532,M,California
+2655,"Juice Newton",8.3242,F,Kentucky
+2656,"Luiz Barbosa",8.3219,F,Louisiana
+2657,"Dannii Minogue",8.3212,M,"New York"
+2658,"Sophie B Hawkins",8.2974,M,Mississippi
+2659,Bajm,8.2724,F,Arizona
+2660,"Elton John & Kiki Dee",8.2718,M,Missouri
+2661,"Moreira da Silva",8.2693,F,Idaho
+2662,"John Paul Young",8.2684,F,Illinois
+2663,"Orlando Correia",8.2577,M,Vermont
+2664,"Ferrante & Teicher",8.2469,F,MaineMaryland
+2665,"Pee Wee King",8.2405,F,Illinois
+2666,"Paul & Paula",8.2239,M,Arizona
+2667,"Lucy Isabelle Marsh",8.2159,F,Minnesota
+2668,"Floyd Cramer",8.2142,F,Oregon
+2669,"Dick Robertson & his Orchestra",8.2097,M,Iowa
+2670,"The Brilliant Green",8.2093,F,"West Virginia"
+2671,"The Fortunes",8.2061,F,"West Virginia"
+2672,"Earth & Fire",8.2040,M,Kansas
+2673,"James F Harrison & James Reed",8.2000,M,"New Jersey"
+2674,"Amii Stewart",8.1999,F,Minnesota
+2675,"Scott McKenzie",8.1767,F,Wyoming
+2676,EMF,8.1752,M,Nebraska
+2677,"Bunny Berigan",8.1724,F,Idaho
+2678,"Les Humphries Singers",8.1675,F,Wyoming
+2679,"Daniel Bedingfield",8.1558,F,"West Virginia"
+2680,"Richard Himber & his Orchestra",8.1294,M,Iowa
+2681,"The Flamingos",8.1284,F,Texas
+2682,"Masahiko Kondo",8.1061,M,Virginia
+2683,"Margaret Whiting & Jimmy Wakely",8.1054,M,"New Jersey"
+2684,"Shakespear's Sister",8.0980,F,Vermont
+2685,AI,8.0929,M,Alaska
+2686,"The Stargazers",8.0843,F,"North Dakota"
+2687,"Christina Aguilera Lil' Kim Mya & Pink",8.0799,F,"Rhode Island"
+2688,"Gareth Gates",8.0655,M,California
+2689,LMFAO,8.0644,F,Oregon
+2690,"Arthur Godfrey",8.0621,F,Connecticut
+2691,"The Move",8.0618,M,Nevada
+2692,Titas,8.0514,M,MaineMaryland
+2693,"Joe Simon",8.0513,F,Wyoming
+2694,"Benny Krueger & his Orchestra",8.0503,F,Iowa
+2695,Juanes,8.0493,M,Massachusetts
+2696,Paraguassu,8.0447,F,Wyoming
+2697,"Ruby Murray",8.0407,M,Delaware
+2698,Kingsmen,8.0288,M,Wisconsin
+2699,"Jesus Jones",8.0041,M,Colorado
+2700,"The Pied Pipers",7.9993,F,"New Mexico"
+2701,"Lipps Inc",7.9977,F,"West Virginia"
+2702,Shamen,7.9961,M,Illinois
+2703,"Eddie Condon",7.9949,F,Michigan
+2704,"Johnny Burnette",7.9719,F,"North Carolina"
+2705,"Nao Proton",7.9610,M,"New Hampshire"
+2706,"The Trammps",7.9609,M,Virginia
+2707,"Julian Lennon",7.9560,M,Kentucky
+2708,Canhoto,7.9540,M,Arkansas
+2709,"Nelly & Kelly Rowland",7.9498,F,Virginia
+2710,Deee-Lite,7.9445,M,Virginia
+2711,"Dru Hill",7.9268,F,Utah
+2712,"Plain White T's",7.9250,M,Illinois
+2713,"Christina Milian",7.9175,M,Wyoming
+2714,"Don Gibson",7.9169,M,Washington
+2715,"Orrin Tucker & his Orchestra",7.9109,F,Delaware
+2716,"Will Glahe & his Orchestra",7.9046,F,Minnesota
+2717,"Timbaland & OneRepublic",7.8975,F,Arkansas
+2718,"Taio Cruz",7.8957,F,Montana
+2719,"98 Degrees",7.8799,F,Iowa
+2720,"Rob Thomas & Santana",7.8710,M,"North Carolina"
+2721,"The Kalin Twins",7.8547,F,Hawaii
+2722,"Craig Douglas",7.8498,F,Tennessee
+2723,"The Browns",7.8470,F,Ohio
+2724,"Sixpence None The Richer",7.8407,F,Texas
+2725,"Franco Ricci",7.8360,F,Missouri
+2726,Pushim,7.8223,M,"West Virginia"
+2727,"Bell Biv Devoe",7.8177,M,"Rhode Island"
+2728,112,7.8166,F,"New Jersey"
+2729,"Gerhard Wendland",7.8103,M,Oklahoma
+2730,"Gale Storm",7.8011,M,MaineMaryland
+2731,ATB,7.7952,F,Arizona
+2732,"Inner City",7.7696,F,Wisconsin
+2733,"Reinald Werrenrath",7.7650,M,Mississippi
+2734,Simone,7.7601,F,Utah
+2735,"Frank Stanley & Henry Burr",7.7509,M,"Rhode Island"
+2736,"Frank Stanley & Byron G Harlan",7.7452,F,"South  Carolina"
+2737,"Cauby Peixoto",7.7451,M,Wisconsin
+2738,"Jimmy Dean",7.7439,F,Pennsylvania
+2739,"The Chiffons",7.7318,F,MaineMaryland
+2740,"Kiyouko Koizumi",7.7230,M,"South  Carolina"
+2741,"Castro Barbosa",7.7214,F,Missouri
+2742,"The Dells",7.7088,F,Arizona
+2743,"Las Ketchup",7.7067,F,California
+2744,Rasmus,7.6787,F,Michigan
+2745,"Little Eva",7.6653,M,"North Carolina"
+2746,"Stevie B",7.6505,F,Iowa
+2747,"The Vogues",7.6472,M,Pennsylvania
+2748,Busted,7.6420,M,Minnesota
+2749,Daniel,7.6276,F,"South  Carolina"
+2750,"The Foundations",7.6166,M,Indiana
+2751,"Ohio Express",7.6071,M,Louisiana
+2752,K3,7.5912,F,"West Virginia"
+2753,"Lutricia McNeal",7.5870,M,Nevada
+2754,"Oscar Carboni",7.5862,M,Ohio
+2755,"Kate Ryan",7.5860,M,Wisconsin
+2756,"Lulu Santos",7.5615,M,"West Virginia"
+2757,"The Equals",7.5589,F,"North Dakota"
+2758,"Uncle Kracker",7.5587,F,Delaware
+2759,Highwaymen,7.5476,F,Nevada
+2760,"Brandy & Monica",7.5396,F,Tennessee
+2761,OneRepublic,7.5382,F,Wyoming
+2762,"Ernest Tubb",7.5362,M,Montana
+2763,"Was (Not Was)",7.5083,M,Ohio
+2764,"Budka Suflera",7.5047,M,Ohio
+2765,"Big Mama Thornton",7.5038,M,"New Hampshire"
+2766,"Eve Young",7.4956,M,Arizona
+2767,"Tiziano Ferro",7.4834,M,"North Dakota"
+2768,"Blue Barron & Orchestra",7.4712,M,Texas
+2769,"Helen Humes",7.4645,M,Louisiana
+2770,"Bando da Lua",7.4610,M,Illinois
+2771,A1,7.4579,M,Nebraska
+2772,Whigfield,7.4549,F,Missouri
+2773,"Jesse McCartney",7.4502,F,"South  Carolina"
+2774,"Bryan Adams Rod Stewart & Sting",7.4357,F,Florida
+2775,"Fat Joe",7.4352,M,Minnesota
+2776,"The Fireballs",7.4273,F,"North Dakota"
+2777,"Lou Christie",7.4165,F,"New Hampshire"
+2778,"Matia Bazar",7.4051,M,Connecticut
+2779,"The Cowsills",7.4010,M,MaineMaryland
+2780,"Morning The Daughter",7.3734,F,Alabama
+2781,"Ivo Robic",7.3697,F,Alaska
+2782,Sybil,7.3643,M,Utah
+2783,"Kelly Rowland",7.3627,F,Georgia
+2784,"Corrine Morgan",7.3542,F,Massachusetts
+2785,"Peppermint Harris",7.3508,F,"West Virginia"
+2786,"Captain Hollywood Project",7.3463,F,"South  Carolina"
+2787,B*Witched,7.3462,F,Arizona
+2788,"Zager & Evans",7.3457,M,Kentucky
+2789,"Lady GaGa & Colby O'Donis",7.3404,F,California
+2790,Silk,7.3401,F,Oklahoma
+2791,"Mariah Carey & Boyz II Men",7.3305,F,Texas
+2792,"Carlos Nobre",7.3251,F,Texas
+2793,"Thomas Dolby",7.3226,M,"South  Carolina"
+2794,"Corey Hart",7.3180,F,"West Virginia"
+2795,Heatwave,7.3177,F,Idaho
+2796,"Henry King & his Orchestra",7.3156,F,Connecticut
+2797,"Lynn Anderson",7.3135,F,Kentucky
+2798,Blumchen,7.3106,M,Tennessee
+2799,"The Song Spinners",7.3061,F,Alaska
+2800,"Art of Noise",7.3032,M,"West Virginia"
+2801,"Paul Robeson",7.2603,F,Mississippi
+2802,"David Guetta & Akon",7.2532,F,Wisconsin
+2803,"Desmond Dekker",7.2530,F,Delaware
+2804,"Heavy D & The Boyz",7.2493,F,Utah
+2805,"Jordin Sparks",7.2472,F,Arkansas
+2806,"Janet Kay",7.2321,M,Louisiana
+2807,"Bernd Spier",7.2218,F,"West Virginia"
+2808,"Enrico Macias",7.2199,F,"North Dakota"
+2809,"Paul McCartney & Michael Jackson",7.2036,F,"New Jersey"
+2810,Dino,7.1975,M,Kansas
+2811,"Evelyn 'Champagne' King",7.1942,M,Ohio
+2812,"Ralph Marterie",7.1920,M,California
+2813,"Go West",7.1844,M,Montana
+2814,"James Morrison",7.1827,M,Connecticut
+2815,"Jaye P Morgan",7.1761,M,California
+2816,Odyssey,7.1750,M,"New Hampshire"
+2817,Sweetbox,7.1739,M,"New Mexico"
+2818,"Renato Rascel",7.1719,F,Georgia
+2819,"Mississippi Sheiks",7.1698,M,"New York"
+2820,"Tim Maia",7.1660,M,California
+2821,"Sam Ash",7.1627,M,Missouri
+2822,"Paul Williams",7.1503,M,Illinois
+2823,"Eydie Gorme",7.1473,F,Georgia
+2824,"Dina Carroll",7.1459,F,Montana
+2825,"A Flock of Seagulls",7.1414,F,Hawaii
+2826,"Paul Specht & his Orchestra",7.1396,F,Delaware
+2827,"Andre Hazes",7.1389,F,"West Virginia"
+2828,"Roberto Paiva",7.1364,M,Texas
+2829,"Sacha Distel",7.1354,M,Iowa
+2830,Jet,7.1238,F,Massachusetts
+2831,"Beyonce & Shakira",7.1155,M,Tennessee
+2832,Meja,7.1134,F,Vermont
+2833,"Within Temptation",7.1117,M,Pennsylvania
+2834,"Gene Autry & Jimmy Long",7.1012,M,Alaska
+2835,"The Cardinals",7.0975,F,Oklahoma
+2836,"Choro Carioca",7.0961,F,Idaho
+2837,"The Script",7.0860,M,Texas
+2838,"Def Tech",7.0826,F,Massachusetts
+2839,"Ronnie Dove",7.0808,M,Kansas
+2840,"So Pra Contrariar",7.0768,F,"North Dakota"
+2841,"Zarah Leander",7.0683,F,"South  Carolina"
+2842,"Will To Power",7.0642,F,Wisconsin
+2843,"Paper Lace",7.0638,F,Illinois
+2844,"Love Unlimited",7.0537,M,Georgia
+2845,"Frankie Trumbauer",7.0387,M,Pennsylvania
+2846,"Billy J Kramer & The Dakotas",7.0379,F,Delaware
+2847,"Al Donahue",7.0275,M,"Rhode Island"
+2848,"Musical Youth",7.0201,F,Arizona
+2849,"Ivan Lins",7.0148,F,Nevada
+2850,"Robin S",7.0137,M,Texas
+2851,"Jorge Fernandes",7.0096,F,Mississippi
+2852,Luv',7.0027,M,Florida
+2853,"Caetano Veloso",6.9985,M,"New York"
+2854,"Emile Ford & The Checkmates",6.9918,M,Alabama
+2855,"Julia Fordham",6.9780,M,California
+2856,"Albert Campbell",6.9777,M,Vermont
+2857,"The Outhere Brothers",6.9731,M,Wyoming
+2858,"Stacie Orrico",6.9682,M,Nevada
+2859,Mecano,6.9631,F,Nevada
+2860,Marilu,6.9612,F,Minnesota
+2861,Eamon,6.9600,F,Nevada
+2862,"Sandy & Junior",6.9506,F,Virginia
+2863,"Claude Thornhill & his Orchestra",6.9495,M,Louisiana
+2864,"Jayme Vogeler",6.9429,F,Iowa
+2865,"Earl Bostic",6.9322,F,Iowa
+2866,"Albenzio Perrone",6.9255,M,Georgia
+2867,"Ivete Sangalo",6.9185,F,Hawaii
+2868,Redbone,6.9165,F,Pennsylvania
+2869,"Sterling Trio",6.9121,F,Tennessee
+2870,Buzzcocks,6.9112,F,"New Mexico"
+2871,"Melissa Manchester",6.9033,F,Arizona
+2872,"Jack Jersey",6.9014,F,Nebraska
+2873,"Kula Shaker",6.9010,F,Oregon
+2874,"Bill Black's Combo",6.9000,F,Kansas
+2875,"Bobby McFerrin",6.8911,F,Texas
+2876,Teach-In,6.8910,F,MaineMaryland
+2877,"Wang Chung",6.8908,F,Kentucky
+2878,"Pink Ready",6.8896,M,California
+2879,Jade,6.8866,F,Illinois
+2880,"Mark Oh",6.8862,M,MaineMaryland
+2881,"Jean Goldkette & his Orchestra",6.8853,F,Mississippi
+2882,"Trace Adkins",6.8848,F,"North Dakota"
+2883,"Mitch Ryder & The Detroit Wheels",6.8764,M,Hawaii
+2884,Zhane,6.8726,F,Oklahoma
+2885,Shai,6.8600,F,"West Virginia"
+2886,"Russ Columbo",6.8590,F,"New York"
+2887,"Peter Cetera",6.8588,M,Arizona
+2888,"Katyna Ranieri",6.8510,M,Texas
+2889,M,6.8470,F,"New Jersey"
+2890,"Mitchell Ayres & his Fashions in Music",6.8411,F,Oregon
+2891,Leonardo,6.8306,F,California
+2892,"Marvin Gaye & Tammi Terrell",6.8214,F,"West Virginia"
+2893,Kaoma,6.8164,F,Montana
+2894,"Andy Russell",6.8160,M,"North Dakota"
+2895,"Little Walter",6.8124,F,Washington
+2896,"Alcides Gerardi",6.8092,M,Texas
+2897,Mya,6.8043,M,Illinois
+2898,"Sonny James",6.7927,F,Vermont
+2899,"Johnny Gill",6.7887,F,Louisiana
+2900,"Bill Medley & Jennifer Warnes",6.7874,F,Indiana
+2901,Buggles,6.7845,F,Hawaii
+2902,"Johnny Hamp",6.7844,F,Indiana
+2903,"Deep Forest",6.7839,F,"South  Carolina"
+2904,Razorlight,6.7712,M,Colorado
+2905,"Emil Coleman & his Orchestra",6.7640,M,Illinois
+2906,Starsailor,6.7614,F,"New Jersey"
+2907,Chingy,6.7600,M,Iowa
+2908,"Gordon Jenkins & The Weavers",6.7579,F,"New Hampshire"
+2909,"Donald Peers",6.7569,F,"South  Carolina"
+2910,"Jimmy Jones",6.7553,F,"West Virginia"
+2911,"Tic Tac Toe",6.7531,M,Nebraska
+2912,"Charles & Eddie",6.7514,F,Washington
+2913,"Little Willie John",6.7385,F,"New Mexico"
+2914,"C J Lewis",6.7358,M,Kansas
+2915,"Michael Holm",6.7357,M,Wyoming
+2916,"Freddie & The Dreamers",6.7336,F,Pennsylvania
+2917,Ladytron,6.7291,F,Indiana
+2918,"My Little Lover",6.7254,M,Montana
+2919,Sylver,6.7223,M,Missouri
+2920,"Skoop On Somebody",6.7217,F,Pennsylvania
+2921,"Blessid Union of Souls",6.7209,F,Utah
+2922,"Madonna & Justin Timberlake",6.7135,F,Virginia
+2923,"Dick Todd",6.7132,F,"Rhode Island"
+2924,"Anisio Silva",6.7039,F,"West Virginia"
+2925,"The Marcels",6.7025,F,Oklahoma
+2926,"Art Kassel & his Kassels-in-the-Air",6.6968,F,Colorado
+2927,"Perfect Phase",6.6931,M,"North Carolina"
+2928,"The Orlons",6.6821,M,Hawaii
+2929,"Paul McCartney & Stevie Wonder",6.6776,F,Texas
+2930,"Les Brown & Doris Day",6.6651,M,Oregon
+2931,"Sweet Sensation",6.6641,M,"South  Carolina"
+2932,Kalyanji-Anandji,6.6602,M,Wyoming
+2933,"Chauncy Olcott",6.6563,F,Washington
+2934,"Nelson Riddle",6.6505,F,Washington
+2935,"Lucienne Delyle",6.6432,M,"New Mexico"
+2936,"Legiao Urbana",6.6417,M,Nevada
+2937,"After 7",6.6367,M,"South  Carolina"
+2938,Alcazar,6.6347,M,Georgia
+2939,"Annie Cordy",6.6342,F,Indiana
+2940,"Rita Lee",6.6341,F,Florida
+2941,Triceratops,6.6334,M,Illinois
+2942,"Gin Blossoms",6.6128,M,"West Virginia"
+2943,"Gavin Degraw",6.6075,M,Missouri
+2944,Black,6.5981,M,"New Hampshire"
+2945,"Eddie Rabbitt",6.5935,M,Mississippi
+2946,"Ted Heath Orchestra",6.5900,F,Georgia
+2947,"Johnny Hates Jazz",6.5894,F,Massachusetts
+2948,"Ricchi & Poveri",6.5873,M,"New Jersey"
+2949,Sonique,6.5872,M,MaineMaryland
+2950,"Jacob do Bandolim",6.5853,F,Iowa
+2951,"The Communards",6.5820,M,"West Virginia"
+2952,Ottawan,6.5803,M,Mississippi
+2953,"Djivan Gasparyan",6.5727,F,Michigan
+2954,Next,6.5707,M,Utah
+2955,"Miami Sound Machine",6.5477,F,Colorado
+2956,"Bomfunk MCs",6.5319,M,Alabama
+2957,"Marisa Monte",6.5290,M,"North Carolina"
+2958,"Cascatinha & Inhana",6.5208,F,"South  Carolina"
+2959,Amerie,6.5186,M,Wyoming
+2960,"Manuel Romain",6.5167,F,"West Virginia"
+2961,"Murray Head",6.5156,M,"New Jersey"
+2962,"Elvis Presley & JXL",6.5139,F,Vermont
+2963,Myslovitz,6.5131,F,Nebraska
+2964,"Michel Delpech",6.5113,M,Montana
+2965,Sinitta,6.5105,M,Kentucky
+2966,"Mondo Grosso",6.4984,F,"Rhode Island"
+2967,Corona,6.4975,F,"West Virginia"
+2968,"Os Paralamas do Sucesso",6.4963,M,Kentucky
+2969,"Roy Hamilton",6.4876,M,Alabama
+2970,"Richard Hayman",6.4802,M,Hawaii
+2971,"Elizeth Cardoso",6.4744,M,Colorado
+2972,"Mel & Kim",6.4738,F,Oregon
+2973,"Royal Guardsmen",6.4698,M,"Rhode Island"
+2974,Lombard,6.4637,F,Wisconsin
+2975,"Ohio Players",6.4633,M,Oklahoma
+2976,"Andre Claveau",6.4598,M,Minnesota
+2977,"Chris Barber's Jazz Band",6.4597,M,Wyoming
+2978,"Oleta Adams",6.4595,M,Florida
+2979,"Solomon Burke",6.4583,F,Hawaii
+2980,"Tone Loc",6.4582,M,Florida
+2981,"Lyte Funkie Ones",6.4514,M,Kentucky
+2982,"Orquestra de Eduardo Souto",6.4511,F,Vermont
+2983,"Rihanna & Calvin Harris",NULL,NULL,NULL
+2984,"Meat Loaf",NULL,NULL,NULL
+2985,"Gotye & Kimbra",NULL,NULL,NULL
+2986,"Dionne Warwick & Friends",NULL,NULL,NULL
+2987,"Eminem & Rihanna",NULL,NULL,NULL
+2988,"Band Aid",NULL,NULL,NULL
+2989,"Diana Ross & Lionel Richie",NULL,NULL,NULL
+2990,"Carly Rae Jepsen",NULL,NULL,NULL
+2991,"Nelly Furtado & Timbaland",NULL,NULL,NULL
+2992,"Patrick Hernandez",NULL,NULL,NULL
+2993,"Shaggy & Ricardo 'RikRok' Ducent",NULL,NULL,NULL
+2994,"Maroon 5 & Christina Aguilera",NULL,NULL,NULL
+2995,"Jennifer Lopez & Pitbull",NULL,NULL,NULL
+2996,"Kanye West & Jamie Foxx",NULL,NULL,NULL
+2997,"Katy Perry & Snoop Dogg",NULL,NULL,NULL
+2998,"Michael Jackson & Janet Jackson",NULL,NULL,NULL
+2999,"Norman Greenbaum",NULL,NULL,NULL
+3000,"Flo-Rida & Ke$ha",NULL,NULL,NULL
+3001,"Anita Ward",NULL,NULL,NULL
+3002,"Timbaland & Keri Hilson",NULL,NULL,NULL
+3003,"F R David",NULL,NULL,NULL
+3004,"Hot Butter",NULL,NULL,NULL
+3005,"Ini Kamoze",NULL,NULL,NULL
+3006,"Nancy Sinatra & Frank Sinatra",NULL,NULL,NULL
+3007,"Joe Cocker & Jennifer Warnes",NULL,NULL,NULL
+3008,"John Fred & The Playboy Band",NULL,NULL,NULL
+3009,"Pitbull Ne-Yo Afrojack & Nayer",NULL,NULL,NULL
+3010,"Joan Osborne",NULL,NULL,NULL
+3011,"Francis Craig",NULL,NULL,NULL
+3012,Carpenters,NULL,NULL,NULL
+3013,"Robin Thicke T.I. & Pharrell Williams",NULL,NULL,NULL
+3014,"Gwen Stefani & Akon",NULL,NULL,NULL
+3015,"Babylon Zoo",NULL,NULL,NULL
+3016,"New Vaudeville Band",NULL,NULL,NULL
+3017,"Jennifer Paige",NULL,NULL,NULL
+3018,"George Michael & Elton John",NULL,NULL,NULL
+3019,O-Zone,NULL,NULL,NULL
+3020,"Debbie Boone",NULL,NULL,NULL
+3021,"Pras Michel",NULL,NULL,NULL
+3022,"Britney Spears & Madonna",NULL,NULL,NULL
+3023,"Joe Dolce",NULL,NULL,NULL
+3024,"Daniel Boone",NULL,NULL,NULL
+3025,"Edwin Hawkins Singers",NULL,NULL,NULL
+3026,"Paula Abdul & The Wild Pair",NULL,NULL,NULL
+3027,fun.,NULL,NULL,NULL
+3028,"50 Cent & Olivia",NULL,NULL,NULL
+3029,"Mariah Carey & Whitney Houston",NULL,NULL,NULL
+3030,"Santa Esmerelda",NULL,NULL,NULL
+3031,Psy,NULL,NULL,NULL
+3032,"Lady GaGa & Beyonce",NULL,NULL,NULL
+3033,Emilia,NULL,NULL,NULL
+3034,"Snoop Dogg & Pharrell Williams",NULL,NULL,NULL
+3035,Christie,NULL,NULL,NULL
+3036,"Donna Lewis",NULL,NULL,NULL
+3037,Afroman,NULL,NULL,NULL
+3038,"Michael Jackson & Siedah Garrett",NULL,NULL,NULL
+3039,"Usher & Alicia Keys",NULL,NULL,NULL
+3040,"DNA & Suzanne Vega",NULL,NULL,NULL
+3041,"Jordin Sparks & Chris Brown",NULL,NULL,NULL
+3042,"Sara Bareilles",NULL,NULL,NULL
+3043,"Van McCoy",NULL,NULL,NULL
+3044,"Chris Brown & Juelz Santana",NULL,NULL,NULL
+3045,"Usher & Young Jeezy",NULL,NULL,NULL
+3046,"Jay-Z & Linkin Park",NULL,NULL,NULL
+3047,"U2 & Green Day",NULL,NULL,NULL
+3048,"Fred Astaire & Leo Reisman",NULL,NULL,NULL
+3049,"Shirley & Company",NULL,NULL,NULL
+3050,OMC,NULL,NULL,NULL
+3051,"Sugarhill Gang",NULL,NULL,NULL
+3052,"Youssou N'Dour & Neneh Cherry",NULL,NULL,NULL
+3053,"Usher & will.i.am",NULL,NULL,NULL
+3054,"Katy Perry & Kanye West",NULL,NULL,NULL
+3055,"Estelle & Kanye West",NULL,NULL,NULL
+3056,"BoB & Hayley Williams",NULL,NULL,NULL
+3057,"Timbaland & Nelly Furtado & Justin Timberlake",NULL,NULL,NULL
+3058,"Mario Winans",NULL,NULL,NULL
+3059,Hoobastank,NULL,NULL,NULL
+3060,"Debbie Reynolds",NULL,NULL,NULL
+3061,"Pop Tops",NULL,NULL,NULL
+3062,"Meredith Brooks",NULL,NULL,NULL
+3063,"2Pac & Dr Dre",NULL,NULL,NULL
+3064,"Crazy Town",NULL,NULL,NULL
+3065,"Macklemore & Ryan Lewis",NULL,NULL,NULL
+3066,"Eric Prydz",NULL,NULL,NULL
+3067,"Kyu Sakamoto",NULL,NULL,NULL
+3068,"Julie Covington",NULL,NULL,NULL
+3069,"Jay-Z & Alicia Keys",NULL,NULL,NULL
+3070,"Glenn Medeiros",NULL,NULL,NULL
+3071,"Los Bravos",NULL,NULL,NULL
+3072,"Leroy Anderson",NULL,NULL,NULL
+3073,"Jane Birkin & Serge Gainsbourg",NULL,NULL,NULL
+3074,"Edward Maya & Vika Jigulina",NULL,NULL,NULL
+3075,Baltimora,NULL,NULL,NULL
+3076,"BoB & Bruno Mars",NULL,NULL,NULL
+3077,"The Emotions",NULL,NULL,NULL
+3078,"Run DMC & Jason Nevins",NULL,NULL,NULL
+3079,"Michael Sembello",NULL,NULL,NULL
+3080,Trio,NULL,NULL,NULL
+3081,"Singing Nun (Soeur Sourire)",NULL,NULL,NULL
+3082,"Kevin Lyttle",NULL,NULL,NULL
+3083,"Luther Vandross & Mariah Carey",NULL,NULL,NULL
+3084,"The New Radicals",NULL,NULL,NULL
+3085,"Patti LaBelle & Michael McDonald",NULL,NULL,NULL
+3086,"will.i.am & Britney Spears",NULL,NULL,NULL
+3087,"David Soul",NULL,NULL,NULL
+3088,"Yolanda Be Cool & DCup",NULL,NULL,NULL
+3089,"Walter Murphy & The Big Apple Band",NULL,NULL,NULL
+3090,"BLACKstreet & Dr Dre",NULL,NULL,NULL
+3091,"Aretha Franklin & George Michael",NULL,NULL,NULL
+3092,Avicii,NULL,NULL,NULL
+3093,"Ned Miller",NULL,NULL,NULL
+3094,"Taio Cruz & Ludacris",NULL,NULL,NULL
+3095,Rockwell,NULL,NULL,NULL
+3096,Lorde,NULL,NULL,NULL
+3097,"Fool's Garden",NULL,NULL,NULL
+3098,"The Royal Scots Dragoon Guards",NULL,NULL,NULL
+3099,Lumidee,NULL,NULL,NULL
+3100,"David Bowie & Mick Jagger",NULL,NULL,NULL
+3101,"Beyonce & Jay-Z",NULL,NULL,NULL
+3102,Steam,NULL,NULL,NULL
+3103,"White Town",NULL,NULL,NULL
+3104,Iyaz,NULL,NULL,NULL
+3105,"Dusty Springfield & The Pet Shop Boys",NULL,NULL,NULL
+3106,"Band Aid 20",NULL,NULL,NULL
+3107,"50 Cent & Justin Timberlake",NULL,NULL,NULL
+3108,Modjo,NULL,NULL,NULL
+3109,"Cutting Crew",NULL,NULL,NULL
+3110,"Barry McGuire",NULL,NULL,NULL
+3111,"The Simpsons",NULL,NULL,NULL
+3112,"Jimmy Boyd",NULL,NULL,NULL
+3113,"The Calling",NULL,NULL,NULL
+3114,"Club Nouveau",NULL,NULL,NULL
+3115,"Chad Kroeger",NULL,NULL,NULL
+3116,"Hues Corporation",NULL,NULL,NULL
+3117,"Nelly & Tim McGraw",NULL,NULL,NULL
+3118,Clout,NULL,NULL,NULL
+3119,"Pink & Nate Ruess",NULL,NULL,NULL
+3120,"Fairground Attraction",NULL,NULL,NULL
+3121,"Akon & Snoop Dogg",NULL,NULL,NULL
+3122,"Toni Basil",NULL,NULL,NULL
+3123,"Millie Small",NULL,NULL,NULL
+3124,"Chris Brown & T-Pain",NULL,NULL,NULL
+3125,"Run DMC & Aerosmith",NULL,NULL,NULL
+3126,"Freda Payne",NULL,NULL,NULL
+3127,"Regina Belle & Peabo Bryson",NULL,NULL,NULL
+3128,"Crazy World of Arthur Brown",NULL,NULL,NULL
+3129,"Wilbert Harrison",NULL,NULL,NULL
+3130,"Eve & Gwen Stefani",NULL,NULL,NULL
+3131,"Cee-Lo Green",NULL,NULL,NULL
+3132,"Owl City",NULL,NULL,NULL
+3133,"T.I. & Rihanna",NULL,NULL,NULL
+3134,"Bing Crosby & Les Paul",NULL,NULL,NULL
+3135,Kajagoogoo,NULL,NULL,NULL
+3136,"Deep Blue Something",NULL,NULL,NULL
+3137,"A Taste of Honey",NULL,NULL,NULL
+3138,"Kenny Rogers & Dolly Parton",NULL,NULL,NULL
+3139,"Men Without Hats",NULL,NULL,NULL
+3140,"Tab Hunter",NULL,NULL,NULL
+3141,"Snoop Dogg & Charlie Wilson & Justin Timberlake",NULL,NULL,NULL
+3142,MARRS,NULL,NULL,NULL
+3143,"Minnie Riperton",NULL,NULL,NULL
+3144,"Spiller & Sophie Ellis-Bextor",NULL,NULL,NULL
+3145,"The Rembrandts",NULL,NULL,NULL
+3146,"Flo-Rida & David Guetta",NULL,NULL,NULL
+3147,"Jay Sean & Lil' Wayne",NULL,NULL,NULL
+3148,Contours,NULL,NULL,NULL
+3149,"Maureen McGovern",NULL,NULL,NULL
+3150,"Tex Williams & The Western Caravan",NULL,NULL,NULL
+3151,"Santana & Michelle Branch",NULL,NULL,NULL
+3152,"Nicki French",NULL,NULL,NULL
+3153,"Bob Sinclar Goleo VI & Gary 'Nesta' Pine",NULL,NULL,NULL
+3154,"Wild Cherry",NULL,NULL,NULL
+3155,"Fanny Brice",NULL,NULL,NULL
+3156,"Ciara & Missy 'Misdemeanor' Elliot",NULL,NULL,NULL
+3157,Charlene,NULL,NULL,NULL
+3158,"Miguel Rios",NULL,NULL,NULL
+3159,"Edison Lighthouse",NULL,NULL,NULL
+3160,"Frijid Pink",NULL,NULL,NULL
+3161,"Notorious BIG & P Diddy",NULL,NULL,NULL
+3162,"Thelma Houston",NULL,NULL,NULL
+3163,"Enrique Iglesias & Pitbull",NULL,NULL,NULL
+3164,"Bobbie Gentry",NULL,NULL,NULL
+3165,MFSB,NULL,NULL,NULL
+3166,"N-Trance & Ricardo Da Force",NULL,NULL,NULL
+3167,"Staff Sergeant Barry Sadler",NULL,NULL,NULL
+3168,"Samantha Sang",NULL,NULL,NULL
+3169,"Barbra Streisand & Donna Summer",NULL,NULL,NULL
+3170,"Jennifer Lopez & LL Cool J",NULL,NULL,NULL
+3171,"David Whitfield & Mantovani",NULL,NULL,NULL
+3172,"C W McCall",NULL,NULL,NULL
+3173,"Jessie J & BoB",NULL,NULL,NULL
+3174,"Rick Dees & his Cast of Idiots",NULL,NULL,NULL
+3175,"Peter Schilling",NULL,NULL,NULL
+3176,Eruption,NULL,NULL,NULL
+3177,"Warren G & Nate Dogg",NULL,NULL,NULL
+3178,"Ciara & Petey Pablo",NULL,NULL,NULL
+3179,"Barbra Streisand & Bryan Adams",NULL,NULL,NULL
+3180,"A R Rahman & The Pussycat Dolls",NULL,NULL,NULL
+3181,Taco,NULL,NULL,NULL
+3182,Player,NULL,NULL,NULL
+3183,"Celine Dion & R Kelly",NULL,NULL,NULL
+3184,"Coolio & 40 Thevz",NULL,NULL,NULL
+3185,"Maroon 5 & Wiz Khalifa",NULL,NULL,NULL
+3186,Stories,NULL,NULL,NULL
+3187,"Robbie Nevil",NULL,NULL,NULL
+3188,"Eagle-Eye Cherry",NULL,NULL,NULL
+3189,"Marky Mark & The Funky Bunch",NULL,NULL,NULL
+3190,"Starland Vocal Band",NULL,NULL,NULL
+3191,"Barbra Streisand & Neil Diamond",NULL,NULL,NULL
+3192,"Melanie C & Lisa 'Left Eye' Lopes",NULL,NULL,NULL
+3193,"Tag Team",NULL,NULL,NULL
+3194,Meco,NULL,NULL,NULL
+3195,"Philip Bailey & Phil Collins",NULL,NULL,NULL
+3196,"Stealer's Wheel",NULL,NULL,NULL
+3197,"Morris Albert",NULL,NULL,NULL
+3198,"David Guetta & Kelly Rowland",NULL,NULL,NULL
+3199,Quarterflash,NULL,NULL,NULL
+3200,Aneka,NULL,NULL,NULL
+3201,"Los Indios Tabajaras",NULL,NULL,NULL
+3202,"The Escape Club",NULL,NULL,NULL
+3203,"The Surfaris",NULL,NULL,NULL
+3204,"Sarah Brightman & Andrea Bocelli",NULL,NULL,NULL
+3205,"Al Trace",NULL,NULL,NULL
+3206,"Tinie Tempah & Eric Turner",NULL,NULL,NULL
+3207,"Sandi Thom",NULL,NULL,NULL
+3208,"Chris Norman & Suzi Quatro",NULL,NULL,NULL
+3209,"Daft Punk & Pharrell Williams",NULL,NULL,NULL
+3210,"Tony Rich Project",NULL,NULL,NULL
+3211,"John Parr",NULL,NULL,NULL
+3212,"Mark Morrison",NULL,NULL,NULL
+3213,"The Lemon Pipers",NULL,NULL,NULL
+3214,"Patti Smith & Don Henley",NULL,NULL,NULL
+3215,"Shakira & Freshly Ground",NULL,NULL,NULL
+3216,"Queen & David Bowie",NULL,NULL,NULL
+3217,"Gregory Abbott",NULL,NULL,NULL
+3218,"The Pussycat Dolls & Will.I.Am",NULL,NULL,NULL
+3219,"Danyel Gerard",NULL,NULL,NULL
+3220,"Mary MacGregor",NULL,NULL,NULL
+3221,"Johnny Logan",NULL,NULL,NULL
+3222,"Buzz Clifford",NULL,NULL,NULL
+3223,"Chesney Hawkes",NULL,NULL,NULL
+3224,"Merrilee Rush",NULL,NULL,NULL
+3225,"One Direction",NULL,NULL,NULL
+3226,Wheatus,NULL,NULL,NULL
+3227,"Bing Crosby & Carmen Cavallaro",NULL,NULL,NULL
+3228,"Timmy Thomas",NULL,NULL,NULL
+3229,"The Floaters",NULL,NULL,NULL
+3230,"Harold Faltermeyer",NULL,NULL,NULL
+3231,"Penny McLean",NULL,NULL,NULL
+3232,"Christina Aguilera & Redman",NULL,NULL,NULL
+3233,"Hugo Montenegro",NULL,NULL,NULL
+3234,Ocean,NULL,NULL,NULL
+3235,"Salt-N-Pepa & En Vogue",NULL,NULL,NULL
+3236,"Ricky Martin & Christina Aguilera",NULL,NULL,NULL
+3237,"The McCoys",NULL,NULL,NULL
+3238,"Robbie Williams & Nicole Kidman",NULL,NULL,NULL
+3239,"P Diddy & Jimmy Page",NULL,NULL,NULL
+3240,"Bob Moore",NULL,NULL,NULL
+3241,"Maxine Nightingale",NULL,NULL,NULL
+3242,"Deniece Williams",NULL,NULL,NULL
+3243,"Bobby 'Boris' Pickett & The Crypt-Kickers",NULL,NULL,NULL
+3244,"Andrea True Connection",NULL,NULL,NULL
+3245,US3,NULL,NULL,NULL
+3246,"Baby Bash",NULL,NULL,NULL
+3247,Sylvers,NULL,NULL,NULL
+3248,"Adam Clayton & Larry Mullen",NULL,NULL,NULL
+3249,"Samantha Mumba",NULL,NULL,NULL
+3250,"Flo-Rida & Sia",NULL,NULL,NULL
+3251,"Robin Beck",NULL,NULL,NULL
+3252,"Nelly P Diddy & Murphy Lee",NULL,NULL,NULL
+3253,"Far East Movement",NULL,NULL,NULL
+3254,"Bobby Lewis",NULL,NULL,NULL
+3255,"DJ Sammy & Yanou",NULL,NULL,NULL
+3256,"Yvonne Elliman",NULL,NULL,NULL
+3257,"Owl City & Carly Rae Jepsen",NULL,NULL,NULL
+3258,"Richard Harris",NULL,NULL,NULL
+3259,"Nina Sky",NULL,NULL,NULL
+3260,"Tasmin Archer",NULL,NULL,NULL
+3261,"Billy Paul",NULL,NULL,NULL
+3262,"The Tokens",NULL,NULL,NULL
+3263,"David Dundas",NULL,NULL,NULL
+3264,"Tom Cochrane",NULL,NULL,NULL
+3265,"Five for Fighting",NULL,NULL,NULL
+3266,3T,NULL,NULL,NULL
+3267,"Metro Station",NULL,NULL,NULL
+3268,"Gary Wright",NULL,NULL,NULL
+3269,"Skeeter Davis",NULL,NULL,NULL
+3270,"Merril Bainbridge",NULL,NULL,NULL
+3271,"Mr Oizo",NULL,NULL,NULL
+3272,"Linda Ronstadt & Aaron Neville",NULL,NULL,NULL
+3273,"Celine Dion & Peabo Bryson",NULL,NULL,NULL
+3274,"Glenn Medeiros & Bobby Brown",NULL,NULL,NULL
+3275,"Goombay Dance Band",NULL,NULL,NULL
+3276,"Pseudo Echo",NULL,NULL,NULL
+3277,"Blu Cantrell",NULL,NULL,NULL
+3278,"Fergal Sharkey",NULL,NULL,NULL
+3279,"Pharrell Williams",NULL,NULL,NULL
+3280,"Sir Mix-a-Lot",NULL,NULL,NULL
+3281,Cascades,NULL,NULL,NULL
+3282,"Jeannie C Riley",NULL,NULL,NULL
+3283,"Nu Shooz",NULL,NULL,NULL
+3284,"P Diddy Usher & Loon",NULL,NULL,NULL
+3285,"Maria McKee",NULL,NULL,NULL
+3286,"Donny Osmond & Marie Osmond",NULL,NULL,NULL
+3287,"Henry Gross",NULL,NULL,NULL
+3288,"Poppy Family",NULL,NULL,NULL
+3289,Harpo,NULL,NULL,NULL
+3290,"Natalie Cole & Nat King Cole",NULL,NULL,NULL
+3291,"The Penguins",NULL,NULL,NULL
+3292,"Rupert Holmes",NULL,NULL,NULL
+3293,"Az Yet",NULL,NULL,NULL
+3294,"Linda Ronstadt & James Ingram",NULL,NULL,NULL
+3295,"Timmy T",NULL,NULL,NULL
+3296,"The Romantics",NULL,NULL,NULL
+3297,"Phil Collins & Marilyn Martin",NULL,NULL,NULL
+3298,Oliver,NULL,NULL,NULL
+3299,"Roy Acuff",NULL,NULL,NULL
+3300,"Gina G",NULL,NULL,NULL
+3301,"The Wanted",NULL,NULL,NULL
+3302,Pilot,NULL,NULL,NULL
+3303,"Fergie & will.i.am",NULL,NULL,NULL
+3304,"Bruce Channel",NULL,NULL,NULL
+3305,"Dionne Farris",NULL,NULL,NULL
+3306,"Mary J Blige & U2",NULL,NULL,NULL
+3307,"Pinetop Smith",NULL,NULL,NULL
+3308,"Crispian St Peters",NULL,NULL,NULL
+3309,"T.I. & Justin Timberlake",NULL,NULL,NULL
+3310,"Beats International",NULL,NULL,NULL
+3311,"Eric Burdon & War",NULL,NULL,NULL
+3312,"Gabriella Cilmi",NULL,NULL,NULL
+3313,String-A-Longs,NULL,NULL,NULL
+3314,"La Roux",NULL,NULL,NULL
+3315,"Bob Hope & Shirley Ross",NULL,NULL,NULL
+3316,"The Veronicas",NULL,NULL,NULL
+3317,"Gym Class Heroes",NULL,NULL,NULL
+3318,"Joe Thomas & Mystikal",NULL,NULL,NULL
+3319,"The Honeycombs",NULL,NULL,NULL
+3320,"Robert John",NULL,NULL,NULL
+3321,"Doris Day & Buddy Clark",NULL,NULL,NULL
+3322,"Ruby & The Romantics",NULL,NULL,NULL
+3323,"Sting & Cheb Mami",NULL,NULL,NULL
+3324,"Crystal Gayle",NULL,NULL,NULL
+3325,"Alexandra Stan",NULL,NULL,NULL
+3326,"Alien Ant Farm",NULL,NULL,NULL
+3327,Stardust,NULL,NULL,NULL
+3328,"Oran 'Juice' Jones",NULL,NULL,NULL
+3329,"Busta Rhymes & Mariah Carey",NULL,NULL,NULL
+3330,Darude,NULL,NULL,NULL
+3331,"Question Mark & The Mysterians",NULL,NULL,NULL
+3332,"Kid Cudi & Crookers",NULL,NULL,NULL
+3333,"Eddie Holman",NULL,NULL,NULL
+3334,"Mel Blanc",NULL,NULL,NULL
+3335,"House of Pain",NULL,NULL,NULL
+3336,"American Breed",NULL,NULL,NULL
+3337,"Nick Gilder",NULL,NULL,NULL
+3338,Luniz,NULL,NULL,NULL
+3339,"Shelley Fabares",NULL,NULL,NULL
+3340,"Edgar Winter Group",NULL,NULL,NULL
+3341,"Bing Crosby & Grace Kelly",NULL,NULL,NULL
+3342,"Paris Hilton",NULL,NULL,NULL
+3343,"Looking Glass",NULL,NULL,NULL
+3344,"UB40 & Chrissie Hynde",NULL,NULL,NULL
+3345,"Leapy Lee",NULL,NULL,NULL
+3346,"Grandmaster Flash & The Furious Five",NULL,NULL,NULL
+3347,Passenger,NULL,NULL,NULL
+3348,Dawn,NULL,NULL,NULL
+3349,Fastball,NULL,NULL,NULL
+3350,"Jay-Z Rihanna & Kanye West",NULL,NULL,NULL
+3351,"Marc Almond & Gene Pitney",NULL,NULL,NULL
+3352,"Rocky Burnett",NULL,NULL,NULL
+3353,"Rare Earth",NULL,NULL,NULL
+3354,Lolita,NULL,NULL,NULL
+3355,"Lindsey Buckingham",NULL,NULL,NULL
+3356,"Maurice Williams & The Zodiacs",NULL,NULL,NULL
+3357,"Blue Swede",NULL,NULL,NULL
+3358,Cassie,NULL,NULL,NULL
+3359,"Tom Jones & Mousse T",NULL,NULL,NULL
+3360,"Marilyn McCoo & Billy Davis Jr",NULL,NULL,NULL
+3361,"Gracie Fields",NULL,NULL,NULL
+3362,"Clarence Carter",NULL,NULL,NULL
+3363,"The Newbeats",NULL,NULL,NULL
+3364,"Harry James & Dick Haymes",NULL,NULL,NULL
+3365,"The Tymes",NULL,NULL,NULL
+3366,"Johnny Mathis & Deniece Williams",NULL,NULL,NULL
+3367,"John Cougar Mellencamp & Me'Shell Ndegeocello",NULL,NULL,NULL
+3368,"Dixie Cups",NULL,NULL,NULL
+3369,"Freddy Fender",NULL,NULL,NULL
+3370,"Greg Kihn Band",NULL,NULL,NULL
+3371,"Jean-Claude Borelly",NULL,NULL,NULL
+3372,"Jim Lowe",NULL,NULL,NULL
+3373,"Roberta Flack & Donny Hathaway",NULL,NULL,NULL
+3374,"Jona Lewie",NULL,NULL,NULL
+3375,"Luther Vandross & Janet Jackson",NULL,NULL,NULL
+3376,"The Rooftop Singers",NULL,NULL,NULL
+3377,Limahl,NULL,NULL,NULL
+3378,"Diddy Dirty Money",NULL,NULL,NULL
+3379,"The Angels",NULL,NULL,NULL
+3380,"Brenton Wood",NULL,NULL,NULL
+3381,"Wyclef Jean & Akon & Lil' Wayne",NULL,NULL,NULL
+3382,Sherbet,NULL,NULL,NULL
+3383,"Barbra Streisand & Barry Gibb",NULL,NULL,NULL
+3384,"Peter Sarstedt",NULL,NULL,NULL
+3385,"Fat Boys & Chubby Checker",NULL,NULL,NULL
+3386,"Alicia Bridges",NULL,NULL,NULL
+3387,"David A Stewart & Barbara Gaskin",NULL,NULL,NULL
+3388,K'Naan,NULL,NULL,NULL
+3389,"5000 Volts",NULL,NULL,NULL
+3390,KWS,NULL,NULL,NULL
+3391,Hinder,NULL,NULL,NULL
+3392,"Stephanie Mills",NULL,NULL,NULL
+3393,"Blind Melon",NULL,NULL,NULL
+3394,"Gogi Grant",NULL,NULL,NULL
+3395,Divinyls,NULL,NULL,NULL
+3396,"Arthur Conley",NULL,NULL,NULL
+3397,"Chicory Tip",NULL,NULL,NULL
+3398,"Conny Froboess",NULL,NULL,NULL
+3399,"Enrique Iglesias & Ludacris",NULL,NULL,NULL
+3400,"Bill Doggett",NULL,NULL,NULL
+3401,"Hamilton Joe Frank & Reynolds",NULL,NULL,NULL
+3402,"The Game & 50 Cent",NULL,NULL,NULL
+3403,"Cliff Richard & The Young Ones",NULL,NULL,NULL
+3404,"Brothers Four",NULL,NULL,NULL
+3405,"Tom Jones & Art of Noise",NULL,NULL,NULL
+3406,"Paula Cole",NULL,NULL,NULL
+3407,"Lena Horne",NULL,NULL,NULL
+3408,Desireless,NULL,NULL,NULL
+3409,S-Express,NULL,NULL,NULL
+3410,"P Diddy & Mase",NULL,NULL,NULL
+3411,Len,NULL,NULL,NULL
+3412,"John Waite",NULL,NULL,NULL
+3413,"Johnny Mercer & Jo Stafford",NULL,NULL,NULL
+3414,"Buffalo Springfield",NULL,NULL,NULL
+3415,"Plastic Bertrand",NULL,NULL,NULL
+3416,"Whitney Houston & Enrique Iglesias",NULL,NULL,NULL
+3417,"The Mindbenders",NULL,NULL,NULL
+3418,"The Script & will.i.am",NULL,NULL,NULL
+3419,Loreen,NULL,NULL,NULL
+3420,"Alan O'Day",NULL,NULL,NULL
+3421,"Bill Hayes",NULL,NULL,NULL
+3422,"Richard Sanderson",NULL,NULL,NULL
+3423,"Don Azpiazu & his Havana Casino Orchestra",NULL,NULL,NULL
+3424,"Young MC",NULL,NULL,NULL
+3425,"Dale & Grace",NULL,NULL,NULL
+3426,"MC Miker G & DJ Sven",NULL,NULL,NULL
+3427,"Bad English",NULL,NULL,NULL
+3428,"Clarence 'Frogman' Henry",NULL,NULL,NULL
+3429,"David Guetta Flo-Rida & Nicki Minaj",NULL,NULL,NULL
+3430,"Judy Garland & Gene Kelly",NULL,NULL,NULL
+3431,"Julio Iglesias & Willie Nelson",NULL,NULL,NULL
+3432,"Jean Knight",NULL,NULL,NULL
+3433,Racey,NULL,NULL,NULL
+3434,"Michael Andrews & Gary Jules",NULL,NULL,NULL
+3435,"Marcy Playground",NULL,NULL,NULL
+3436,"Lieutenant Pigeon",NULL,NULL,NULL
+3437,"Reel 2 Real",NULL,NULL,NULL
+3438,"Eve & Alicia Keys",NULL,NULL,NULL
+3439,"Kylie Minogue & Jason Donovan",NULL,NULL,NULL
+3440,"Eileen Barton",NULL,NULL,NULL
+3441,"Jim Diamond",NULL,NULL,NULL
+3442,"Joan Weber",NULL,NULL,NULL
+3443,Nelson,NULL,NULL,NULL
+3444,"Jewel Akens",NULL,NULL,NULL
+3445,"Arthur Gibbs & his Gang",NULL,NULL,NULL
+3446,"Joey Scarbury",NULL,NULL,NULL
+3447,"The Teddy Bears",NULL,NULL,NULL
+3448,Dreamweavers,NULL,NULL,NULL
+3449,"Frank Mills",NULL,NULL,NULL
+3450,"Randy Vanwarmer",NULL,NULL,NULL
+3451,Brownstone,NULL,NULL,NULL
+3452,"Fergie & Ludacris",NULL,NULL,NULL
+3453,"Ofra Haza",NULL,NULL,NULL
+3454,"Eddie Hodges",NULL,NULL,NULL
+3455,Happenings,NULL,NULL,NULL
+3456,"Patti Austin & James Ingram",NULL,NULL,NULL
+3457,"Edwyn Collins",NULL,NULL,NULL
+3458,"Carol Douglas",NULL,NULL,NULL
+3459,"The Korgis",NULL,NULL,NULL
+3460,"Sam Brown",NULL,NULL,NULL
+3461,"Bobby Hebb",NULL,NULL,NULL
+3462,"Michael Damian",NULL,NULL,NULL
+3463,"Ellie Goulding",NULL,NULL,NULL
+3464,Seduction,NULL,NULL,NULL
+3465,"2Pac & Elton John",NULL,NULL,NULL
+3466,"Soulja Boy",NULL,NULL,NULL
+3467,Mattafix,NULL,NULL,NULL
+3468,"Warren G",NULL,NULL,NULL
+3469,"Harry Chapin",NULL,NULL,NULL
+3470,Jigsaw,NULL,NULL,NULL
+3471,"Janet Jackson & Q-Tip & Joni Mitchell",NULL,NULL,NULL
+3472,"Whitney Houston & Faith Evans & Kelly Price",NULL,NULL,NULL
+3473,"DJ Jurgen & Alice DeeJay",NULL,NULL,NULL
+3474,"Katrina & The Waves",NULL,NULL,NULL
+3475,"Marshall Hain",NULL,NULL,NULL
+3476,Adamski,NULL,NULL,NULL
+3477,"The Toys",NULL,NULL,NULL
+3478,"Shaun Cassidy",NULL,NULL,NULL
+3479,"David Guetta & Usher",NULL,NULL,NULL
+3480,"Billy Preston & Syreeta",NULL,NULL,NULL
+3481,Dana,NULL,NULL,NULL
+3482,"Destiny's Child & T.I. & Lil' Wayne",NULL,NULL,NULL
+3483,"Ryan Paris",NULL,NULL,NULL
+3484,"Foster the People",NULL,NULL,NULL
+3485,"Ram Jam",NULL,NULL,NULL
+3486,Madcon,NULL,NULL,NULL
+3487,"Peabo Bryson & Roberta Flack",NULL,NULL,NULL
+3488,Elegants,NULL,NULL,NULL
+3489,"Matthew Wilder",NULL,NULL,NULL
+3490,"Hurricane Smith",NULL,NULL,NULL
+3491,"Eumir Deodato",NULL,NULL,NULL
+3492,"Dee Clark",NULL,NULL,NULL
+3493,"The Jackson 5 Mick Jagger & Michael Jackson",NULL,NULL,NULL
+3494,"Patrick Swayze",NULL,NULL,NULL
+3495,"Dobie Gray",NULL,NULL,NULL
+3496,"B2K & P Diddy",NULL,NULL,NULL
+3497,Gazebo,NULL,NULL,NULL
+3498,"Nino Tempo & April Stevens",NULL,NULL,NULL
+3499,"Glass Tiger",NULL,NULL,NULL
+3500,"Hollywood Argyles",NULL,NULL,NULL
+3501,"Jimmy Soul",NULL,NULL,NULL
+3502,"Jan & Kjeld",NULL,NULL,NULL
+3503,"Ja Rule & Ashanti",NULL,NULL,NULL
+3504,"David Guetta & Sia",NULL,NULL,NULL
+3505,"Daddy Yankee",NULL,NULL,NULL
+3506,"Typically Tropical",NULL,NULL,NULL
+3507,"Big Bopper",NULL,NULL,NULL
+3508,"The Sons of the Pioneers",NULL,NULL,NULL
+3509,"Usher & Pitbull",NULL,NULL,NULL
+3510,"Jessie J",NULL,NULL,NULL
+3511,"Dan Hartman",NULL,NULL,NULL
+3512,"Jan Hammer",NULL,NULL,NULL
+3513,"Nick Lachey",NULL,NULL,NULL
+3514,"Mike Posner",NULL,NULL,NULL
+3515,"Johnny Standley",NULL,NULL,NULL
+3516,"Drake & Rihanna",NULL,NULL,NULL
+3517,"The Heights",NULL,NULL,NULL
+3518,"Ed Sheeran",NULL,NULL,NULL
+3519,Climax,NULL,NULL,NULL
+3520,"Ferry Aid",NULL,NULL,NULL
+3521,"Bryan Adams & Melanie C",NULL,NULL,NULL
+3522,"Vicki Sue Robinson",NULL,NULL,NULL
+3523,"Phil Phillips",NULL,NULL,NULL
+3524,"Soul For Real",NULL,NULL,NULL
+3525,"Bing Crosby & The Jesters",NULL,NULL,NULL
+3526,"Morris Stoloff",NULL,NULL,NULL
+3527,"Mark Dinning",NULL,NULL,NULL
+3528,"The Silhouettes",NULL,NULL,NULL
+3529,Edelweiss,NULL,NULL,NULL
+3530,"Kevin Rudolf & Lil' Wayne",NULL,NULL,NULL
+3531,"Wayne Newton",NULL,NULL,NULL
+3532,"The Honeydrippers",NULL,NULL,NULL
+3533,"Dee Dee Sharp",NULL,NULL,NULL
+3534,"Joe South",NULL,NULL,NULL
+3535,"Julie Rogers",NULL,NULL,NULL
+3536,Mad'house,NULL,NULL,NULL
+3537,"20 Fingers",NULL,NULL,NULL
+3538,"Sir Douglas Quintet",NULL,NULL,NULL
+3539,"Eric Weissburg & Steve Mandell",NULL,NULL,NULL
+3540,Youngbloods,NULL,NULL,NULL
+3541,"The Buckinghams",NULL,NULL,NULL
+3542,Wizzard,NULL,NULL,NULL
+3543,"Terry Stafford",NULL,NULL,NULL
+3544,"Ray Parker Jr & Raydio",NULL,NULL,NULL
+3545,"Mory Kante",NULL,NULL,NULL
+3546,"Candi Staton",NULL,NULL,NULL
+3547,ATC,NULL,NULL,NULL
+3548,Mocedades,NULL,NULL,NULL
+3549,"Seether & Amy Lee",NULL,NULL,NULL
+3550,DeBarge,NULL,NULL,NULL
+3551,"Fisk University Jubilee Quartet",NULL,NULL,NULL
+3552,"Soul II Soul & Caron Wheeler",NULL,NULL,NULL
+3553,"The Scaffold",NULL,NULL,NULL
+3554,"Pink & William Orbit",NULL,NULL,NULL
+3555,"Dante Thomas",NULL,NULL,NULL
+3556,"Dan Hill",NULL,NULL,NULL
+3557,"Dionne Warwick & The Detroit Spinners",NULL,NULL,NULL
+3558,"Sutherland Brothers & Quiver",NULL,NULL,NULL
+3559,"Swinging Blue Jeans",NULL,NULL,NULL
+3560,"Bo Donaldson & the Heywoods",NULL,NULL,NULL
+3561,Chantays,NULL,NULL,NULL
+3562,"Love & Rockets",NULL,NULL,NULL
+3563,"Marie Osmond",NULL,NULL,NULL
+3564,"Billy Vera",NULL,NULL,NULL
+3565,Wreckx-N-Effect,NULL,NULL,NULL
+3566,"Jimmy Castor Bunch",NULL,NULL,NULL
+3567,"City High",NULL,NULL,NULL
+3568,"The Notorious BIG P Diddy Nelly Jagged Edge & Avery Storm",NULL,NULL,NULL
+3569,"The Flying Pickets",NULL,NULL,NULL
+3570,"Terror Squad",NULL,NULL,NULL
+3571,"The Allisons",NULL,NULL,NULL
+3572,"Celine Dion & Bee Gees",NULL,NULL,NULL
+3573,"Panjabi MC",NULL,NULL,NULL
+3574,Lordi,NULL,NULL,NULL
+3575,"Kenny Rogers & Sheena Easton",NULL,NULL,NULL
+3576,"Lana Del Rey",NULL,NULL,NULL
+3577,"Sugar Ray & Supercat",NULL,NULL,NULL
+3578,Sugarloaf,NULL,NULL,NULL
+3579,"Holly Valance",NULL,NULL,NULL
+3580,"Obernkirchen Children's Choir",NULL,NULL,NULL
+3581,"Dorothy Moore",NULL,NULL,NULL
+3582,"Strawberry Alarm Clock",NULL,NULL,NULL
+3583,"Wayne Fontana & The Mindbenders",NULL,NULL,NULL
+3584,"Eddie Murphy",NULL,NULL,NULL
+3585,"Green Jelly",NULL,NULL,NULL
+3586,"Warren G & Adina Howard",NULL,NULL,NULL
+3587,Breathe,NULL,NULL,NULL
+3588,"Blue & Elton John",NULL,NULL,NULL
+3589,"Alex Clare",NULL,NULL,NULL
+3590,"Metallica & Marianne Faithfull",NULL,NULL,NULL
+3591,"Meghan Trainor",NULL,NULL,NULL
+3592,"Link Wray",NULL,NULL,NULL
+3593,"Lester Flatt & Earl Scruggs",NULL,NULL,NULL
+3594,"Vikki Carr",NULL,NULL,NULL
+3595,Klymaxx,NULL,NULL,NULL
+3596,"Stevie Wonder & The Jackson 5",NULL,NULL,NULL
+3597,"Bobby Helms",NULL,NULL,NULL
+3598,"Jane Child",NULL,NULL,NULL
+3599,"David Guetta & Nicki Minaj",NULL,NULL,NULL
+3600,"Calvin Harris & Florence Welch",NULL,NULL,NULL
+3601,"Blind Willie Johnson",NULL,NULL,NULL
+3602,"MC Lyte",NULL,NULL,NULL
+3603,"Ernie K-Doe",NULL,NULL,NULL
+3604,Chords,NULL,NULL,NULL
+3605,"David Bowie & The Pat Metheny Group",NULL,NULL,NULL
+3606,Mims,NULL,NULL,NULL
+3607,"Len Barry",NULL,NULL,NULL
+3608,"Ken Griffin",NULL,NULL,NULL
+3609,"Debbie Reynolds & Carleton Carpenter",NULL,NULL,NULL
+3610,"Tight Fit",NULL,NULL,NULL
+3611,Shannon,NULL,NULL,NULL
+3612,"RB Greaves",NULL,NULL,NULL
+3613,"Mikis Theodorakis",NULL,NULL,NULL
+3614,"Debelah Morgan",NULL,NULL,NULL
+3615,"Junior Senior",NULL,NULL,NULL
+3616,"The Vapors",NULL,NULL,NULL
+3617,"The Ting Tings",NULL,NULL,NULL
+3618,Surface,NULL,NULL,NULL
+3619,"Ciara & Ludacris",NULL,NULL,NULL
+3620,"Sue Thompson",NULL,NULL,NULL
+3621,"Nicki Minaj",NULL,NULL,NULL
+3622,4pm,NULL,NULL,NULL
+3623,Sailor,NULL,NULL,NULL
+3624,"Whistling Jack Smith",NULL,NULL,NULL
+3625,"Boris Gardiner",NULL,NULL,NULL
+3626,"Bob Azzam",NULL,NULL,NULL
+3627,"Los Lonely Boys",NULL,NULL,NULL
+3628,"Honey Cone",NULL,NULL,NULL
+3629,"Ides of March",NULL,NULL,NULL
+3630,"Lale Andersen",NULL,NULL,NULL
+3631,"Bill Monroe",NULL,NULL,NULL
+3632,"David Guetta & Chris Willis",NULL,NULL,NULL
+3633,"Shep & the Limelites",NULL,NULL,NULL
+3634,"First Class",NULL,NULL,NULL
+3635,"Of Monsters And Men",NULL,NULL,NULL
+3636,"Miriam Makeba",NULL,NULL,NULL
+3637,"SOS Band",NULL,NULL,NULL
+3638,"Jay Sean",NULL,NULL,NULL
+3639,3OH!3,NULL,NULL,NULL
+3640,"Chairman of The Board",NULL,NULL,NULL
+3641,Alizee,NULL,NULL,NULL
+3642,"Christina Perri",NULL,NULL,NULL
+3643,"Nick Cave & The Bad Seeds & Kylie Minogue",NULL,NULL,NULL
+3644,"Adina Howard",NULL,NULL,NULL
+3645,"3OH!3 & Ke$ha",NULL,NULL,NULL
+3646,"Mariah Carey & Westlife",NULL,NULL,NULL
+3647,Twista,NULL,NULL,NULL
+3648,"Mason Williams",NULL,NULL,NULL
+3649,"Steve Perry",NULL,NULL,NULL
+3650,"Joe Thomas",NULL,NULL,NULL
+3651,"The Marbles",NULL,NULL,NULL
+3652,Frankee,NULL,NULL,NULL
+3653,"Fess Parker",NULL,NULL,NULL
+3654,"Mac Davis",NULL,NULL,NULL
+3655,Essex,NULL,NULL,NULL
+3656,"Dr Dre & Snoop Dogg",NULL,NULL,NULL
+3657,"Travie McCoy & Bruno Mars",NULL,NULL,NULL
+3658,"Tracey Ullman",NULL,NULL,NULL
+3659,"The Mixtures",NULL,NULL,NULL
+3660,"Edward Bear",NULL,NULL,NULL
+3661,Raydio,NULL,NULL,NULL
+3662,"Elvin Bishop",NULL,NULL,NULL
+3663,"Matthews Southern Comfort",NULL,NULL,NULL
+3664,"Finger Eleven",NULL,NULL,NULL
+3665,"Truth Hurts",NULL,NULL,NULL
+3666,"Archie Bell & The Drells",NULL,NULL,NULL
+3667,"Real Life",NULL,NULL,NULL
+3668,September,NULL,NULL,NULL
+3669,"Mark Ronson & Amy Winehouse",NULL,NULL,NULL
+3670,"Boy Meets Girl",NULL,NULL,NULL
+3671,"DHT & Edmee",NULL,NULL,NULL
+3672,"Clint Holmes",NULL,NULL,NULL
+3673,"Stacey Q",NULL,NULL,NULL
+3674,"Robert Palmer & UB40",NULL,NULL,NULL
+3675,"Bobby Bloom",NULL,NULL,NULL
+3676,"Jimmy Ruffin",NULL,NULL,NULL
+3677,"Sly Fox",NULL,NULL,NULL
+3678,Rozalla,NULL,NULL,NULL
+3679,"Tommy Page",NULL,NULL,NULL
+3680,"Ultra Nate",NULL,NULL,NULL
+3681,"Jann Arden",NULL,NULL,NULL
+3682,"Jack McVea & his Band",NULL,NULL,NULL
+3683,"Lorne Greene",NULL,NULL,NULL
+3684,"Baz Luhrmann",NULL,NULL,NULL
+3685,"Bobby Day",NULL,NULL,NULL
+3686,"Jimmy Boyd & Frankie Laine",NULL,NULL,NULL
+3687,"Sam Smith",NULL,NULL,NULL
+3688,"Irish Rovers",NULL,NULL,NULL
+3689,"Blue Cheer",NULL,NULL,NULL
+3690,"Billie Myers",NULL,NULL,NULL
+3691,"Jermaine Jackson & Pia Zadora",NULL,NULL,NULL
+3692,"Shawn Mullins",NULL,NULL,NULL
+3693,"Shawn Colvin",NULL,NULL,NULL
+3694,"Bill Justis",NULL,NULL,NULL
+3695,"McFadden & Whitehead",NULL,NULL,NULL
+3696,Argent,NULL,NULL,NULL
+3697,"Shirley Temple",NULL,NULL,NULL
+3698,"Information Society",NULL,NULL,NULL
+3699,"Marti Webb",NULL,NULL,NULL
+3700,"Quad City DJs",NULL,NULL,NULL
+3701,"The Sandpipers",NULL,NULL,NULL
+3702,Arcadia,NULL,NULL,NULL
+3703,"Renee & Renato",NULL,NULL,NULL
+3704,Sabrina,NULL,NULL,NULL
+3705,"Don Costa",NULL,NULL,NULL
+3706,"Hank Locklin",NULL,NULL,NULL
+3707,"Leila K & Rob 'n' Raz",NULL,NULL,NULL
+3708,"Bobby Sherman",NULL,NULL,NULL
+3709,"Aaron Neville",NULL,NULL,NULL
+3710,"Groove Theory",NULL,NULL,NULL
+3711,"P Diddy & Nicole Scherzinger",NULL,NULL,NULL
+3712,"Bing Crosby & The Mills Brothers",NULL,NULL,NULL
+3713,"Zucchero Fornaciari & Paul Young",NULL,NULL,NULL
+3714,702,NULL,NULL,NULL
+3715,"Kelly Marie",NULL,NULL,NULL
+3716,"The Real Thing",NULL,NULL,NULL
+3717,"The Del Vikings",NULL,NULL,NULL
+3718,"Dooley Wilson",NULL,NULL,NULL
+3719,"Mama Cass",NULL,NULL,NULL
+3720,"4 The Cause",NULL,NULL,NULL
+3721,"Charley Patton",NULL,NULL,NULL
+3722,"Pitbull & Ke$ha",NULL,NULL,NULL
+3723,"Los Machucambos",NULL,NULL,NULL
+3724,"Snoop Dogg & Wiz Khalifa & Bruno Mars",NULL,NULL,NULL
+3725,"Eminem Dr Dre & 50 Cent",NULL,NULL,NULL
+3726,"Bing Crosby & Connee Boswell",NULL,NULL,NULL
+3727,"Ralph Tresvant",NULL,NULL,NULL
+3728,"Climie Fisher",NULL,NULL,NULL
+3729,"Laurie London",NULL,NULL,NULL
+3730,Pipkins,NULL,NULL,NULL
+3731,"La Belle Epoque",NULL,NULL,NULL
+3732,"Keith Sweat & Athena Cage",NULL,NULL,NULL
+3733,"Peter Cetera & Amy Grant",NULL,NULL,NULL
+3734,"Joe Public",NULL,NULL,NULL
+3735,"Evelyn Knight & The Stardusters",NULL,NULL,NULL
+3736,"Michael Martin Murphey",NULL,NULL,NULL
+3737,"Dario G",NULL,NULL,NULL
+3738,"Benny Mardones",NULL,NULL,NULL
+3739,"Rufus Thomas",NULL,NULL,NULL
+3740,"Wayne Wonder",NULL,NULL,NULL
+3741,"Duck Sauce",NULL,NULL,NULL
+3742,"The Wallflowers",NULL,NULL,NULL
+3743,Gallery,NULL,NULL,NULL
+3744,"P Diddy & R Kelly",NULL,NULL,NULL
+3745,"Inez & Charlie Foxx",NULL,NULL,NULL
+3746,"Double You",NULL,NULL,NULL
+3747,"Jason Derulo & 2 Chainz",NULL,NULL,NULL
+3748,"Barbara George",NULL,NULL,NULL
+3749,"Adam Lambert",NULL,NULL,NULL
+3750,"Power Station",NULL,NULL,NULL
+3751,"Alain Barriere & Noelle Cordier",NULL,NULL,NULL
+3752,"The Music Explosion",NULL,NULL,NULL
+3753,"Justin Bieber & Ludacris",NULL,NULL,NULL
+3754,Houston,NULL,NULL,NULL
+3755,Dramatics,NULL,NULL,NULL
+3756,"Vicki Lawrence",NULL,NULL,NULL
+3757,"White Plains",NULL,NULL,NULL
+3758,"Peter Cetera & Cher",NULL,NULL,NULL
+3759,Indeep,NULL,NULL,NULL
+3760,"Little Jimmy Osmond",NULL,NULL,NULL
+3761,"Ozark Mountain Daredevils",NULL,NULL,NULL
+3762,"Timi Yuro",NULL,NULL,NULL
+3763,Righeira,NULL,NULL,NULL
+3764,"Cobra Starship",NULL,NULL,NULL
+3765,Pebbles,NULL,NULL,NULL
+3766,"Blue Magic",NULL,NULL,NULL
+3767,"Claude King",NULL,NULL,NULL
+3768,"Soulful Dynamics",NULL,NULL,NULL
+3769,"Evelyn Thomas",NULL,NULL,NULL
+3770,Shontelle,NULL,NULL,NULL
+3771,Champaign,NULL,NULL,NULL
+3772,"Joe 'Fingers' Carr",NULL,NULL,NULL
+3773,"Mary Mary",NULL,NULL,NULL
+3774,"Bing Crosby & Trudy Erwin",NULL,NULL,NULL
+3775,Calloway,NULL,NULL,NULL
+3776,"Timbaland & Katy Perry",NULL,NULL,NULL
+3777,Warrant,NULL,NULL,NULL
+3778,"Keith Carradine",NULL,NULL,NULL
+3779,"Leroy Van Dyke",NULL,NULL,NULL
+3780,Cornershop,NULL,NULL,NULL
+3781,"Ten Sharp",NULL,NULL,NULL
+3782,"The Four Knights",NULL,NULL,NULL
+3783,"The Delfonics",NULL,NULL,NULL
+3784,Cyrkle,NULL,NULL,NULL
+3785,"Gordon Jenkins & The Stardusters",NULL,NULL,NULL
+3786,"Rhythm Heritage",NULL,NULL,NULL
+3787,"Sheb Wooley",NULL,NULL,NULL
+3788,"Jam & Spoon",NULL,NULL,NULL
+3789,"Boystown Gang",NULL,NULL,NULL
+3790,"Blind Willie McTell",NULL,NULL,NULL
+3791,"David A Stewart",NULL,NULL,NULL
+3792,"Sergio Mendes & The Black Eyed Peas",NULL,NULL,NULL
+3793,Exciters,NULL,NULL,NULL
+3794,"The Dovells",NULL,NULL,NULL
+3795,"John Sebastian",NULL,NULL,NULL
+3796,"2 In A Room",NULL,NULL,NULL
+3797,Doop,NULL,NULL,NULL
+3798,"Peter Bjorn & John",NULL,NULL,NULL
+3799,"The Caesars",NULL,NULL,NULL
+3800,"Living In A Box",NULL,NULL,NULL
+3801,"Ann Lee",NULL,NULL,NULL
+3802,"Danny Mirror",NULL,NULL,NULL
+3803,J-Kwon,NULL,NULL,NULL
+3804,"Bertolt Brecht",NULL,NULL,NULL
+3805,King,NULL,NULL,NULL
+3806,"Nico & Vinz",NULL,NULL,NULL
+3807,"Ray Goodman & Brown",NULL,NULL,NULL
+3808,"James Baskett",NULL,NULL,NULL
+3809,"Rihanna & Mikky Ekko",NULL,NULL,NULL
+3810,"J Frank Wilson & the Cavaliers",NULL,NULL,NULL
+3811,"Keri Hilson & Kanye West & Ne-Yo",NULL,NULL,NULL
+3812,"Gertrude Lawrence",NULL,NULL,NULL
+3813,"Eternal & Bebe Winans",NULL,NULL,NULL
+3814,"Cheryl Lynn",NULL,NULL,NULL
+3815,"Maria Muldaur",NULL,NULL,NULL
+3816,"Bob Luman",NULL,NULL,NULL
+3817,"Calvin Harris",NULL,NULL,NULL
+3818,"Guru Josh",NULL,NULL,NULL
+3819,O-Town,NULL,NULL,NULL
+3820,"Gary Barlow",NULL,NULL,NULL
+3821,Lasgo,NULL,NULL,NULL
+3822,"Nitty Gritty Dirt Band",NULL,NULL,NULL
+3823,"Marty Balin",NULL,NULL,NULL
+3824,"Pacific Gas & Electric",NULL,NULL,NULL
+3825,Skyliners,NULL,NULL,NULL
+3826,"Michel Telo",NULL,NULL,NULL
+3827,"Kate Winslet",NULL,NULL,NULL
+3828,"Kenny Loggins & Stevie Nicks",NULL,NULL,NULL
+3829,Sylvester,NULL,NULL,NULL
+3830,"Esther Phillips",NULL,NULL,NULL
+3831,"Stevie Nicks & Tom Petty",NULL,NULL,NULL
+3832,"Ramsey Lewis Trio",NULL,NULL,NULL
+3833,Bellini,NULL,NULL,NULL
+3834,Ace,NULL,NULL,NULL
+3835,"Marie Myriam",NULL,NULL,NULL
+3836,"Damn Yankees",NULL,NULL,NULL
+3837,"Carrapicho & Chilli",NULL,NULL,NULL
+3838,Technohead,NULL,NULL,NULL
+3839,Connells,NULL,NULL,NULL
+3840,"Ritchie Family",NULL,NULL,NULL
+3841,"Dave & Ansil Collins",NULL,NULL,NULL
+3842,Wes,NULL,NULL,NULL
+3843,"Nick Kamen",NULL,NULL,NULL
+3844,"Doctor & The Medics",NULL,NULL,NULL
+3845,"Sheila E",NULL,NULL,NULL
+3846,"Maxi Priest & Shaggy",NULL,NULL,NULL
+3847,"Kardinal Offishall",NULL,NULL,NULL
+3848,"Charlie Gracie",NULL,NULL,NULL
+3849,"Billy Whitlock",NULL,NULL,NULL
+3850,"The Left Banke",NULL,NULL,NULL
+3851,Casuals,NULL,NULL,NULL
+3852,"Lil' Louis",NULL,NULL,NULL
+3853,"Johnny Wakelin",NULL,NULL,NULL
+3854,"Michael Zager Band",NULL,NULL,NULL
+3855,"Cut 'N' Move",NULL,NULL,NULL
+3856,"Fatman Scoop",NULL,NULL,NULL
+3857,"Brenda Russell",NULL,NULL,NULL
+3858,"Andru Donalds",NULL,NULL,NULL
+3859,"Frank Stallone",NULL,NULL,NULL
+3860,"Sniff & The Tears",NULL,NULL,NULL
+3861,Fendermen,NULL,NULL,NULL
+3862,"Nancy Sinatra & Lee Hazlewood",NULL,NULL,NULL
+3863,"Rare Bird",NULL,NULL,NULL
+3864,"Bobby Freeman",NULL,NULL,NULL
+3865,"Milk & Honey",NULL,NULL,NULL
+3866,Outlandish,NULL,NULL,NULL
+3867,"Timex Social Club",NULL,NULL,NULL
+3868,Foxy,NULL,NULL,NULL
+3869,"Cover Girls",NULL,NULL,NULL
+3870,"Ludacris & Shaunna",NULL,NULL,NULL
+3871,"The Rays",NULL,NULL,NULL
+3872,"Brian McFadden & Delta Goodrem",NULL,NULL,NULL
+3873,"Cole Porter",NULL,NULL,NULL
+3874,Mgmt,NULL,NULL,NULL
+3875,"Patsy Montana & The Prairie Ramblers",NULL,NULL,NULL
+3876,"Nicolette Larson",NULL,NULL,NULL
+3877,"The Jaynettes",NULL,NULL,NULL
+3878,"El DeBarge",NULL,NULL,NULL
+3879,"Midge Ure",NULL,NULL,NULL
+3880,Hellogoodbye,NULL,NULL,NULL
+3881,LTD,NULL,NULL,NULL
+3882,Animotion,NULL,NULL,NULL
+3883,"Holly Johnson",NULL,NULL,NULL
+3884,"Pappa Bear",NULL,NULL,NULL
+3885,"Ray J & Yung Berg",NULL,NULL,NULL
+3886,"Bowling For Soup",NULL,NULL,NULL
+3887,"Archie Bleyer",NULL,NULL,NULL
+3888,"Wiz Khalifa",NULL,NULL,NULL
+3889,"Cornelius Brothers & Sister Rose",NULL,NULL,NULL
+3890,"John Leyton",NULL,NULL,NULL
+3891,"Nelson Eddy & Jo Stafford",NULL,NULL,NULL
+3892,"James Darren",NULL,NULL,NULL
+3893,"Vertical Horizon",NULL,NULL,NULL
+3894,"Lee Ann Womack",NULL,NULL,NULL
+3895,"Jane Morgan",NULL,NULL,NULL
+3896,"Icona Pop & Charli XCX",NULL,NULL,NULL
+3897,"Julee Cruise",NULL,NULL,NULL
+3898,"Wyclef Jean & Claudette Ortiz",NULL,NULL,NULL
+3899,"Ketty Lester",NULL,NULL,NULL
+3900,"Silvana Mangano",NULL,NULL,NULL
+3901,"Lil' Jon & The East Side Boyz",NULL,NULL,NULL
+3902,"Liberty X",NULL,NULL,NULL
+3903,"Bobby Fuller Four",NULL,NULL,NULL
+3904,"Brownsville Station",NULL,NULL,NULL
+3905,"Frankie Ford",NULL,NULL,NULL
+3906,"Main Ingredient",NULL,NULL,NULL
+3907,Impalas,NULL,NULL,NULL
+3908,"Sandy Nelson",NULL,NULL,NULL
+3909,"Stonewall Jackson",NULL,NULL,NULL
+3910,"Big Brovaz",NULL,NULL,NULL
+3911,Bucketheads,NULL,NULL,NULL
+3912,"The Undisputed Truth",NULL,NULL,NULL
+3913,"Chris Cornell",NULL,NULL,NULL
+3914,"Frank Weir & Orchestra",NULL,NULL,NULL
+3915,"Ray Peterson",NULL,NULL,NULL
+3916,Mis-Teeq,NULL,NULL,NULL
+3917,"Jonathan Edwards",NULL,NULL,NULL
+3918,"Olly Murs & Rizzle Kicks",NULL,NULL,NULL
+3919,"Edie Brickell & The New Bohemians",NULL,NULL,NULL
+3920,"BLACKstreet & Mya",NULL,NULL,NULL
+3921,"Buddy Knox",NULL,NULL,NULL
+3922,"Instant Funk",NULL,NULL,NULL
+3923,"The Weather Girls",NULL,NULL,NULL
+3924,"Rita Ora",NULL,NULL,NULL
+3925,"Blues Traveler",NULL,NULL,NULL
+3926,"Sylvia Vanderpool",NULL,NULL,NULL
+3927,Skee-Lo,NULL,NULL,NULL
+3928,"Jim Stafford",NULL,NULL,NULL
+3929,"Puddle of Mudd",NULL,NULL,NULL
+3930,"Bimbo Jet",NULL,NULL,NULL
+3931,K7,NULL,NULL,NULL
+3932,"O C Smith",NULL,NULL,NULL
+3933,"Major Lance",NULL,NULL,NULL
+3934,"Original Cast",NULL,NULL,NULL
+3935,"Chris Daughtry",NULL,NULL,NULL
+3936,"Mumford & Sons",NULL,NULL,NULL
+3937,"Metallica & The San Francisco Symphony",NULL,NULL,NULL
+3938,"Jay-Z & Kanye West",NULL,NULL,NULL
+3939,"Jack White",NULL,NULL,NULL
+3940,"Harry Smith",NULL,NULL,NULL
+3941,"Lionel Bart",NULL,NULL,NULL
+3942,"Jamie Foxx",NULL,NULL,NULL
+3943,"Graeme Revell",NULL,NULL,NULL
+3944,"Florence + The Machine",NULL,NULL,NULL
+3945,Makaveli,NULL,NULL,NULL
+3946,"Thom Yorke",NULL,NULL,NULL
+3947,"Dolly Parton Linda Ronstadt & Emmylou Harris",NULL,NULL,NULL
+3948,Phoenix,NULL,NULL,NULL
+3949,"5 Seconds of Summer",NULL,NULL,NULL
+3950,"Sting & The Police",NULL,NULL,NULL
+3951,Sia,NULL,NULL,NULL
+3952,"Ariana Grande",NULL,NULL,NULL
+3953,"Celine Dion & Anne Geddes",NULL,NULL,NULL
+3954,"Lloyd Banks",NULL,NULL,NULL
+3955,"The Presidents of The USA",NULL,NULL,NULL
+3956,Slash,NULL,NULL,NULL
+3957,Wolfmother,NULL,NULL,NULL
+3958,G-Unit,NULL,NULL,NULL
+3959,"St Germain",NULL,NULL,NULL
+3960,Elastica,NULL,NULL,NULL
+3961,"Bad Meets Evil",NULL,NULL,NULL
+3962,"Eric Clapton & J J Cale",NULL,NULL,NULL
+3963,"The xx",NULL,NULL,NULL
+3964,"The Raconteurs",NULL,NULL,NULL
+3965,"Joshua Kadison",NULL,NULL,NULL
+3966,"Them Crooked Vultures",NULL,NULL,NULL
+3967,"Notting Hillbillies",NULL,NULL,NULL
+3968,"Mark Knopfler & Emmylou Harris",NULL,NULL,NULL
+3969,"Tha Dogg Pound",NULL,NULL,NULL
+3970,"The Last Shadow Puppets",NULL,NULL,NULL
+3971,"Steve Martin",NULL,NULL,NULL
+3972,"Santana & John McLaughlin",NULL,NULL,NULL
+3973,"Danity Kane",NULL,NULL,NULL
+3974,"David Crosby",NULL,NULL,NULL
+3975,"David Coverdale & Jimmy Page",NULL,NULL,NULL
+3976,BoB,NULL,NULL,NULL
+3977,"Santana & Buddy Miles",NULL,NULL,NULL
+3978,Glasvegas,NULL,NULL,NULL
+3979,"Luke Bryan",NULL,NULL,NULL
+3980,"Bob Carlisle",NULL,NULL,NULL
+3981,"Bill Whelan",NULL,NULL,NULL
+3982,"R Kelly & Jay-Z",NULL,NULL,NULL
+3983,"Toni Childs",NULL,NULL,NULL
+3984,"Zac Brown Band",NULL,NULL,NULL
+3985,"Stone Sour",NULL,NULL,NULL
+3986,"The Kooks",NULL,NULL,NULL
+3987,"The Vines",NULL,NULL,NULL
+3988,"The Sundays",NULL,NULL,NULL
+3989,Jadakiss,NULL,NULL,NULL
+3990,"Frank Ocean",NULL,NULL,NULL
+3991,"Jimmy Page & Robert Plant",NULL,NULL,NULL
+3992,"Keith Richards",NULL,NULL,NULL
+3993,Chickenfoot,NULL,NULL,NULL
+3994,"Grizzly Bear",NULL,NULL,NULL
+3995,"The Propellerheads",NULL,NULL,NULL
+3996,"Black Grape",NULL,NULL,NULL
+3997,"The Good the Bad & the Queen",NULL,NULL,NULL
