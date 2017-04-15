@@ -137,9 +137,6 @@ public class FormPage5 {
 
 		ParamPanel.add(paramField1, gbc);
 
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
-		ParamPanel.add(goButton, gbc);
 		
 		gbc.gridy++;
 		gbc.insets = new Insets(10, 60, 10, 40);
@@ -148,6 +145,11 @@ public class FormPage5 {
 		gbc.gridy++;
 		gbc.insets = new Insets(10, 60, 10, 40);
 		ParamPanel.add(paramField2, gbc);
+		
+
+		gbc.gridy++;
+		gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(goButton, gbc);
 		
 
 		ParamPanel.setBorder(BorderFactory.createStrokeBorder(new BasicStroke(5.0f)));
@@ -206,7 +208,7 @@ public class FormPage5 {
 
 	JPanel MakeDescription() {
 		JPanel DescPanel = new JPanel();
-		JLabel songLabel = new JLabel("Current Query : " + this.queryNumber, SwingConstants.CENTER);
+		JLabel songLabel = new JLabel("Current Query : 5. Top n songs of a particular genre.", SwingConstants.CENTER);
 		songLabel.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		songLabel.setForeground(Color.cyan);
 		songLabel.setBackground((Color.DARK_GRAY));
@@ -277,11 +279,11 @@ public class FormPage5 {
 
 		gbc.gridx = 20;
 		gbc.insets = new Insets(10, 0, 10, 0);
-		ButtonsPanel.add(prevButton, gbc);
+	//	ButtonsPanel.add(prevButton, gbc);
 
 		gbc.gridx = 30;
 		gbc.insets = new Insets(10, 20, 10, 0);
-		ButtonsPanel.add(nextButton, gbc);
+	//	ButtonsPanel.add(nextButton, gbc);
 
 		gbc.gridx = 40;
 		gbc.insets = new Insets(0, 250, 0, 0);

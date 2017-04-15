@@ -37,6 +37,7 @@ public class FormPage2 {
 	JTable formTable;
 	JTextField paramField1;
 	JTextField paramField2;
+	JTextField paramField3;
 	int queryNumber;
 	String queryString;
 	Connection con;
@@ -82,8 +83,9 @@ public class FormPage2 {
 
 				int startyear = Integer.parseInt(paramField1.getText());
 				int endyear = Integer.parseInt(paramField2.getText());
+				int n = Integer.parseInt(paramField3.getText());
 				
-				String[][] dataMatrix = RetrieveData( startyear, endyear );
+				String[][] dataMatrix = RetrieveData( startyear, endyear, n );
 
 				String[] columnNames = dataMatrix[dataMatrix.length - 1];
 				dataMatrix[dataMatrix.length - 1] = null;
@@ -104,18 +106,24 @@ public class FormPage2 {
 
 		paramField1 = new JTextField();
 		paramField2 = new JTextField();
+		paramField3 = new JTextField();
 		
 		JLabel paramLabel1 = new JLabel("Enter start year:", SwingConstants.LEFT);
 		JLabel paramLabel2 = new JLabel("Enter end year:", SwingConstants.LEFT);
+		JLabel paramLabel3 = new JLabel("Enter n:", SwingConstants.LEFT);
 
 		paramLabel1.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		paramLabel1.setForeground(Color.cyan);
 		
 		paramLabel2.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		paramLabel2.setForeground(Color.cyan);
+		
+		paramLabel3.setFont(new Font("Century Gothic", Font.PLAIN, 12));
+		paramLabel3.setForeground(Color.cyan);
 
 		paramLabel1.setPreferredSize(new Dimension(80, 20));
 		paramLabel2.setPreferredSize(new Dimension(80, 20));
+		paramLabel3.setPreferredSize(new Dimension(80, 20));
 
 		GridBagConstraints gbc = new GridBagConstraints();
 		gbc.gridx = 0;
@@ -126,38 +134,45 @@ public class FormPage2 {
 		gbc.gridx = 0;
 
 		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
+		gbc.insets = new Insets(10, 60, 10, 80);
 		ParamPanel.add(paramLabel1, gbc);
 
 		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
-
+		//gbc.insets = new Insets(10, 60, 10, 40);
+//
 		ParamPanel.add(paramField1, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
-		ParamPanel.add(goButton, gbc);
 		
 		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
+		//gbc.insets = new Insets(10, 60, 10, 40);
 		ParamPanel.add(paramLabel2, gbc);
 
 		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
+		//gbc.insets = new Insets(10, 60, 10, 40);
 		ParamPanel.add(paramField2, gbc);
 		
+		gbc.gridy++;
+		//gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramLabel3, gbc);
 
+		gbc.gridy++;
+	//	gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(paramField3, gbc);
+		
+		gbc.gridy++;
+		//gbc.insets = new Insets(10, 60, 10, 40);
+		ParamPanel.add(goButton, gbc);
+		
 		ParamPanel.setBorder(BorderFactory.createStrokeBorder(new BasicStroke(5.0f)));
 		ParamPanel.setBackground(Color.DARK_GRAY);
 
 	}
 
-	public String[][] RetrieveData( Integer startyear, Integer endyear ) {
+	public String[][] RetrieveData( Integer startyear, Integer endyear, Integer n ) {
 		DataFetch d = new DataFetch();
 		System.out.println("Fetching data");
 		String s1="SELECT song.SongID,artist.ArtistName, song.SongName, year FROM performs join song ";
 		String s2="join artist on performs.ArtistID = artist.ArtistID and performs.SongID = song.SongID ";
-		String s3="and year between " + startyear + " and " + endyear + " order by SongScore desc limit 20;";
+		String s3="and year between " + startyear + " and " + endyear + " order by SongScore desc limit " + n + ";";
 		queryString = s1+s2+s3;
 		
 		System.out.println(queryString);
@@ -193,7 +208,7 @@ public class FormPage2 {
 
 	JPanel MakeDescription() {
 		JPanel DescPanel = new JPanel();
-		JLabel songLabel = new JLabel("Current Query : " + this.queryNumber, SwingConstants.CENTER);
+		JLabel songLabel = new JLabel("Current Query : 2. Top n songs of a particular period of time.", SwingConstants.CENTER);
 		songLabel.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		songLabel.setForeground(Color.cyan);
 		songLabel.setBackground((Color.DARK_GRAY));
@@ -264,11 +279,11 @@ public class FormPage2 {
 
 		gbc.gridx = 20;
 		gbc.insets = new Insets(10, 0, 10, 0);
-		ButtonsPanel.add(prevButton, gbc);
+		//ButtonsPanel.add(prevButton, gbc);
 
 		gbc.gridx = 30;
 		gbc.insets = new Insets(10, 20, 10, 0);
-		ButtonsPanel.add(nextButton, gbc);
+	//	ButtonsPanel.add(nextButton, gbc);
 
 		gbc.gridx = 40;
 		gbc.insets = new Insets(0, 250, 0, 0);

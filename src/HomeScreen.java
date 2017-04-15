@@ -55,7 +55,7 @@ public class HomeScreen {
 	JPanel MakeDescription() {
 		JPanel DescPanel = new JPanel();
 		JLabel songLabel = new JLabel("a Database Management System for Music", SwingConstants.CENTER);
-		songLabel.setFont(new Font("Century Gothic", Font.PLAIN, 10));
+		songLabel.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		songLabel.setForeground(Color.cyan);
 		songLabel.setBackground((Color.DARK_GRAY));
 		DescPanel.add(songLabel);
@@ -66,7 +66,7 @@ public class HomeScreen {
 
 	JFrame MakeHomeScreen() {
 		MakeImage();
-		MakeParamPanel();
+		//MakeParamPanel();
 		MakeLabels();
 		MakeButtons();
 		MakeQueryPanel();
@@ -88,7 +88,7 @@ public class HomeScreen {
 
 		HomePanel.add(descPanel, gbc);
 
-		gbc.insets = new Insets(50, 0, 50, 0);
+		gbc.insets = new Insets(50, 0, 0, 0);
 		gbc.gridx = 0;
 		gbc.gridy += 3;
 
@@ -109,58 +109,7 @@ public class HomeScreen {
 		return HomeFrame;
 	}
 
-	void MakeParamPanel() {
-		ParamPanel = new JPanel();
-		ParamPanel.setLayout(new GridBagLayout());
 
-		final JTextField paramField1 = new JTextField();
-		final JTextField paramField2 = new JTextField();
-		final JTextField paramField3 = new JTextField();
-
-		JLabel paramLabel1 = new JLabel("Field 1:", SwingConstants.LEFT);
-		JLabel paramLabel2 = new JLabel("Field 2:", SwingConstants.LEFT);
-		JLabel paramLabel3 = new JLabel("Field 3:", SwingConstants.LEFT);
-
-		paramLabel1.setPreferredSize(new Dimension(80, 20));
-		paramLabel2.setPreferredSize(new Dimension(80, 20));
-		paramLabel3.setPreferredSize(new Dimension(80, 20));
-
-		GridBagConstraints gbc = new GridBagConstraints();
-		gbc.gridx = 0;
-		gbc.gridy = 0;
-		gbc.fill = GridBagConstraints.HORIZONTAL;
-		gbc.anchor = GridBagConstraints.CENTER;
-
-		gbc.gridx = 0;
-
-		gbc.gridx = 0;
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 0, 10, 40);
-		ParamPanel.add(paramLabel1, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 0, 10, 40);
-
-		ParamPanel.add(paramField1, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 0, 10, 40);
-		ParamPanel.add(paramLabel2, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 0, 10, 40);
-		ParamPanel.add(paramField2, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 0, 10, 40);
-		ParamPanel.add(paramLabel3, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 0, 10, 40);
-		ParamPanel.add(paramField3, gbc);
-
-		ParamPanel.setBorder(BorderFactory.createStrokeBorder(new BasicStroke(5.0f)));
-	}
 
 	void GetForm(int currentQueryNumber) {
 		// FormPage q = new FormPage(currentQueryNumber, currentQueryString,
@@ -206,39 +155,39 @@ public class HomeScreen {
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		} else if (currentQueryNumber == 8) {
-			FormPage8 q = new FormPage8(currentQueryNumber, currentQueryString, con);
+			FormPage8 q = new FormPage8(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		} else if (currentQueryNumber == 9) {
-			FormPage9 q = new FormPage9(currentQueryNumber, currentQueryString, con);
+			FormPage9 q = new FormPage9(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		}
 
 		else if (currentQueryNumber == 10) {
-			FormPage10 q = new FormPage10(currentQueryNumber, currentQueryString, con);
+			FormPage10 q = new FormPage10(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		} else if (currentQueryNumber == 11) {
-			FormPage11 q = new FormPage11(currentQueryNumber, currentQueryString, con);
+			FormPage11 q = new FormPage11(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		} else if (currentQueryNumber == 12) {
-			FormPage12 q = new FormPage12(currentQueryNumber, currentQueryString, con);
+			FormPage12 q = new FormPage12(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		} else if (currentQueryNumber == 13) {
-			FormPage13 q = new FormPage13(currentQueryNumber, currentQueryString, con);
+			FormPage13 q = new FormPage13(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
 		} else if (currentQueryNumber == 14) {
-			FormPage14 q = new FormPage14(currentQueryNumber, currentQueryString, con);
+			FormPage14 q = new FormPage14(currentQueryNumber, con);
 			JFrame currentFrame = q.MakeForm();
 			HomeFrame.dispose();
 			currentFrame.setVisible(true);
@@ -338,14 +287,15 @@ public class HomeScreen {
 		JRadioButton query3 = new JRadioButton("3.Top n songs of a particular artist.");
 		JRadioButton query4 = new JRadioButton("4.Top n songs in US/Eur.");
 		JRadioButton query5 = new JRadioButton("5.Top n songs of a particular genre.");
-		JRadioButton query6 = new JRadioButton("6.Websites to find a particular product and the Owner Artist is "
-				+ " from a particular town");
+		JRadioButton query6 = new JRadioButton("6.Artists with a particular merchandise from your Hometown.");
 		JRadioButton query7 = new JRadioButton("7.Songs of a particular genre with size less than x mb.");
-		JRadioButton query8 = new JRadioButton("8.Top n artists of a particular year worldwide. ");
-		JRadioButton query9 = new JRadioButton("9.Top n artists of a particular year in US/UK.");
-		JRadioButton query10 = new JRadioButton("10.Top n songs grouped by genre.");
-		JRadioButton query11 = new JRadioButton("11.This is query 1 xxxxxxxxxxxxxxxxxxxxx     ");
-		JRadioButton query12 = new JRadioButton("12.This is query 1 xxxxxxxxxxxxxxxxxxxxx     ");
+		JRadioButton query8 = new JRadioButton("8.Artists with atleast one songs in either of 2 formats. ");
+		JRadioButton query9 = new JRadioButton("9.Genres with atleast x songs in it.");
+		JRadioButton query10 = new JRadioButton("10.Find greatest Hits of each decade.");
+		JRadioButton query11 = new JRadioButton("11.Genres having songs with rating more than x.");
+		JRadioButton query12 = new JRadioButton("12.Songs with rating greater than avg rating of all albums.");
+		JRadioButton query13 = new JRadioButton("13. Artists who have songs belonging to 2 genres.");
+		JRadioButton query14 = new JRadioButton("14. Artists who are performing within some date.");
 
 		ButtonGroup queryGroup = new ButtonGroup();
 
@@ -361,6 +311,8 @@ public class HomeScreen {
 		queryGroup.add(query10);
 		queryGroup.add(query11);
 		queryGroup.add(query12);
+		queryGroup.add(query13);
+		queryGroup.add(query14);
 
 		query1.setBackground((Color.DARK_GRAY));
 		query1.setForeground(Color.cyan);
@@ -387,6 +339,10 @@ public class HomeScreen {
 		query11.setForeground(Color.cyan);
 		query12.setBackground((Color.DARK_GRAY));
 		query12.setForeground(Color.cyan);
+		query13.setBackground((Color.DARK_GRAY));
+		query13.setForeground(Color.cyan);
+		query14.setBackground((Color.DARK_GRAY));
+		query14.setForeground(Color.cyan);
 
 		query1.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		query2.setFont(new Font("Century Gothic", Font.PLAIN, 12));
@@ -400,6 +356,8 @@ public class HomeScreen {
 		query10.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		query11.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		query12.setFont(new Font("Century Gothic", Font.PLAIN, 12));
+		query13.setFont(new Font("Century Gothic", Font.PLAIN, 12));
+		query14.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 
 		GridBagConstraints gbc = new GridBagConstraints();
 		gbc.gridx = 0;
@@ -407,7 +365,7 @@ public class HomeScreen {
 
 		gbc.fill = GridBagConstraints.HORIZONTAL;
 		gbc.anchor = GridBagConstraints.WEST;
-		gbc.insets = new Insets(20, 10, 10, 120);
+		gbc.insets = new Insets(20, 0, 10, 120);
 		QueryPanel.add(query1, gbc);
 
 		gbc.gridy++;
@@ -425,12 +383,12 @@ public class HomeScreen {
 		gbc.gridy++;
 		QueryPanel.add(query6, gbc);
 
-		gbc.gridx = 20;
-		gbc.gridy = 0;
-		gbc.insets = new Insets(20, 100, 10, 10);
+		gbc.gridy++;
 		QueryPanel.add(query7, gbc);
 
-		gbc.gridy++;
+		gbc.gridx = 20;
+		gbc.gridy = 0;
+		gbc.insets = new Insets(20, 30, 10, 10);
 		QueryPanel.add(query8, gbc);
 
 		gbc.gridy++;
@@ -444,6 +402,12 @@ public class HomeScreen {
 
 		gbc.gridy++;
 		QueryPanel.add(query12, gbc);
+
+		gbc.gridy++;
+		QueryPanel.add(query13, gbc);
+
+		gbc.gridy++;
+		QueryPanel.add(query14, gbc);
 
 		QueryPanel.setBackground(Color.DARK_GRAY);
 
@@ -546,7 +510,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query8.isSelected()) {
 					currentQueryNumber = 8;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -559,7 +522,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query9.isSelected()) {
 					currentQueryNumber = 9;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -572,7 +534,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query10.isSelected()) {
 					currentQueryNumber = 10;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -585,7 +546,6 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query11.isSelected()) {
 					currentQueryNumber = 11;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
 				}
 			}
 
@@ -598,7 +558,30 @@ public class HomeScreen {
 				// TODO Auto-generated method stub
 				if (query12.isSelected()) {
 					currentQueryNumber = 12;
-					currentQueryString = "SELECT * FROM musicorganizer.album where AlbumID=100;";
+				}
+			}
+
+		});
+
+		query13.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				if (query13.isSelected()) {
+					currentQueryNumber = 13;
+				}
+			}
+
+		});
+
+		query14.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				if (query14.isSelected()) {
+					currentQueryNumber = 14;
 				}
 			}
 

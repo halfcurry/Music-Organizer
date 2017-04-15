@@ -140,7 +140,7 @@ public class FormPage1 {
 	public String[][] RetrieveData( Integer n ) {
 		DataFetch d = new DataFetch();
 		System.out.println("Fetching data");
-		String s1 = "SELECT song.SongID,artist.ArtistName, song.SongName FROM performs join song ";
+		String s1 = "SELECT song.SongID,artist.ArtistName, song.SongName, song.SongScore FROM performs join song ";
 		String s2 = "join artist on performs.ArtistID = artist.ArtistID and performs.SongID = song.SongID ";
 		String s3 = "order by SongScore desc limit " + n + ";";
 		queryString = s1 + s2 + s3;
@@ -177,7 +177,7 @@ public class FormPage1 {
 
 	JPanel MakeDescription() {
 		JPanel DescPanel = new JPanel();
-		JLabel songLabel = new JLabel("Current Query : " + this.queryNumber, SwingConstants.CENTER);
+		JLabel songLabel = new JLabel("Current Query : 1. Top n songs of all time.", SwingConstants.CENTER);
 		songLabel.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		songLabel.setForeground(Color.cyan);
 		songLabel.setBackground((Color.DARK_GRAY));
@@ -248,11 +248,11 @@ public class FormPage1 {
 
 		gbc.gridx = 20;
 		gbc.insets = new Insets(10, 0, 10, 0);
-		ButtonsPanel.add(prevButton, gbc);
+	//	ButtonsPanel.add(prevButton, gbc);
 
 		gbc.gridx = 30;
 		gbc.insets = new Insets(10, 20, 10, 0);
-		ButtonsPanel.add(nextButton, gbc);
+		//ButtonsPanel.add(nextButton, gbc);
 
 		gbc.gridx = 40;
 		gbc.insets = new Insets(0, 250, 0, 0);

@@ -24,6 +24,8 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.table.DefaultTableModel;
 import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 public class FormPage13 {
 
@@ -35,13 +37,15 @@ public class FormPage13 {
 	JFrame FormFrame;
 	JPanel AggregatePanel;
 	JTable formTable;
+	JTextField paramField1;
+	JTextField paramField2;
 	int queryNumber;
 	String queryString;
 	Connection con;
 	DataFetch d;
 	DefaultTableModel resultTable;
 
-	public FormPage13(int qNo, String queryString, Connection con) {
+	public FormPage13(int qNo, Connection con) {
 		// System.out.println( "Hello");
 		FormPanel = new JPanel();
 		// resultTable = new DefaultTableModel();
@@ -60,36 +64,60 @@ public class FormPage13 {
 		FormFrame.setVisible(true);
 
 		this.queryNumber = qNo;
-		this.queryString = queryString;
+		// this.queryString = queryString;
 	}
 
 	void MakeParamPanel() {
 		ParamPanel = new JPanel();
 		ParamPanel.setLayout(new GridBagLayout());
 
-		final JTextField paramField1 = new JTextField();
-		final JTextField paramField2 = new JTextField();
-		final JTextField paramField3 = new JTextField();
-		final JTextField paramField4 = new JTextField();
+		JButton goButton = new JButton("Go");
+		goButton.setBackground(Color.DARK_GRAY);
+		goButton.setForeground(Color.CYAN);
+		goButton.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 
-		JLabel paramLabel1 = new JLabel("Field 1:", SwingConstants.LEFT);
-		JLabel paramLabel2 = new JLabel("Field 2:", SwingConstants.LEFT);
-		JLabel paramLabel3 = new JLabel("Field 3:", SwingConstants.LEFT);
-		JLabel paramLabel4 = new JLabel("Field 4:", SwingConstants.LEFT);
+		goButton.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+
+				String genre1 = paramField1.getText();
+				String genre2 = paramField2.getText();
+
+				String[][] dataMatrix = RetrieveData(genre1, genre2);
+
+				String[] columnNames = dataMatrix[dataMatrix.length - 1];
+				dataMatrix[dataMatrix.length - 1] = null;
+
+				resultTable = new DefaultTableModel(columnNames, 0);
+				resultTable.setRowCount(0);
+
+				for (String[] row : dataMatrix) {
+					resultTable.addRow(row);
+				}
+
+				dataMatrix = null;
+				formTable.setModel(resultTable);
+
+			}
+
+		});
+
+		paramField1 = new JTextField();
+		paramField2 = new JTextField();
+
+		JLabel paramLabel1 = new JLabel("Enter Genre1:", SwingConstants.LEFT);
+		JLabel paramLabel2 = new JLabel("Enter Genre2:", SwingConstants.LEFT);
 
 		paramLabel1.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		paramLabel1.setForeground(Color.cyan);
+
 		paramLabel2.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		paramLabel2.setForeground(Color.cyan);
-		paramLabel3.setFont(new Font("Century Gothic", Font.PLAIN, 12));
-		paramLabel3.setForeground(Color.cyan);
-		paramLabel4.setFont(new Font("Century Gothic", Font.PLAIN, 12));
-		paramLabel4.setForeground(Color.cyan);
 
 		paramLabel1.setPreferredSize(new Dimension(80, 20));
 		paramLabel2.setPreferredSize(new Dimension(80, 20));
-		paramLabel3.setPreferredSize(new Dimension(80, 20));
-		paramLabel4.setPreferredSize(new Dimension(80, 20));
 
 		GridBagConstraints gbc = new GridBagConstraints();
 		gbc.gridx = 0;
@@ -99,7 +127,6 @@ public class FormPage13 {
 
 		gbc.gridx = 0;
 
-		gbc.gridx = 0;
 		gbc.gridy++;
 		gbc.insets = new Insets(10, 60, 10, 40);
 		ParamPanel.add(paramLabel1, gbc);
@@ -109,6 +136,8 @@ public class FormPage13 {
 
 		ParamPanel.add(paramField1, gbc);
 
+	
+
 		gbc.gridy++;
 		gbc.insets = new Insets(10, 60, 10, 40);
 		ParamPanel.add(paramLabel2, gbc);
@@ -116,39 +145,36 @@ public class FormPage13 {
 		gbc.gridy++;
 		gbc.insets = new Insets(10, 60, 10, 40);
 		ParamPanel.add(paramField2, gbc);
-
+		
 		gbc.gridy++;
 		gbc.insets = new Insets(10, 60, 10, 40);
-		ParamPanel.add(paramLabel3, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
-		ParamPanel.add(paramField3, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
-		ParamPanel.add(paramLabel4, gbc);
-
-		gbc.gridy++;
-		gbc.insets = new Insets(10, 60, 10, 40);
-		ParamPanel.add(paramField4, gbc);
+		ParamPanel.add(goButton, gbc);
 
 		ParamPanel.setBorder(BorderFactory.createStrokeBorder(new BasicStroke(5.0f)));
 		ParamPanel.setBackground(Color.DARK_GRAY);
 
 	}
 
-	public String[][] RetrieveData() {
+	public String[][] RetrieveData( String genre1, String genre2 ) {
 		DataFetch d = new DataFetch();
 		System.out.println("Fetching data");
+		queryString = "SELECT distinct A1.ArtistName\n" + 
+				"FROM Genre G1 join BelongstoGenre B1 join song S1 join artist A1\n" + 
+				"where G1.GenreID = B1.GenreID and S1.SongID = B1.songID and S1.ArtistName = A1.ArtistName\n" + 
+				"and G1.GenreName = \"" + genre1 + "\" and A1.ArtistName in" + 
+				"(\n" + 
+				"SELECT A2.ArtistName\n" + 
+				"FROM Genre G2 join BelongstoGenre B2 join song S2 join artist A2\n" + 
+				"where G2.GenreID = B2.GenreID and S2.SongID = B2.songID and S2.ArtistName = A2.ArtistName\n" + 
+				"and G2.GenreName = \"" + genre2 + "\");";
+		System.out.println(queryString);
 		ArrayList<ArrayList<String>> dataArrayList = d.ReturnData(queryString, con);
 		String[][] dataMatrix = new String[dataArrayList.size()][];
 		for (int i = 0; i < dataArrayList.size(); i++) {
 			ArrayList<String> row = dataArrayList.get(i);
 			dataMatrix[i] = row.toArray(new String[row.size()]);
 		}
-		// System.out.println(dataArrayList);
-		// System.out.println(dataMatrix[0][1]);
+	
 		return dataMatrix;
 
 	}
@@ -157,34 +183,22 @@ public class FormPage13 {
 
 		TablePanel = new JPanel();
 		TablePanel.setLayout(new BorderLayout());
-		String[][] dataMatrix = RetrieveData();
 
-		String[] columnNames = dataMatrix[dataMatrix.length-1];
-		dataMatrix[dataMatrix.length-1] = null;
-		resultTable = new DefaultTableModel(columnNames, 0);
-		resultTable.setRowCount(0);
+		String[][] dataMatrix = null;
+		String[] columnNames = { "2", "2", "2" };
 
-		for (String[] row : dataMatrix) {
-			resultTable.addRow(row);
-		}
-
-		dataMatrix = null;
-
-		formTable = new JTable(resultTable);
-
+		formTable = new JTable();
 		formTable.setVisible(true);
 		JScrollPane tableContainer = new JScrollPane(formTable);
 		formTable.setFillsViewportHeight(true);
 		TablePanel.add(tableContainer, BorderLayout.CENTER);
 		TablePanel.setBackground(Color.DARK_GRAY);
 
-		// formTable.removeAll();
-
 	}
 
 	JPanel MakeDescription() {
 		JPanel DescPanel = new JPanel();
-		JLabel songLabel = new JLabel("Current Query : " + this.queryNumber, SwingConstants.CENTER);
+		JLabel songLabel = new JLabel("Current Query : 13. Artists who have songs belonging to 2 genres.", SwingConstants.CENTER);
 		songLabel.setFont(new Font("Century Gothic", Font.PLAIN, 12));
 		songLabel.setForeground(Color.cyan);
 		songLabel.setBackground((Color.DARK_GRAY));
@@ -255,11 +269,11 @@ public class FormPage13 {
 
 		gbc.gridx = 20;
 		gbc.insets = new Insets(10, 0, 10, 0);
-		ButtonsPanel.add(prevButton, gbc);
+	//	ButtonsPanel.add(prevButton, gbc);
 
 		gbc.gridx = 30;
 		gbc.insets = new Insets(10, 20, 10, 0);
-		ButtonsPanel.add(nextButton, gbc);
+		//ButtonsPanel.add(nextButton, gbc);
 
 		gbc.gridx = 40;
 		gbc.insets = new Insets(0, 250, 0, 0);
@@ -304,7 +318,6 @@ public class FormPage13 {
 		MakeButtons();
 		MakeLabels();
 		MakeParamPanel();
-		RetrieveData();
 		JPanel descPanel = MakeDescription();
 
 		GridBagConstraints gbc = new GridBagConstraints();
